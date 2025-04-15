@@ -1,0 +1,13 @@
+Fracture N° 93
+Date commande : 0014-07-19T14:43:34
+----------------------------------------------------------------------------------------
+Nom Client : Sengoku
+Adresse Client : Plaza Marineford, Marineford
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Badges decoratifs pour sacs    : 2        * 113.55          = 227.10 
+Chapeau de Fourrure de Mink    : 1        * 83.50           = 83.50 
+Lunettes de Loguetown          : 1        * 40.20           = 40.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 350.8
+Total avec taxe : 420.96

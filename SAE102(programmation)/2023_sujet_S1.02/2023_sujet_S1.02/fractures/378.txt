@@ -1,0 +1,11 @@
+Fracture N° 378
+Date commande : 0025-09-20T01:08:22
+----------------------------------------------------------------------------------------
+Nom Client : Koby
+Adresse Client : Village de Goa, Goa Kingdom
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Collier de l'Ordre Celeste     : 1        * 70.60           = 70.60 
+----------------------------------------------------------------------------------------
+Total hors taxe : 70.6
+Total avec taxe : 84.71999999999998

@@ -1,0 +1,12 @@
+Fracture N° 149
+Date commande : 0016-09-07T17:52:29
+----------------------------------------------------------------------------------------
+Nom Client : Roronoa Zoro
+Adresse Client : Dojo de Mihawk
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boussole du Fournisseur        : 1        * 76.50           = 76.50 
+T-shirt de Franky              : 4        * 68.95           = 275.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 352.3
+Total avec taxe : 422.76

@@ -1,0 +1,14 @@
+Fracture N° 41
+Date commande : 0011-10-25T08:26:11
+----------------------------------------------------------------------------------------
+Nom Client : Charlotte Linlin (Big Mom)
+Adresse Client : Salle du Trone, Whole Cake Chateau
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+T-shirt de Sogeking            : 1        * 68.75           = 68.75 
+Gilets de capitaine            : 7        * 45.95           = 321.65 
+T-shirt de Dressrosa           : 1        * 33.40           = 33.40 
+Eventail en Forme de Gateau    : 6        * 36.70           = 220.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 644.0
+Total avec taxe : 772.8

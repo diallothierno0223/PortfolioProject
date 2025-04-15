@@ -1,0 +1,12 @@
+Fracture N° 58
+Date commande : 0012-07-22T08:42:00
+----------------------------------------------------------------------------------------
+Nom Client : Bepo
+Adresse Client : Foret des Hommes-Poissons, Fish-Man Island
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Porte-cles Gouvernail en Laiton : 7        * 62.45           = 437.15 
+Boucles d'Oreilles de Zou      : 1        * 36.05           = 36.05 
+----------------------------------------------------------------------------------------
+Total hors taxe : 473.20000000000005
+Total avec taxe : 567.84

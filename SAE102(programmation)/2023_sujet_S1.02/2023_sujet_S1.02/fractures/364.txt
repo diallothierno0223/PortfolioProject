@@ -1,0 +1,11 @@
+Fracture N° 364
+Date commande : 0025-01-01T17:17:18
+----------------------------------------------------------------------------------------
+Nom Client : Koby
+Adresse Client : Village de Goa, Goa Kingdom
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boucles d'Oreilles de Zou      : 12       * 36.05           = 432.60 
+----------------------------------------------------------------------------------------
+Total hors taxe : 432.59999999999997
+Total avec taxe : 519.1199999999999

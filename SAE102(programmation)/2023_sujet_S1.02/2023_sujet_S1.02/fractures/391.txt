@@ -1,0 +1,12 @@
+Fracture N° 391
+Date commande : 0026-01-27T23:06:54
+----------------------------------------------------------------------------------------
+Nom Client : Diamante
+Adresse Client : Stade Corrida, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Armes de Cipher Pol            : 1        * 0.05            = 0.05 
+Boussoles enchantees           : 1        * 91.55           = 91.55 
+----------------------------------------------------------------------------------------
+Total hors taxe : 91.6
+Total avec taxe : 109.91999999999999

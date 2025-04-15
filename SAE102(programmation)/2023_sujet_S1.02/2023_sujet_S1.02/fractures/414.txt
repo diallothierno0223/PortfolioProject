@@ -1,0 +1,11 @@
+Fracture N° 414
+Date commande : 0026-11-24T11:48:42
+----------------------------------------------------------------------------------------
+Nom Client : Smoker
+Adresse Client : Quartier General de la Marine, G-5
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Masque de Norland              : 1        * 64.55           = 64.55 
+----------------------------------------------------------------------------------------
+Total hors taxe : 64.55
+Total avec taxe : 77.46

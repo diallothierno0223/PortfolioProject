@@ -1,0 +1,12 @@
+Fracture N° 238
+Date commande : 0020-02-19T06:41:19
+----------------------------------------------------------------------------------------
+Nom Client : Kanjuro
+Adresse Client : Foret de Kanjuro, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Livre de la Foret des Bulles   : 1        * 65.80           = 65.80 
+T-shirt du Fruit du Demon      : 3        * 52.15           = 156.45 
+----------------------------------------------------------------------------------------
+Total hors taxe : 222.25
+Total avec taxe : 266.7

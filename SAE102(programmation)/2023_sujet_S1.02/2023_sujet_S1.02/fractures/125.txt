@@ -1,0 +1,14 @@
+Fracture N° 125
+Date commande : 0015-09-29T05:05:34
+----------------------------------------------------------------------------------------
+Nom Client : Nami
+Adresse Client : Rue des Cartographes, Oranje
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Poupees de pirates en peluche  : 10       * 56.05           = 560.50 
+Boucles d'oreilles de perles noires : 1        * 0.05            = 0.05 
+Anciens sextants de navigation : 1        * 25.80           = 25.80 
+Katana Shusui                  : 1        * 66.15           = 66.15 
+----------------------------------------------------------------------------------------
+Total hors taxe : 652.4999999999999
+Total avec taxe : 782.9999999999999

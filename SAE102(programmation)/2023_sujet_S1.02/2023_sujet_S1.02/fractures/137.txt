@@ -1,0 +1,14 @@
+Fracture N° 137
+Date commande : 0016-03-14T03:25:26
+----------------------------------------------------------------------------------------
+Nom Client : Kozuki Oden
+Adresse Client : Chateau Oden, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bouclier de Barreaux           : 7        * 66.85           = 467.95 
+Figurines de legendaires pirates : 1        * 55.45           = 55.45 
+Gants du Colisee Corrida       : 1        * 63.95           = 63.95 
+Statuette de Riku Doldo III    : 1        * 65.55           = 65.55 
+----------------------------------------------------------------------------------------
+Total hors taxe : 652.9
+Total avec taxe : 783.4799999999999

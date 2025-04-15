@@ -1,0 +1,11 @@
+Fracture N° 313
+Date commande : 0022-11-05T01:31:08
+----------------------------------------------------------------------------------------
+Nom Client : Kawamatsu
+Adresse Client : Riviere Kawamatsu, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boussole du Fournisseur        : 1        * 76.50           = 76.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 76.5
+Total avec taxe : 91.8

@@ -1,0 +1,15 @@
+Fracture N° 209
+Date commande : 0018-09-11T15:44:53
+----------------------------------------------------------------------------------------
+Nom Client : Igaram
+Adresse Client : Rue des Marchands, Alubarna
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Drapeaux de Jolly Roger authentiques : 1        * 74.05           = 74.05 
+Bague des Dragons Celestes     : 1        * 52.80           = 52.80 
+Bouclier du Fournisseur        : 1        * 66.40           = 66.40 
+Figurines de legendaires pirates : 1        * 60.15           = 60.15 
+Armes de Cipher Pol            : 1        * 0.05            = 0.05 
+----------------------------------------------------------------------------------------
+Total hors taxe : 253.45000000000002
+Total avec taxe : 304.14

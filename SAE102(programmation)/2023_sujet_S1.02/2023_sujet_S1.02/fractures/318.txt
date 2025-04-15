@@ -1,0 +1,15 @@
+Fracture N° 318
+Date commande : 0023-01-24T05:06:01
+----------------------------------------------------------------------------------------
+Nom Client : Marshall D. Teach (Barbe Noire)
+Adresse Client : Foret de Fuschia, Fuschia
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bouclier de Barreaux           : 8        * 66.85           = 534.80 
+Boucle de ceinturon tete de mort : 5        * 90.45           = 452.25 
+Chapeau de Fourrure de Mink    : 7        * 83.50           = 584.50 
+Canon Buster Call              : 1        * 78.65           = 78.65 
+Figurines des Ombres           : 11       * 98.25           = 1080.75 
+----------------------------------------------------------------------------------------
+Total hors taxe : 2730.95
+Total avec taxe : 3277.14

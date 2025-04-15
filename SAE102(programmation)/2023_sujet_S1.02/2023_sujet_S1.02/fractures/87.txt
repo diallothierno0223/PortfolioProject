@@ -1,0 +1,12 @@
+Fracture N° 87
+Date commande : 0014-04-02T06:50:00
+----------------------------------------------------------------------------------------
+Nom Client : Portgas D. Ace
+Adresse Client : Port de Fuschia
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Sac de Sabaody                 : 1        * 46.85           = 46.85 
+Bouteilles de parfum au sillage marin : 1        * 28.40           = 28.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 75.25
+Total avec taxe : 90.3

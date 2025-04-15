@@ -1,0 +1,13 @@
+Fracture N° 210
+Date commande : 0018-10-17T13:28:25
+----------------------------------------------------------------------------------------
+Nom Client : Gladius
+Adresse Client : Plateau de Dressrosa, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Colliers avec des dents de requin : 6        * 41.40           = 248.40 
+Poupees de pirates en peluche  : 1        * 48.45           = 48.45 
+Replique du Pluton             : 2        * 40.90           = 81.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 378.65
+Total avec taxe : 454.37999999999994

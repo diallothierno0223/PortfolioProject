@@ -1,0 +1,14 @@
+# ------------------------------------------------------------------------------
+# Listing des reference 
+# 
+#     - Version      : CVXXII
+#     - Owner        : Grand Line Discount
+#     - Dernière Maj : 0028-10-14T23:59:59 ap. Gold Roger
+#
+# Format :
+#     - col 0 : RefID     (identifiant unique de la reference produit),
+#     - col 1 : RefCat    (reference catalogue),
+#     - col 2 : Supplier  (nom du fournisseur),
+#     - col 3 : RefName   (nom du produit),
+#     - col 4 : RefPrice  (prix unitaire hors taxes (HT) du produit).
+# ------------------------------------------------------------------------------

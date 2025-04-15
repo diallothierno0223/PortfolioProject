@@ -1,0 +1,14 @@
+Fracture N° 449
+Date commande : 0028-03-18T17:36:06
+----------------------------------------------------------------------------------------
+Nom Client : X Drake
+Adresse Client : Quartier des Surveillants, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Statuette de Riku Doldo III    : 1        * 65.55           = 65.55 
+Modele de Navire de Guerre Buster Call : 14       * 37.80           = 529.20 
+Boucles d'Oreilles de Zou      : 8        * 36.05           = 288.40 
+Manteau de l'Amiral            : 7        * 23.40           = 163.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1046.9499999999998
+Total avec taxe : 1256.3399999999997

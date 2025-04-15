@@ -1,0 +1,11 @@
+Fracture N° 409
+Date commande : 0026-10-14T23:23:40
+----------------------------------------------------------------------------------------
+Nom Client : Fujitora
+Adresse Client : Plateau Royal, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Collier du Voile               : 1        * 70.90           = 70.90 
+----------------------------------------------------------------------------------------
+Total hors taxe : 70.9
+Total avec taxe : 85.08

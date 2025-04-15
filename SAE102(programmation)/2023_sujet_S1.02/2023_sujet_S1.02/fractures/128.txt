@@ -1,0 +1,12 @@
+Fracture N° 128
+Date commande : 0015-11-14T06:42:44
+----------------------------------------------------------------------------------------
+Nom Client : Denjiro
+Adresse Client : Rue des Artisans, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Sabre de l'Equipage d'Or       : 1        * 28.20           = 28.20 
+Armes du Fournisseur           : 1        * 50.40           = 50.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 78.6
+Total avec taxe : 94.32

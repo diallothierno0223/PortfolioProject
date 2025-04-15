@@ -1,0 +1,12 @@
+Fracture N° 269
+Date commande : 0020-12-19T01:17:35
+----------------------------------------------------------------------------------------
+Nom Client : Caesar Clown
+Adresse Client : Laboratoire de Caesar, Punk Hazard
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Drapeaux de Jolly Roger authentiques : 1        * 74.05           = 74.05 
+Patisserie des Iles Caramel    : 1        * 43.35           = 43.35 
+----------------------------------------------------------------------------------------
+Total hors taxe : 117.4
+Total avec taxe : 140.88

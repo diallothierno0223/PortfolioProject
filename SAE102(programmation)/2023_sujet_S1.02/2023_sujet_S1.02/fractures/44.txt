@@ -1,0 +1,14 @@
+Fracture N° 44
+Date commande : 0012-01-01T17:08:51
+----------------------------------------------------------------------------------------
+Nom Client : Katakuri
+Adresse Client : Boutique de Patisserie, Whole Cake Island
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Cape de Cipher Pol             : 1        * 48.85           = 48.85 
+Tapis de Souris Gouvernail     : 1        * 59.30           = 59.30 
+Briquets a l'effigie de pirates : 1        * 72.75           = 72.75 
+Eventail en Forme de Gateau    : 1        * 36.70           = 36.70 
+----------------------------------------------------------------------------------------
+Total hors taxe : 217.60000000000002
+Total avec taxe : 261.12

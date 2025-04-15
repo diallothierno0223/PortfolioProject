@@ -1,0 +1,15 @@
+Fracture N° 13
+Date commande : 0010-07-28T12:31:01
+----------------------------------------------------------------------------------------
+Nom Client : Jewelry Bonney
+Adresse Client : Auberge de la Sirene, Oranje
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boucles d'oreilles de perles noires : 1        * 0.05            = 0.05 
+Chapeau de Soleil de Sabaody   : 1        * 46.10           = 46.10 
+Gateau du Fruit du Demon       : 8        * 65.85           = 526.80 
+Epee du Ciel                   : 1        * 12.05           = 12.05 
+T-shirt des Charpentiers de Water Seven : 1        * 20.60           = 20.60 
+----------------------------------------------------------------------------------------
+Total hors taxe : 605.5999999999999
+Total avec taxe : 726.7199999999999

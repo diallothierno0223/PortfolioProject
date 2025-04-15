@@ -1,0 +1,11 @@
+Fracture N° 460
+Date commande : 0028-07-23T03:03:32
+----------------------------------------------------------------------------------------
+Nom Client : Nekomamushi
+Adresse Client : Mont Nekomamushi, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Collier du Joker               : 5        * 26.05           = 130.25 
+----------------------------------------------------------------------------------------
+Total hors taxe : 130.25
+Total avec taxe : 156.29999999999998

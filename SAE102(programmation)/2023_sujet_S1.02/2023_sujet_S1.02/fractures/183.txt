@@ -1,0 +1,11 @@
+Fracture N° 183
+Date commande : 0017-12-31T16:39:32
+----------------------------------------------------------------------------------------
+Nom Client : Fujitora
+Adresse Client : Plateau Royal, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Maquette du Thousand Sunny     : 1        * 50.55           = 50.55 
+----------------------------------------------------------------------------------------
+Total hors taxe : 50.55
+Total avec taxe : 60.66

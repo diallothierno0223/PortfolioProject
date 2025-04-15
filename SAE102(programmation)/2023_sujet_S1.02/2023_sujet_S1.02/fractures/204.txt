@@ -1,0 +1,15 @@
+Fracture N° 204
+Date commande : 0018-06-13T21:09:38
+----------------------------------------------------------------------------------------
+Nom Client : Tsuru
+Adresse Client : Quartier General de la Marine, Marineford
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Chapeau de Fourrure de Mink    : 4        * 83.50           = 334.00 
+Gilets de capitaine            : 1        * 45.95           = 45.95 
+Cape de Cipher Pol             : 8        * 48.85           = 390.80 
+Montre de Compteur Davy Back   : 1        * 58.60           = 58.60 
+T-shirt de Wano                : 1        * 70.30           = 70.30 
+----------------------------------------------------------------------------------------
+Total hors taxe : 899.65
+Total avec taxe : 1079.58

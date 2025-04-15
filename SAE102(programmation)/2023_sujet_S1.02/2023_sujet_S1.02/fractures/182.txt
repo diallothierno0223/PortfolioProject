@@ -1,0 +1,12 @@
+Fracture N° 182
+Date commande : 0017-12-26T20:41:32
+----------------------------------------------------------------------------------------
+Nom Client : Katakuri
+Adresse Client : Boutique de Patisserie, Whole Cake Island
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bijoux du Ciel                 : 1        * 33.95           = 33.95 
+Sac a Dos de Sogeking          : 1        * 93.25           = 93.25 
+----------------------------------------------------------------------------------------
+Total hors taxe : 127.2
+Total avec taxe : 152.64

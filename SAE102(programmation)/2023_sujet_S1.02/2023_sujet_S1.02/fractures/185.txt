@@ -1,0 +1,12 @@
+Fracture N° 185
+Date commande : 0018-01-07T05:35:34
+----------------------------------------------------------------------------------------
+Nom Client : Igaram
+Adresse Client : Rue des Marchands, Alubarna
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Statuette de Luffy             : 1        * 7.70            = 7.70 
+Colliers avec des dents de requin : 1        * 41.40           = 41.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 49.1
+Total avec taxe : 58.92

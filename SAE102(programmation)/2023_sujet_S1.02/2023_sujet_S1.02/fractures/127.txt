@@ -1,0 +1,14 @@
+Fracture N° 127
+Date commande : 0015-11-09T16:58:18
+----------------------------------------------------------------------------------------
+Nom Client : Ryokugyu
+Adresse Client : Quartier des Equipages, Onigashima
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Fruit du Demon Mera Mera       : 2        * 65.40           = 130.80 
+Collier du Voile               : 3        * 70.90           = 212.70 
+Boucles d'Oreilles de Zou      : 2        * 36.05           = 72.10 
+Tablette d'Histoire Antique    : 5        * 12.35           = 61.75 
+----------------------------------------------------------------------------------------
+Total hors taxe : 477.35
+Total avec taxe : 572.82

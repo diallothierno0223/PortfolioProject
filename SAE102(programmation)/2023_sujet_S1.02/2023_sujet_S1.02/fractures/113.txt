@@ -1,0 +1,11 @@
+Fracture N° 113
+Date commande : 0015-05-31T08:02:30
+----------------------------------------------------------------------------------------
+Nom Client : Vinsmoke Sanji
+Adresse Client : Restaurant Baratie, All Blue Market
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Dagues de capitaine            : 3        * 21.95           = 65.85 
+----------------------------------------------------------------------------------------
+Total hors taxe : 65.85
+Total avec taxe : 79.02

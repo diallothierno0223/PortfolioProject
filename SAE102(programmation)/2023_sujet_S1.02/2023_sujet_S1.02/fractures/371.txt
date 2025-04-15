@@ -1,0 +1,13 @@
+Fracture N° 371
+Date commande : 0025-06-14T13:04:53
+----------------------------------------------------------------------------------------
+Nom Client : Rob Lucci
+Adresse Client : Quartiers Generaux du CP9, Enies Lobby
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Pendentif de Thriller Bark     : 1        * 85.15           = 85.15 
+Tablette d'Histoire Antique    : 4        * 12.35           = 49.40 
+Veste de Capitaine du Voile    : 15       * 17.70           = 265.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 400.05
+Total avec taxe : 480.06

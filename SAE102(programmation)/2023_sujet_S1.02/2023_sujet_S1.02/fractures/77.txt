@@ -1,0 +1,12 @@
+Fracture N° 77
+Date commande : 0013-07-29T07:37:20
+----------------------------------------------------------------------------------------
+Nom Client : Vista
+Adresse Client : Jardins de Merveille, Merveille
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bouclier de Justice            : 8        * 63.05           = 504.40 
+Veste de Capitaine du Voile    : 2        * 17.70           = 35.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 539.8
+Total avec taxe : 647.7599999999999

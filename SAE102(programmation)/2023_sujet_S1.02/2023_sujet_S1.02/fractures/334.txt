@@ -1,0 +1,14 @@
+Fracture N° 334
+Date commande : 0023-09-18T02:50:31
+----------------------------------------------------------------------------------------
+Nom Client : Franky
+Adresse Client : Franky House, Water 7
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Tresor d'Or en Boite           : 3        * 71.40           = 214.20 
+Telescopes a vision nocturne   : 8        * 19.40           = 155.20 
+Masque de Sogeking             : 3        * 0.05            = 0.15 
+Robe de Sabaody                : 1        * 53.30           = 53.30 
+----------------------------------------------------------------------------------------
+Total hors taxe : 422.84999999999997
+Total avec taxe : 507.41999999999996

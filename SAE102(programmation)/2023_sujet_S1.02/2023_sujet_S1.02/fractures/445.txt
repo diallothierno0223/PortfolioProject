@@ -1,0 +1,14 @@
+Fracture N° 445
+Date commande : 0028-02-21T14:11:58
+----------------------------------------------------------------------------------------
+Nom Client : Marshall D. Teach (Barbe Noire)
+Adresse Client : Foret de Fuschia, Fuschia
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Livre de la Foret des Bulles   : 1        * 65.80           = 65.80 
+Collier du Joker               : 1        * 26.05           = 26.05 
+Maquette du Siecle Oublie      : 3        * 56.00           = 168.00 
+Figurines de legendaires pirates : 1        * 55.45           = 55.45 
+----------------------------------------------------------------------------------------
+Total hors taxe : 315.3
+Total avec taxe : 378.36

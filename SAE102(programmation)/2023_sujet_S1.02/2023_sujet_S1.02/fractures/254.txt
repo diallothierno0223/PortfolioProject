@@ -1,0 +1,15 @@
+Fracture N° 254
+Date commande : 0020-07-29T07:36:12
+----------------------------------------------------------------------------------------
+Nom Client : Monet
+Adresse Client : Jardin Gele, Punk Hazard
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Cristal du Siecle Oublie       : 1        * 63.75           = 63.75 
+Chapeaux de pirate en cuir     : 1        * 18.10           = 18.10 
+Bouclier du Colisee Corrida    : 1        * 14.95           = 14.95 
+Services de table nautiques    : 1        * 44.30           = 44.30 
+Masque de Demon de l'Enfer     : 3        * 98.60           = 295.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 436.9
+Total avec taxe : 524.28

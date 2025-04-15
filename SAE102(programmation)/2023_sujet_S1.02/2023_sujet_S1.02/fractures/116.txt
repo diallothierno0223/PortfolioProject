@@ -1,0 +1,12 @@
+Fracture N° 116
+Date commande : 0015-07-25T05:58:02
+----------------------------------------------------------------------------------------
+Nom Client : Rebecca
+Adresse Client : Colisee de Dressrosa, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+T-shirt de Impel Down          : 3        * 21.30           = 63.90 
+Cristal du Siecle Oublie       : 1        * 63.75           = 63.75 
+----------------------------------------------------------------------------------------
+Total hors taxe : 127.65
+Total avec taxe : 153.18

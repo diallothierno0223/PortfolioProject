@@ -1,0 +1,13 @@
+Fracture N° 211
+Date commande : 0018-10-23T21:26:39
+----------------------------------------------------------------------------------------
+Nom Client : Sir Crocodile
+Adresse Client : Coeur du Desert, Alubarna
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Manteau de l'Amiral            : 1        * 23.40           = 23.40 
+Cristal du Siecle Oublie       : 4        * 63.75           = 255.00 
+Medaillon du Siecle Oublie     : 7        * 43.60           = 305.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 583.5999999999999
+Total avec taxe : 700.3199999999998

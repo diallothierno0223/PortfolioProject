@@ -1,0 +1,14 @@
+Fracture N° 283
+Date commande : 0021-07-28T03:07:17
+----------------------------------------------------------------------------------------
+Nom Client : Enel
+Adresse Client : Arche Maxim, Upper Yard
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Katana Enma                    : 5        * 71.65           = 358.25 
+T-shirt des Charpentiers de Water Seven : 4        * 20.60           = 82.40 
+Epees forgees en acier marine  : 1        * 44.55           = 44.55 
+Figurines de legendaires pirates : 6        * 60.15           = 360.90 
+----------------------------------------------------------------------------------------
+Total hors taxe : 846.0999999999999
+Total avec taxe : 1015.3199999999998

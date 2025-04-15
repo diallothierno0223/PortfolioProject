@@ -1,0 +1,15 @@
+Fracture N° 147
+Date commande : 0016-08-29T06:11:29
+----------------------------------------------------------------------------------------
+Nom Client : Duval
+Adresse Client : Grove 42, Sabaody
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bouclier du Colisee Corrida    : 1        * 14.95           = 14.95 
+Tapisserie des Anciens         : 1        * 32.50           = 32.50 
+Armes du Fournisseur           : 3        * 50.40           = 151.20 
+Poupees de pirates en peluche  : 3        * 48.45           = 145.35 
+Bouteilles de parfum au sillage marin : 1        * 28.40           = 28.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 372.4
+Total avec taxe : 446.87999999999994

@@ -1,0 +1,200 @@
+0   ; BCP_1987  ; Boutique du Chapeau de Paille ; Casquette de Luffy                         ; 74.60 
+1   ; BCP_8155  ; Boutique du Chapeau de Paille ; T-shirt de Luffy                           ; 108.15
+2   ; BCP_4568  ; Boutique du Chapeau de Paille ; Drapeau de l'Equipage du Chapeau de Paille ; 74.90 
+3   ; BCP_2558  ; Boutique du Chapeau de Paille ; Statuette de Luffy                         ; 7.70  
+4   ; BCP_8140  ; Boutique du Chapeau de Paille ; Boussole du Chapeau de Paille              ; 45.85 
+5   ; EBO_6303  ; Echoppe de Barbe d'Or         ; Sabre de l'Equipage d'Or                   ; 28.20 
+6   ; EBO_9837  ; Echoppe de Barbe d'Or         ; Boussole Doree                             ; 38.05 
+7   ; EBO_9128  ; Echoppe de Barbe d'Or         ; Chapeau de Capitaine Noir                  ; 72.75 
+8   ; EBO_1762  ; Echoppe de Barbe d'Or         ; Tresor d'Or en Boite                       ; 71.40 
+9   ; EBO_5068  ; Echoppe de Barbe d'Or         ; Pendentif Demon d'Or                       ; 21.80 
+10  ; AS_3921   ; Atelier du Sunny              ; Montre de Pluton                           ; 83.75 
+11  ; AS_9528   ; Atelier du Sunny              ; Tasse Thousand Sunny                       ; 71.15 
+12  ; AS_7056   ; Atelier du Sunny              ; Modele de Vogue Merry                      ; 38.30 
+13  ; AS_2942   ; Atelier du Sunny              ; Drapeau de l'Equipage du Chapeau de Paille ; 47.15 
+14  ; AS_2708   ; Atelier du Sunny              ; Coffret a Tresor du Sunny                  ; 45.20 
+15  ; FZ_6684   ; Forge de Zorro                ; Epee Sandai Kitetsu                        ; 64.65 
+16  ; FZ_1028   ; Forge de Zorro                ; Katana Shusui                              ; 66.15 
+17  ; FZ_9899   ; Forge de Zorro                ; Wado Ichimonji                             ; 35.50 
+18  ; FZ_1559   ; Forge de Zorro                ; Gravure de Sandai Kitetsu                  ; 63.20 
+19  ; FZ_4650   ; Forge de Zorro                ; Fourreau en Cuir de Ryuma                  ; 72.45 
+20  ; AFD_4402  ; Atelier du Fruit du Demon     ; Fruit du Demon Gomu Gomu                   ; 71.90 
+21  ; AFD_8490  ; Atelier du Fruit du Demon     ; Fruit du Demon Mera Mera                   ; 65.40 
+22  ; AFD_6506  ; Atelier du Fruit du Demon     ; Fruit du Demon Hie Hie                     ; 60.00 
+23  ; AFD_5731  ; Atelier du Fruit du Demon     ; Fruit du Demon Bara Bara                   ; 48.30 
+24  ; AFD_4407  ; Atelier du Fruit du Demon     ; Fruit du Demon Gura Gura                   ; 54.50 
+25  ; TV_749    ; Tisserand du Voile            ; Veste de Capitaine du Voile                ; 17.70 
+26  ; TV_4609   ; Tisserand du Voile            ; Drapeau du Voile                           ; 4.75  
+27  ; TV_5490   ; Tisserand du Voile            ; Boussole du Voile                          ; 37.75 
+28  ; TV_5433   ; Tisserand du Voile            ; Tapisserie Equipage du Voile               ; 64.05 
+29  ; TV_2150   ; Tisserand du Voile            ; Collier du Voile                           ; 70.90 
+30  ; ABC_1321  ; Armurerie du Buster Call      ; Canon Buster Call                          ; 78.65 
+31  ; ABC_9378  ; Armurerie du Buster Call      ; Epee Buster Call                           ; 0.05  
+32  ; ABC_7713  ; Armurerie du Buster Call      ; Bouclier de Justice                        ; 63.05 
+33  ; ABC_7228  ; Armurerie du Buster Call      ; Manteau de l'Amiral                        ; 23.40 
+34  ; ABC_5330  ; Armurerie du Buster Call      ; Modele de Navire de Guerre Buster Call     ; 37.80 
+35  ; CG_7653   ; Corderie du Gouvernail        ; Gants de Gouvernail en Cuir                ; 90.30 
+36  ; CG_5361   ; Corderie du Gouvernail        ; Sac a Dos du Gouvernail                    ; 0.05  
+37  ; CG_9258   ; Corderie du Gouvernail        ; Porte-cles Gouvernail en Laiton            ; 62.45 
+38  ; CG_1141   ; Corderie du Gouvernail        ; Tapis de Souris Gouvernail                 ; 59.30 
+39  ; CG_9565   ; Corderie du Gouvernail        ; Boucles d'Oreilles de Gouvernail           ; 54.50 
+40  ; BDB_153   ; Boutique du Davy Back         ; Montre de Compteur Davy Back               ; 58.60 
+41  ; BDB_9886  ; Boutique du Davy Back         ; Drapeau du Davy Back                       ; 38.20 
+42  ; BDB_5417  ; Boutique du Davy Back         ; Jeux de Societe Davy Back                  ; 78.20 
+43  ; BDB_8352  ; Boutique du Davy Back         ; Boussole Davy Back                         ; 61.15 
+44  ; BDB_1141  ; Boutique du Davy Back         ; Bouclier de Defi Davy Back                 ; 26.95 
+45  ; LQF_2813  ; La Quincaillerie de Franky    ; Bras Cyborg de Franky                      ; 10.30 
+46  ; LQF_7445  ; La Quincaillerie de Franky    ; Lunettes de Vision X-Round                 ; 26.20 
+47  ; LQF_1550  ; La Quincaillerie de Franky    ; T-shirt de Franky                          ; 68.95 
+48  ; LQF_7788  ; La Quincaillerie de Franky    ; Boussole a Energie Solaire de Franky       ; 58.30 
+49  ; LQF_622   ; La Quincaillerie de Franky    ; Gants en Metal de Franky                   ; 25.50 
+50  ; BDC_7728  ; Bijouterie du Dragon Celeste  ; Collier de l'Ordre Celeste                 ; 70.60 
+51  ; BDC_7587  ; Bijouterie du Dragon Celeste  ; Bague des Dragons Celestes                 ; 52.80 
+52  ; BDC_3742  ; Bijouterie du Dragon Celeste  ; Sceptre du Monde Celeste                   ; 29.00 
+53  ; BDC_4671  ; Bijouterie du Dragon Celeste  ; Pendentif des Dragons Celestes             ; 60.70 
+54  ; BDC_5960  ; Bijouterie du Dragon Celeste  ; Bracelet de l'Ordre Celeste                ; 37.55 
+55  ; CNWS_3427 ; Chantier Naval de Water Seven ; Replique du Pluton                         ; 40.90 
+56  ; CNWS_652  ; Chantier Naval de Water Seven ; Maquette du Thousand Sunny                 ; 50.55 
+57  ; CNWS_2843 ; Chantier Naval de Water Seven ; Boussole Aqua Laguna                       ; 22.40 
+58  ; CNWS_8671 ; Chantier Naval de Water Seven ; T-shirt des Charpentiers de Water Seven    ; 20.60 
+59  ; CNWS_1329 ; Chantier Naval de Water Seven ; Cafetiere de Water Seven                   ; 64.65 
+60  ; AS_7933   ; Atelier de Sogeking           ; Lunettes de Sogeking                       ; 67.15 
+61  ; AS_6418   ; Atelier de Sogeking           ; Masque de Sogeking                         ; 0.05  
+62  ; AS_8460   ; Atelier de Sogeking           ; Sac a Dos de Sogeking                      ; 93.25 
+63  ; AS_4470   ; Atelier de Sogeking           ; Drapeau de Sogeking                        ; 29.20 
+64  ; AS_7499   ; Atelier de Sogeking           ; T-shirt de Sogeking                        ; 68.75 
+65  ; FC_1282   ; Fourreau du Ciel              ; Epee du Ciel                               ; 12.05 
+66  ; FC_9222   ; Fourreau du Ciel              ; Cape du Ciel                               ; 112.00
+67  ; FC_3819   ; Fourreau du Ciel              ; Drapeau du Ciel                            ; 8.70  
+68  ; FC_9472   ; Fourreau du Ciel              ; Boussole du Ciel                           ; 96.05 
+69  ; FC_6470   ; Fourreau du Ciel              ; Bijoux du Ciel                             ; 33.95 
+70  ; AS_3661   ; Antiquites de Shandora        ; Masque de Norland                          ; 64.55 
+71  ; AS_9561   ; Antiquites de Shandora        ; Statuette en Or                            ; 57.90 
+72  ; AS_7806   ; Antiquites de Shandora        ; Tablette d'Histoire Antique                ; 12.35 
+73  ; AS_4640   ; Antiquites de Shandora        ; Tapisserie des Anciens                     ; 32.50 
+74  ; AS_6984   ; Antiquites de Shandora        ; Boussole de Shandora                       ; 98.95 
+75  ; BCC_6068  ; Boutique du Colisee Corrida   ; Bouclier du Colisee Corrida                ; 14.95 
+76  ; BCC_7672  ; Boutique du Colisee Corrida   ; Lance du Colisee Corrida                   ; 16.25 
+77  ; BCC_1551  ; Boutique du Colisee Corrida   ; Casque du Colisee Corrida                  ; 98.65 
+78  ; BCC_6408  ; Boutique du Colisee Corrida   ; Gants du Colisee Corrida                   ; 63.95 
+79  ; BCC_2126  ; Boutique du Colisee Corrida   ; Tunique du Colisee Corrida                 ; 15.60 
+80  ; TS_9170   ; Tissage de Sabaody            ; Chapeau de Soleil de Sabaody               ; 46.10 
+81  ; TS_9944   ; Tissage de Sabaody            ; Sac de Sabaody                             ; 46.85 
+82  ; TS_6910   ; Tissage de Sabaody            ; Collier de Sabaody                         ; 44.50 
+83  ; TS_4059   ; Tissage de Sabaody            ; Tapis de Plage de Sabaody                  ; 82.85 
+84  ; TS_8429   ; Tissage de Sabaody            ; Robe de Sabaody                            ; 53.30 
+85  ; LPWC_7287 ; La Patisserie de Whole Cake   ; Gateau du Roi des Pirates                  ; 24.95 
+86  ; LPWC_7569 ; La Patisserie de Whole Cake   ; Biscuits Homies                            ; 9.55  
+87  ; LPWC_4730 ; La Patisserie de Whole Cake   ; Bonbons de Big Mom                         ; 30.80 
+88  ; LPWC_1313 ; La Patisserie de Whole Cake   ; Patisserie des Iles Caramel                ; 43.35 
+89  ; LPWC_252  ; La Patisserie de Whole Cake   ; Eventail en Forme de Gateau                ; 36.70 
+90  ; FFA_7149  ; Forge du Fournisseur d'Armes  ; Armes du Fournisseur                       ; 50.40 
+91  ; FFA_5030  ; Forge du Fournisseur d'Armes  ; T-shirt du Fournisseur                     ; 61.20 
+92  ; FFA_7878  ; Forge du Fournisseur d'Armes  ; Boussole du Fournisseur                    ; 76.50 
+93  ; FFA_7279  ; Forge du Fournisseur d'Armes  ; Bouclier du Fournisseur                    ; 66.40 
+94  ; FFA_2700  ; Forge du Fournisseur d'Armes  ; Sac a Dos du Fournisseur                   ; 36.15 
+95  ; BL_803    ; Boutique de Loguetown         ; Lunettes de Loguetown                      ; 40.20 
+96  ; BL_2461   ; Boutique de Loguetown         ; Chapeau de Loguetown                       ; 66.90 
+97  ; BL_23     ; Boutique de Loguetown         ; Tapis de Loguetown                         ; 28.80 
+98  ; BL_67     ; Boutique de Loguetown         ; Boussole de Loguetown                      ; 75.00 
+99  ; BL_8509   ; Boutique de Loguetown         ; T-shirt de Loguetown                       ; 8.60  
+100 ; ACP_9364  ; Atelier de Cipher Pol         ; Armes de Cipher Pol                        ; 0.05  
+101 ; ACP_5325  ; Atelier de Cipher Pol         ; Gants de Cipher Pol                        ; 36.45 
+102 ; ACP_766   ; Atelier de Cipher Pol         ; Boussole de Cipher Pol                     ; 32.45 
+103 ; ACP_1706  ; Atelier de Cipher Pol         ; Cape de Cipher Pol                         ; 48.85 
+104 ; ACP_3005  ; Atelier de Cipher Pol         ; Sac a Dos de Cipher Pol                    ; 38.25 
+105 ; JJ_7915   ; Joaillerie du Joker           ; Collier du Joker                           ; 26.05 
+106 ; JJ_8709   ; Joaillerie du Joker           ; Bague du Joker                             ; 36.80 
+107 ; JJ_6410   ; Joaillerie du Joker           ; Bracelet du Joker                          ; 57.40 
+108 ; JJ_3295   ; Joaillerie du Joker           ; Pendentif du Joker                         ; 42.10 
+109 ; JJ_8966   ; Joaillerie du Joker           ; Boucles d'Oreilles du Joker                ; 40.75 
+110 ; ETB_234   ; Echoppe de Thriller Bark      ; T-shirt de Thriller Bark                   ; 57.00 
+111 ; ETB_721   ; Echoppe de Thriller Bark      ; Statuette de Moria                         ; 28.50 
+112 ; ETB_2945  ; Echoppe de Thriller Bark      ; Pendentif de Thriller Bark                 ; 85.15 
+113 ; ETB_68    ; Echoppe de Thriller Bark      ; Livre des Zombies                          ; 55.35 
+114 ; ETB_2600  ; Echoppe de Thriller Bark      ; Figurines des Ombres                       ; 98.25 
+115 ; LCID_7844 ; Le Cabaret de Impel Down      ; Masque de Demon de l'Enfer                 ; 98.60 
+116 ; LCID_5051 ; Le Cabaret de Impel Down      ; Chapeau de Gardien d'Enfer                 ; 11.95 
+117 ; LCID_8143 ; Le Cabaret de Impel Down      ; T-shirt de Impel Down                      ; 21.30 
+118 ; LCID_9962 ; Le Cabaret de Impel Down      ; Bouclier de Barreaux                       ; 66.85 
+119 ; LCID_447  ; Le Cabaret de Impel Down      ; Gants de Feu d'Enfer                       ; 65.45 
+120 ; FW_8051   ; Forgeron du Wano              ; Katana Enma                                ; 71.65 
+121 ; FW_2775   ; Forgeron du Wano              ; Katana Ame no Habakiri                     ; 31.95 
+122 ; FW_5515   ; Forgeron du Wano              ; T-shirt de Wano                            ; 70.30 
+123 ; FW_1697   ; Forgeron du Wano              ; Collier de Wano                            ; 73.25 
+124 ; FW_7481   ; Forgeron du Wano              ; Statuette de Kozuki Oden                   ; 25.00 
+125 ; BFD_42    ; Boutique du Fruit du Demon    ; Jus de Fruit du Demon                      ; 47.70 
+126 ; BFD_1079  ; Boutique du Fruit du Demon    ; T-shirt du Fruit du Demon                  ; 52.15 
+127 ; BFD_562   ; Boutique du Fruit du Demon    ; Bonbons du Fruit du Demon                  ; 45.35 
+128 ; BFD_4546  ; Boutique du Fruit du Demon    ; Chocolat du Fruit du Demon                 ; 69.75 
+129 ; BFD_6325  ; Boutique du Fruit du Demon    ; Gateau du Fruit du Demon                   ; 65.85 
+130 ; ES_3687   ; Echoppe de Sabondy            ; Bague de l'Arbre Sabondy                   ; 0.80  
+131 ; ES_3989   ; Echoppe de Sabondy            ; Collier de l'Arbre Sabondy                 ; 23.25 
+132 ; ES_3263   ; Echoppe de Sabondy            ; Pendentif de l'Arbre Sabondy               ; 54.25 
+133 ; ES_9797   ; Echoppe de Sabondy            ; Bracelet de l'Arbre Sabondy                ; 102.80
+134 ; ES_1419   ; Echoppe de Sabondy            ; Livre de la Foret des Bulles               ; 65.80 
+135 ; FZ_7123   ; Fourreur de Zou               ; Tapis de Fourrure de Mink                  ; 59.80 
+136 ; FZ_1811   ; Fourreur de Zou               ; Bouclier de Zou                            ; 99.00 
+137 ; FZ_1005   ; Fourreur de Zou               ; Gants de Fourrure de Mink                  ; 81.75 
+138 ; FZ_2163   ; Fourreur de Zou               ; Boucles d'Oreilles de Zou                  ; 36.05 
+139 ; FZ_4697   ; Fourreur de Zou               ; Chapeau de Fourrure de Mink                ; 83.50 
+140 ; BD_60     ; Bazar de Dressrosa            ; Statuette de Riku Doldo III                ; 65.55 
+141 ; BD_4594   ; Bazar de Dressrosa            ; Chapeau de Gladiator                       ; 31.50 
+142 ; BD_2693   ; Bazar de Dressrosa            ; Gants de Dressrosa                         ; 48.25 
+143 ; BD_3266   ; Bazar de Dressrosa            ; T-shirt de Dressrosa                       ; 33.40 
+144 ; BD_9136   ; Bazar de Dressrosa            ; Boucle de ceinturon tete de mort           ; 90.45 
+145 ; CGL_5964  ; Corsaires de Grand Line       ; Sabres de bordee                           ; 81.65 
+146 ; CGL_6610  ; Corsaires de Grand Line       ; Telescopes a vision nocturne               ; 19.40 
+147 ; CGL_3530  ; Corsaires de Grand Line       ; Chapeaux de pirate en cuir                 ; 18.10 
+148 ; CGL_2751  ; Corsaires de Grand Line       ; Montres a gousset marines                  ; 69.60 
+149 ; CGL_9186  ; Corsaires de Grand Line       ; Dagues de capitaine                        ; 21.95 
+150 ; AJR_5631  ; Atelier du Jolly Roger        ; Boussoles enchantees                       ; 91.55 
+151 ; AJR_5459  ; Atelier du Jolly Roger        ; Figurines de legendaires pirates           ; 55.45 
+152 ; AJR_5098  ; Atelier du Jolly Roger        ; Gilets de capitaine                        ; 45.95 
+153 ; AJR_5499  ; Atelier du Jolly Roger        ; Colliers avec des dents de requin          ; 41.40 
+154 ; AJR_4985  ; Atelier du Jolly Roger        ; Briquets a l'effigie de pirates            ; 72.75 
+155 ; AL_6200   ; Armuriers de Loguetown        ; Epees forgees en acier marine              ; 44.55 
+156 ; AL_4701   ; Armuriers de Loguetown        ; Ancres decoratives en laiton               ; 26.20 
+157 ; AL_9961   ; Armuriers de Loguetown        ; Bouteilles de Rhum personnalisees          ; 16.00 
+158 ; AL_6622   ; Armuriers de Loguetown        ; Boucles d'oreilles de perles noires        ; 0.05  
+159 ; AL_8536   ; Armuriers de Loguetown        ; Dagues de pirates ciselees                 ; 74.60 
+160 ; MS_2003   ; Marchands de Sabaody          ; Maquettes de navires de legende            ; 52.30 
+161 ; MS_6140   ; Marchands de Sabaody          ; Instruments de navigation anciens          ; 38.65 
+162 ; MS_1331   ; Marchands de Sabaody          ; Anciens sextants de navigation             ; 81.45 
+163 ; MS_7880   ; Marchands de Sabaody          ; Services de table nautiques                ; 44.30 
+164 ; MS_3333   ; Marchands de Sabaody          ; Poupees de pirates en peluche              ; 56.05 
+165 ; BGM_3468  ; Boutique du Going Merry       ; T-shirts arborant des emblemes pirates     ; 59.35 
+166 ; BGM_6010  ; Boutique du Going Merry       ; Cadenas de coffres de pirates              ; 0.05  
+167 ; BGM_1068  ; Boutique du Going Merry       ; Bouteilles de parfum au sillage marin      ; 28.40 
+168 ; BGM_5751  ; Boutique du Going Merry       ; Pendules de bord vintage                   ; 0.05  
+169 ; BGM_5703  ; Boutique du Going Merry       ; Broches d'inspiration pirate               ; 70.95 
+170 ; FTS_7679  ; Forge du Thousand Sunny       ; Sabres forges en acier de qualite marine   ; 75.25 
+171 ; FTS_4348  ; Forge du Thousand Sunny       ; Longues-vues marines                       ; 92.10 
+172 ; FTS_5562  ; Forge du Thousand Sunny       ; Anciens sextants de navigation             ; 25.80 
+173 ; FTS_9149  ; Forge du Thousand Sunny       ; Livres de recits de pirates                ; 48.35 
+174 ; FTS_795   ; Forge du Thousand Sunny       ; Poupees de pirates en peluche              ; 48.45 
+175 ; EB_2657   ; Echoppe de Baratie            ; Services de table maritimes                ; 0.05  
+176 ; EB_8331   ; Echoppe de Baratie            ; Affiches encadrees de batailles navales    ; 61.30 
+177 ; EB_4247   ; Echoppe de Baratie            ; Drapeaux de Jolly Roger authentiques       ; 82.60 
+178 ; EB_9471   ; Echoppe de Baratie            ; Repliques de pieces de monnaie anciennes   ; 122.20
+179 ; EB_1385   ; Echoppe de Baratie            ; Figurines articulees de pirates            ; 48.20 
+180 ; MNM_1879  ; Marchands du Nouveau Monde    ; Porte-monnaie en cuir travaille            ; 21.65 
+181 ; MNM_2443  ; Marchands du Nouveau Monde    ; Tirelires en forme de tonneaux             ; 0.05  
+182 ; MNM_63    ; Marchands du Nouveau Monde    ; Services de table maritimes                ; 54.10 
+183 ; MNM_7     ; Marchands du Nouveau Monde    ; Boucles d'oreilles de perles noires        ; 90.75 
+184 ; MNM_2951  ; Marchands du Nouveau Monde    ; Livres de recits de pirates                ; 24.40 
+185 ; AVM_7063  ; Atelier du Vogue Merry        ; Figurines de legendaires pirates           ; 60.15 
+186 ; AVM_2350  ; Atelier du Vogue Merry        ; Insignes de capitaine et de matelot        ; 61.25 
+187 ; AVM_4081  ; Atelier du Vogue Merry        ; Briques de Lego de navires pirates         ; 28.10 
+188 ; AVM_8856  ; Atelier du Vogue Merry        ; Badges decoratifs pour sacs                ; 113.55
+189 ; AVM_1682  ; Atelier du Vogue Merry        ; Jeux de societe de bataille navale         ; 0.05  
+190 ; FD_7445   ; Fournisseurs du Dressrosa     ; Figurines articulees de pirates            ; 10.80 
+191 ; FD_2576   ; Fournisseurs du Dressrosa     ; Boucles d'oreilles de perles noires        ; 54.20 
+192 ; FD_5814   ; Fournisseurs du Dressrosa     ; Maquettes de navires de legende            ; 5.85  
+193 ; FD_5360   ; Fournisseurs du Dressrosa     ; Cadenas de coffres de pirates              ; 40.80 
+194 ; FD_7283   ; Fournisseurs du Dressrosa     ; Drapeaux de Jolly Roger authentiques       ; 74.05 
+195 ; ASO_3722  ; Atelier du Siecle Oublie      ; Medaillon du Siecle Oublie                 ; 43.60 
+196 ; ASO_7487  ; Atelier du Siecle Oublie      ; Figurine de Pluton                         ; 21.30 
+197 ; ASO_6384  ; Atelier du Siecle Oublie      ; Maquette du Siecle Oublie                  ; 56.00 
+198 ; ASO_5237  ; Atelier du Siecle Oublie      ; Cristal du Siecle Oublie                   ; 63.75 
+199 ; ASO_2936  ; Atelier du Siecle Oublie      ; Boussole Antique                           ; 33.05 

@@ -1,0 +1,14 @@
+Fracture N° 296
+Date commande : 0022-05-18T04:45:49
+----------------------------------------------------------------------------------------
+Nom Client : Koby
+Adresse Client : Village de Goa, Goa Kingdom
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Lance du Colisee Corrida       : 4        * 16.25           = 65.00 
+Briquets a l'effigie de pirates : 1        * 72.75           = 72.75 
+Gants en Metal de Franky       : 9        * 25.50           = 229.50 
+Longues-vues marines           : 1        * 92.10           = 92.10 
+----------------------------------------------------------------------------------------
+Total hors taxe : 459.35
+Total avec taxe : 551.22

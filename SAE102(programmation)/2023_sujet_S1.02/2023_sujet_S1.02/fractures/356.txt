@@ -1,0 +1,11 @@
+Fracture N° 356
+Date commande : 0024-08-30T07:12:44
+----------------------------------------------------------------------------------------
+Nom Client : Usopp
+Adresse Client : Atelier d'Usopp, Long Beach
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Jeux de Societe Davy Back      : 1        * 78.20           = 78.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 78.2
+Total avec taxe : 93.84

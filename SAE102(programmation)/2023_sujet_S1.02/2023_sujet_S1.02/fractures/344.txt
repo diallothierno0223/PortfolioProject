@@ -1,0 +1,12 @@
+Fracture N° 344
+Date commande : 0024-02-28T23:51:00
+----------------------------------------------------------------------------------------
+Nom Client : Machvise
+Adresse Client : Porte Principale, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boussole Davy Back             : 1        * 61.15           = 61.15 
+Drapeau de Sogeking            : 1        * 29.20           = 29.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 90.35
+Total avec taxe : 108.41999999999999

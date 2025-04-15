@@ -1,0 +1,12 @@
+Fracture N° 289
+Date commande : 0021-11-16T17:51:58
+----------------------------------------------------------------------------------------
+Nom Client : Denjiro
+Adresse Client : Rue des Artisans, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Dagues de pirates ciselees     : 1        * 74.60           = 74.60 
+Sac a Dos du Fournisseur       : 1        * 36.15           = 36.15 
+----------------------------------------------------------------------------------------
+Total hors taxe : 110.75
+Total avec taxe : 132.9

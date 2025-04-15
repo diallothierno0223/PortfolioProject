@@ -1,0 +1,13 @@
+Fracture N° 214
+Date commande : 0018-12-04T18:35:54
+----------------------------------------------------------------------------------------
+Nom Client : Basil Hawkins
+Adresse Client : Grove 22, Sabaody
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boussole du Voile              : 1        * 37.75           = 37.75 
+Statuette de Riku Doldo III    : 5        * 65.55           = 327.75 
+Sabres de bordee               : 2        * 81.65           = 163.30 
+----------------------------------------------------------------------------------------
+Total hors taxe : 528.8
+Total avec taxe : 634.56

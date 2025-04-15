@@ -1,0 +1,15 @@
+Fracture N° 12
+Date commande : 0010-07-18T23:11:01
+----------------------------------------------------------------------------------------
+Nom Client : Wapol
+Adresse Client : Chateau Royal, Black Drum
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boussole de Loguetown          : 5        * 75.00           = 375.00 
+Fruit du Demon Gura Gura       : 1        * 54.50           = 54.50 
+Poupees de pirates en peluche  : 1        * 48.45           = 48.45 
+Sac a Dos du Gouvernail        : 1        * 0.05            = 0.05 
+Cape de Cipher Pol             : 1        * 48.85           = 48.85 
+----------------------------------------------------------------------------------------
+Total hors taxe : 526.85
+Total avec taxe : 632.22

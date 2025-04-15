@@ -1,0 +1,12 @@
+Fracture N° 15
+Date commande : 0010-08-11T04:34:09
+----------------------------------------------------------------------------------------
+Nom Client : Nico Robin
+Adresse Client : Rue des Archeologues, Ohara
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Pendentif de l'Arbre Sabondy   : 2        * 54.25           = 108.50 
+Coffret a Tresor du Sunny      : 1        * 45.20           = 45.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 153.7
+Total avec taxe : 184.43999999999997

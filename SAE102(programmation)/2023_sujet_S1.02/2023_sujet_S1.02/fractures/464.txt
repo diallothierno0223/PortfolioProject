@@ -1,0 +1,13 @@
+Fracture N° 464
+Date commande : 0028-09-29T10:28:45
+----------------------------------------------------------------------------------------
+Nom Client : Blueno
+Adresse Client : Cour Interieure, Enies Lobby
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Medaillon du Siecle Oublie     : 15       * 43.60           = 654.00 
+T-shirt de Franky              : 3        * 68.95           = 206.85 
+Bonbons de Big Mom             : 1        * 30.80           = 30.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 891.65
+Total avec taxe : 1069.98

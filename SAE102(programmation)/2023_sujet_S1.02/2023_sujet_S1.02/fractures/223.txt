@@ -1,0 +1,13 @@
+Fracture N° 223
+Date commande : 0019-07-15T09:57:25
+----------------------------------------------------------------------------------------
+Nom Client : Jozu
+Adresse Client : Palais Royal, Merveille
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Gants de Cipher Pol            : 12       * 36.45           = 437.40 
+Gants de Fourrure de Mink      : 4        * 81.75           = 327.00 
+Cristal du Siecle Oublie       : 1        * 63.75           = 63.75 
+----------------------------------------------------------------------------------------
+Total hors taxe : 828.1500000000001
+Total avec taxe : 993.7800000000001

@@ -1,0 +1,15 @@
+Fracture N° 297
+Date commande : 0022-05-21T06:00:51
+----------------------------------------------------------------------------------------
+Nom Client : Nami
+Adresse Client : Rue des Cartographes, Oranje
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bague de l'Arbre Sabondy       : 16       * 0.80            = 12.80 
+Anciens sextants de navigation : 3        * 25.80           = 77.40 
+Bouclier de Zou                : 4        * 99.00           = 396.00 
+Drapeaux de Jolly Roger authentiques : 1        * 82.60           = 82.60 
+Services de table maritimes    : 6        * 54.10           = 324.60 
+----------------------------------------------------------------------------------------
+Total hors taxe : 893.4
+Total avec taxe : 1072.08

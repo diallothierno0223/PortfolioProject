@@ -1,0 +1,14 @@
+Fracture N° 380
+Date commande : 0025-10-15T14:39:46
+----------------------------------------------------------------------------------------
+Nom Client : Hack
+Adresse Client : Gymnase des Gladiateurs, Fish-Man Island
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bague de l'Arbre Sabondy       : 7        * 0.80            = 5.60 
+Statuette en Or                : 3        * 57.90           = 173.70 
+Figurines de legendaires pirates : 1        * 60.15           = 60.15 
+Montre de Pluton               : 1        * 83.75           = 83.75 
+----------------------------------------------------------------------------------------
+Total hors taxe : 323.2
+Total avec taxe : 387.84

@@ -1,0 +1,12 @@
+Fracture N° 68
+Date commande : 0013-03-04T23:44:36
+----------------------------------------------------------------------------------------
+Nom Client : Rebecca
+Adresse Client : Colisee de Dressrosa, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Figurines des Ombres           : 6        * 98.25           = 589.50 
+Chapeau de Loguetown           : 15       * 66.90           = 1003.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1593.0
+Total avec taxe : 1911.6

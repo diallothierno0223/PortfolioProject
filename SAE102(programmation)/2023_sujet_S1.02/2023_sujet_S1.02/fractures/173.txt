@@ -1,0 +1,14 @@
+Fracture N° 173
+Date commande : 0017-08-14T09:32:44
+----------------------------------------------------------------------------------------
+Nom Client : Duval
+Adresse Client : Grove 42, Sabaody
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bouclier du Fournisseur        : 2        * 66.40           = 132.80 
+Figurines articulees de pirates : 1        * 48.20           = 48.20 
+Bouclier de Barreaux           : 1        * 66.85           = 66.85 
+Maquette du Siecle Oublie      : 1        * 56.00           = 56.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 303.85
+Total avec taxe : 364.62

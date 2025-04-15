@@ -1,0 +1,14 @@
+Fracture N° 275
+Date commande : 0021-03-23T18:37:45
+----------------------------------------------------------------------------------------
+Nom Client : Trebol
+Adresse Client : Porte du Manoir Donquixote, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Jus de Fruit du Demon          : 8        * 47.70           = 381.60 
+Statuette en Or                : 5        * 57.90           = 289.50 
+Drapeaux de Jolly Roger authentiques : 6        * 82.60           = 495.60 
+Armes du Fournisseur           : 1        * 50.40           = 50.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1217.1000000000001
+Total avec taxe : 1460.5200000000002

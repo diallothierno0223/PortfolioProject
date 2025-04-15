@@ -1,0 +1,12 @@
+Fracture N° 103
+Date commande : 0015-02-03T02:11:22
+----------------------------------------------------------------------------------------
+Nom Client : Igaram
+Adresse Client : Rue des Marchands, Alubarna
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Telescopes a vision nocturne   : 1        * 19.40           = 19.40 
+Bonbons de Big Mom             : 1        * 30.80           = 30.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 50.2
+Total avec taxe : 60.24

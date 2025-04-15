@@ -1,0 +1,14 @@
+Fracture N° 79
+Date commande : 0013-08-17T17:20:52
+----------------------------------------------------------------------------------------
+Nom Client : Roronoa Zoro
+Adresse Client : Dojo de Mihawk
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Figurines de legendaires pirates : 1        * 55.45           = 55.45 
+Statuette de Riku Doldo III    : 3        * 65.55           = 196.65 
+Bouclier du Fournisseur        : 1        * 66.40           = 66.40 
+Livres de recits de pirates    : 1        * 48.35           = 48.35 
+----------------------------------------------------------------------------------------
+Total hors taxe : 366.85
+Total avec taxe : 440.22

@@ -1,0 +1,12 @@
+Fracture N° 370
+Date commande : 0025-05-14T07:32:21
+----------------------------------------------------------------------------------------
+Nom Client : Inuarashi
+Adresse Client : Mont Inuarashi, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+T-shirts arborant des emblemes pirates : 6        * 59.35           = 356.10 
+Collier du Voile               : 2        * 70.90           = 141.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 497.90000000000003
+Total avec taxe : 597.48

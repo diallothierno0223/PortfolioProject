@@ -1,0 +1,12 @@
+Fracture N° 189
+Date commande : 0018-01-21T00:19:17
+----------------------------------------------------------------------------------------
+Nom Client : Jinbe
+Adresse Client : Chateau Ryugu, Fish-Man Island
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+T-shirt de Loguetown           : 1        * 8.60            = 8.60 
+Epee Sandai Kitetsu            : 1        * 64.65           = 64.65 
+----------------------------------------------------------------------------------------
+Total hors taxe : 73.25
+Total avec taxe : 87.89999999999999

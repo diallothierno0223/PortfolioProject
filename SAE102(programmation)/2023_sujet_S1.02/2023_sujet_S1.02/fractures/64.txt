@@ -1,0 +1,15 @@
+Fracture N° 64
+Date commande : 0012-11-27T15:14:07
+----------------------------------------------------------------------------------------
+Nom Client : Jewelry Bonney
+Adresse Client : Auberge de la Sirene, Oranje
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+T-shirt de Loguetown           : 1        * 8.60            = 8.60 
+Tresor d'Or en Boite           : 1        * 71.40           = 71.40 
+Chocolat du Fruit du Demon     : 6        * 69.75           = 418.50 
+Drapeaux de Jolly Roger authentiques : 8        * 82.60           = 660.80 
+Masque de Norland              : 3        * 64.55           = 193.65 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1352.9499999999998
+Total avec taxe : 1623.5399999999997

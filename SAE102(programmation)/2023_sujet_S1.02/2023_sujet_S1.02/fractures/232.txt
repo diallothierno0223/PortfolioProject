@@ -1,0 +1,12 @@
+Fracture N° 232
+Date commande : 0019-12-03T00:42:50
+----------------------------------------------------------------------------------------
+Nom Client : Eustass Kid
+Adresse Client : Maison de Ventes aux Encheres, Sabaody
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boucles d'oreilles de perles noires : 2        * 90.75           = 181.50 
+Affiches encadrees de batailles navales : 5        * 61.30           = 306.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 488.0
+Total avec taxe : 585.6

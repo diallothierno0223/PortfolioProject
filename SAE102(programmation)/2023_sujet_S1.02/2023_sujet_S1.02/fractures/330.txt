@@ -1,0 +1,15 @@
+Fracture N° 330
+Date commande : 0023-08-19T14:40:13
+----------------------------------------------------------------------------------------
+Nom Client : Jewelry Bonney
+Adresse Client : Auberge de la Sirene, Oranje
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+T-shirt de Thriller Bark       : 1        * 57.00           = 57.00 
+Gravure de Sandai Kitetsu      : 1        * 63.20           = 63.20 
+Gants en Metal de Franky       : 6        * 25.50           = 153.00 
+Services de table maritimes    : 2        * 54.10           = 108.20 
+Gateau du Fruit du Demon       : 4        * 65.85           = 263.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 644.8
+Total avec taxe : 773.7599999999999

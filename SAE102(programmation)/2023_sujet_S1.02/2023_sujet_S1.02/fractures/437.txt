@@ -1,0 +1,12 @@
+Fracture N° 437
+Date commande : 0027-12-31T21:34:17
+----------------------------------------------------------------------------------------
+Nom Client : Chaka
+Adresse Client : Palais d'Alubarna, Alubarna
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Figurines articulees de pirates : 2        * 10.80           = 21.60 
+Tirelires en forme de tonneaux : 1        * 0.05            = 0.05 
+----------------------------------------------------------------------------------------
+Total hors taxe : 21.650000000000002
+Total avec taxe : 25.98

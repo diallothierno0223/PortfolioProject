@@ -1,0 +1,12 @@
+Fracture N° 148
+Date commande : 0016-09-03T16:37:03
+----------------------------------------------------------------------------------------
+Nom Client : Wapol
+Adresse Client : Chateau Royal, Black Drum
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Tresor d'Or en Boite           : 7        * 71.40           = 499.80 
+Montre de Pluton               : 5        * 83.75           = 418.75 
+----------------------------------------------------------------------------------------
+Total hors taxe : 918.5500000000001
+Total avec taxe : 1102.26

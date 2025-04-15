@@ -1,0 +1,14 @@
+Fracture N° 427
+Date commande : 0027-07-02T18:49:08
+----------------------------------------------------------------------------------------
+Nom Client : Basil Hawkins
+Adresse Client : Grove 22, Sabaody
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Collier de l'Ordre Celeste     : 1        * 70.60           = 70.60 
+Repliques de pieces de monnaie anciennes : 1        * 122.20          = 122.20 
+Tapisserie Equipage du Voile   : 6        * 64.05           = 384.30 
+Katana Shusui                  : 1        * 66.15           = 66.15 
+----------------------------------------------------------------------------------------
+Total hors taxe : 643.2499999999999
+Total avec taxe : 771.8999999999999

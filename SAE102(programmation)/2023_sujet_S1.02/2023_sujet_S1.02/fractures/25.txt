@@ -1,0 +1,15 @@
+Fracture N° 25
+Date commande : 0011-01-27T07:35:20
+----------------------------------------------------------------------------------------
+Nom Client : Boa Hancock
+Adresse Client : Palais Royal, Amazon Lily
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Patisserie des Iles Caramel    : 1        * 43.35           = 43.35 
+Maquettes de navires de legende : 1        * 5.85            = 5.85 
+Casque du Colisee Corrida      : 1        * 98.65           = 98.65 
+Livre des Zombies              : 3        * 55.35           = 166.05 
+Fruit du Demon Bara Bara       : 5        * 48.30           = 241.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 555.4000000000001
+Total avec taxe : 666.4800000000001

@@ -1,0 +1,14 @@
+Fracture N° 55
+Date commande : 0012-06-03T23:02:26
+----------------------------------------------------------------------------------------
+Nom Client : Vergo
+Adresse Client : Laboratoire de Vergo, Punk Hazard
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boussole Antique               : 6        * 33.05           = 198.30 
+Insignes de capitaine et de matelot : 7        * 61.25           = 428.75 
+Bouclier de Justice            : 4        * 63.05           = 252.20 
+Tapis de Fourrure de Mink      : 1        * 59.80           = 59.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 939.05
+Total avec taxe : 1126.86

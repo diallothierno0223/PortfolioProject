@@ -1,0 +1,12 @@
+Fracture N° 123
+Date commande : 0015-09-21T19:19:25
+----------------------------------------------------------------------------------------
+Nom Client : Diamante
+Adresse Client : Stade Corrida, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Jus de Fruit du Demon          : 8        * 47.70           = 381.60 
+Collier de Wano                : 1        * 73.25           = 73.25 
+----------------------------------------------------------------------------------------
+Total hors taxe : 454.85
+Total avec taxe : 545.82

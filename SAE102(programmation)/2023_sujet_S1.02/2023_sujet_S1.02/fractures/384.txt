@@ -1,0 +1,11 @@
+Fracture N° 384
+Date commande : 0025-11-08T00:29:45
+----------------------------------------------------------------------------------------
+Nom Client : Kawamatsu
+Adresse Client : Riviere Kawamatsu, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Gants de Dressrosa             : 3        * 48.25           = 144.75 
+----------------------------------------------------------------------------------------
+Total hors taxe : 144.75
+Total avec taxe : 173.7

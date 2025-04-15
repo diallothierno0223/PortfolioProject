@@ -1,0 +1,14 @@
+Fracture N° 271
+Date commande : 0021-01-11T20:08:17
+----------------------------------------------------------------------------------------
+Nom Client : Vista
+Adresse Client : Jardins de Merveille, Merveille
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boussole de Loguetown          : 2        * 75.00           = 150.00 
+Figurines des Ombres           : 1        * 98.25           = 98.25 
+Broches d'inspiration pirate   : 2        * 70.95           = 141.90 
+Boucle de ceinturon tete de mort : 1        * 90.45           = 90.45 
+----------------------------------------------------------------------------------------
+Total hors taxe : 480.59999999999997
+Total avec taxe : 576.7199999999999

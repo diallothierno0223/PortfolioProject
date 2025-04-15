@@ -1,0 +1,14 @@
+Fracture N° 457
+Date commande : 0028-05-25T15:50:35
+----------------------------------------------------------------------------------------
+Nom Client : Enel
+Adresse Client : Arche Maxim, Upper Yard
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Montre de Pluton               : 6        * 83.75           = 502.50 
+T-shirt de Loguetown           : 1        * 8.60            = 8.60 
+Bonbons de Big Mom             : 2        * 30.80           = 61.60 
+Statuette en Or                : 4        * 57.90           = 231.60 
+----------------------------------------------------------------------------------------
+Total hors taxe : 804.3000000000001
+Total avec taxe : 965.1600000000001

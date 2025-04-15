@@ -1,0 +1,12 @@
+Fracture N° 304
+Date commande : 0022-08-22T09:19:41
+----------------------------------------------------------------------------------------
+Nom Client : Portgas D. Ace
+Adresse Client : Port de Fuschia
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bonbons du Fruit du Demon      : 1        * 45.35           = 45.35 
+Lance du Colisee Corrida       : 6        * 16.25           = 97.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 142.85
+Total avec taxe : 171.42

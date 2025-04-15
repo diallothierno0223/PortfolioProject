@@ -1,0 +1,14 @@
+Fracture N° 422
+Date commande : 0027-06-13T02:55:51
+----------------------------------------------------------------------------------------
+Nom Client : Raizo
+Adresse Client : Foret de Raizo, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boucles d'Oreilles de Zou      : 1        * 36.05           = 36.05 
+Boussole de Loguetown          : 1        * 75.00           = 75.00 
+Chapeau de Loguetown           : 4        * 66.90           = 267.60 
+Eventail en Forme de Gateau    : 3        * 36.70           = 110.10 
+----------------------------------------------------------------------------------------
+Total hors taxe : 488.75000000000006
+Total avec taxe : 586.5

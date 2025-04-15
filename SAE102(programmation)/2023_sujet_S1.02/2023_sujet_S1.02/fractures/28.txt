@@ -1,0 +1,15 @@
+Fracture N° 28
+Date commande : 0011-04-01T07:21:15
+----------------------------------------------------------------------------------------
+Nom Client : Tsuru
+Adresse Client : Quartier General de la Marine, Marineford
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Dagues de capitaine            : 1        * 21.95           = 21.95 
+Veste de Capitaine du Voile    : 2        * 17.70           = 35.40 
+Services de table maritimes    : 5        * 54.10           = 270.50 
+Collier du Voile               : 1        * 70.90           = 70.90 
+Instruments de navigation anciens : 6        * 38.65           = 231.90 
+----------------------------------------------------------------------------------------
+Total hors taxe : 630.65
+Total avec taxe : 756.78

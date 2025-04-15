@@ -1,0 +1,15 @@
+Fracture N° 258
+Date commande : 0020-09-20T20:56:06
+----------------------------------------------------------------------------------------
+Nom Client : Portgas D. Ace
+Adresse Client : Port de Fuschia
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boucles d'Oreilles du Joker    : 1        * 40.75           = 40.75 
+Collier de Sabaody             : 1        * 44.50           = 44.50 
+Gants en Metal de Franky       : 4        * 25.50           = 102.00 
+Livres de recits de pirates    : 3        * 48.35           = 145.05 
+Sabres de bordee               : 6        * 81.65           = 489.90 
+----------------------------------------------------------------------------------------
+Total hors taxe : 822.2
+Total avec taxe : 986.64

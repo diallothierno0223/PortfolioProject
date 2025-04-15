@@ -1,0 +1,13 @@
+Fracture N° 160
+Date commande : 0017-01-03T13:33:59
+----------------------------------------------------------------------------------------
+Nom Client : Kawamatsu
+Adresse Client : Riviere Kawamatsu, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Katana Enma                    : 1        * 71.65           = 71.65 
+Figurines de legendaires pirates : 9        * 55.45           = 499.05 
+Replique du Pluton             : 3        * 40.90           = 122.70 
+----------------------------------------------------------------------------------------
+Total hors taxe : 693.4000000000001
+Total avec taxe : 832.08

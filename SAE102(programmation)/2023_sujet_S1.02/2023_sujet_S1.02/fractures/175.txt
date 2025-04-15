@@ -1,0 +1,13 @@
+Fracture N° 175
+Date commande : 0017-09-03T08:58:42
+----------------------------------------------------------------------------------------
+Nom Client : Jinbe
+Adresse Client : Chateau Ryugu, Fish-Man Island
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Epee du Ciel                   : 1        * 12.05           = 12.05 
+Gants de Feu d'Enfer           : 7        * 65.45           = 458.15 
+Cristal du Siecle Oublie       : 1        * 63.75           = 63.75 
+----------------------------------------------------------------------------------------
+Total hors taxe : 533.95
+Total avec taxe : 640.74

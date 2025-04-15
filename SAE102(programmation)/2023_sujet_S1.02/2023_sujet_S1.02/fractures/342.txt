@@ -1,0 +1,12 @@
+Fracture N° 342
+Date commande : 0024-02-19T15:02:16
+----------------------------------------------------------------------------------------
+Nom Client : Kozuki Momonosuke
+Adresse Client : Village d'Oden, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Longues-vues marines           : 1        * 92.10           = 92.10 
+Jus de Fruit du Demon          : 15       * 47.70           = 715.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 807.6
+Total avec taxe : 969.12

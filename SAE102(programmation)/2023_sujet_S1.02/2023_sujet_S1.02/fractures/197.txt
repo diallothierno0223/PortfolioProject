@@ -1,0 +1,13 @@
+Fracture N° 197
+Date commande : 0018-04-24T20:43:46
+----------------------------------------------------------------------------------------
+Nom Client : Perona
+Adresse Client : Manoir de Perona, Thriller Bark
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Figurines articulees de pirates : 1        * 48.20           = 48.20 
+Bonbons du Fruit du Demon      : 3        * 45.35           = 136.05 
+Boucle de ceinturon tete de mort : 1        * 90.45           = 90.45 
+----------------------------------------------------------------------------------------
+Total hors taxe : 274.7
+Total avec taxe : 329.64

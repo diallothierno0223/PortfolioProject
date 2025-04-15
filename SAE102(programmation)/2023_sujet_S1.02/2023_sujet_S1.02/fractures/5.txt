@@ -1,0 +1,13 @@
+Fracture N° 5
+Date commande : 0010-06-04T15:01:53
+----------------------------------------------------------------------------------------
+Nom Client : Kin'emon
+Adresse Client : Foret de Kin'emon, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boussole du Ciel               : 1        * 96.05           = 96.05 
+Figurines de legendaires pirates : 1        * 55.45           = 55.45 
+Broches d'inspiration pirate   : 6        * 70.95           = 425.70 
+----------------------------------------------------------------------------------------
+Total hors taxe : 577.2
+Total avec taxe : 692.64

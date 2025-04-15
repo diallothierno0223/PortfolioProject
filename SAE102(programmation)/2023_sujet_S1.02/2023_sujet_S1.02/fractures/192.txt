@@ -1,0 +1,12 @@
+Fracture N° 192
+Date commande : 0018-02-28T12:13:32
+----------------------------------------------------------------------------------------
+Nom Client : Fujitora
+Adresse Client : Plateau Royal, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bouclier de Zou                : 2        * 99.00           = 198.00 
+Bouteilles de parfum au sillage marin : 1        * 28.40           = 28.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 226.4
+Total avec taxe : 271.68

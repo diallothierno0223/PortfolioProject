@@ -1,0 +1,12 @@
+Fracture N° 184
+Date commande : 0018-01-03T16:32:56
+----------------------------------------------------------------------------------------
+Nom Client : Kozuki Momonosuke
+Adresse Client : Village d'Oden, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Statuette de Kozuki Oden       : 1        * 25.00           = 25.00 
+Boussole a Energie Solaire de Franky : 4        * 58.30           = 233.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 258.2
+Total avec taxe : 309.84

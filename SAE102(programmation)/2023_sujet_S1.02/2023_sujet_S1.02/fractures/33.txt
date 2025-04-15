@@ -1,0 +1,11 @@
+Fracture N° 33
+Date commande : 0011-05-27T20:11:25
+----------------------------------------------------------------------------------------
+Nom Client : Dr. Hiriluk
+Adresse Client : Chambre du Dr. Hiriluk, Drum Rockies
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Gants de Gouvernail en Cuir    : 1        * 90.30           = 90.30 
+----------------------------------------------------------------------------------------
+Total hors taxe : 90.3
+Total avec taxe : 108.36

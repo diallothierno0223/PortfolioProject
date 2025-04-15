@@ -1,0 +1,11 @@
+Fracture N° 35
+Date commande : 0011-05-31T01:57:32
+----------------------------------------------------------------------------------------
+Nom Client : Kaido
+Adresse Client : Sommet d'Onigashima, Onigashima
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Manteau de l'Amiral            : 2        * 23.40           = 46.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 46.8
+Total avec taxe : 56.16

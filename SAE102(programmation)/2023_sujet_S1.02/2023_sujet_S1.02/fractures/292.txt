@@ -1,0 +1,15 @@
+Fracture N° 292
+Date commande : 0022-02-07T21:37:29
+----------------------------------------------------------------------------------------
+Nom Client : Diamante
+Adresse Client : Stade Corrida, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bracelet de l'Arbre Sabondy    : 10       * 102.80          = 1028.00 
+Jeux de societe de bataille navale : 3        * 0.05            = 0.15 
+Pendentif du Joker             : 2        * 42.10           = 84.20 
+Gateau du Roi des Pirates      : 1        * 24.95           = 24.95 
+Gants de Cipher Pol            : 6        * 36.45           = 218.70 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1356.0000000000002
+Total avec taxe : 1627.2000000000003

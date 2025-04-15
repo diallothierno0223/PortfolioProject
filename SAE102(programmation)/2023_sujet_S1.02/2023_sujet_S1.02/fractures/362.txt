@@ -1,0 +1,15 @@
+Fracture N° 362
+Date commande : 0024-11-29T17:40:03
+----------------------------------------------------------------------------------------
+Nom Client : Raizo
+Adresse Client : Foret de Raizo, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Figurines des Ombres           : 6        * 98.25           = 589.50 
+Patisserie des Iles Caramel    : 5        * 43.35           = 216.75 
+Fruit du Demon Hie Hie         : 1        * 60.00           = 60.00 
+Bouclier de Justice            : 6        * 63.05           = 378.30 
+Drapeau de l'Equipage du Chapeau de Paille : 1        * 74.90           = 74.90 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1319.45
+Total avec taxe : 1583.34

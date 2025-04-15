@@ -1,0 +1,13 @@
+Fracture N° 399
+Date commande : 0026-05-12T23:27:25
+----------------------------------------------------------------------------------------
+Nom Client : Tashigi
+Adresse Client : Quartier General de la Marine, Loguetown
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Gilets de capitaine            : 5        * 45.95           = 229.75 
+Pendentif du Joker             : 2        * 42.10           = 84.20 
+Epee Buster Call               : 1        * 0.05            = 0.05 
+----------------------------------------------------------------------------------------
+Total hors taxe : 314.0
+Total avec taxe : 376.8

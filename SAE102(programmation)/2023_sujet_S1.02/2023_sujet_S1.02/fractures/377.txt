@@ -1,0 +1,15 @@
+Fracture N° 377
+Date commande : 0025-09-12T18:46:53
+----------------------------------------------------------------------------------------
+Nom Client : Sir Crocodile
+Adresse Client : Coeur du Desert, Alubarna
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Eventail en Forme de Gateau    : 1        * 36.70           = 36.70 
+T-shirt de Dressrosa           : 1        * 33.40           = 33.40 
+Anciens sextants de navigation : 5        * 25.80           = 129.00 
+Tapis de Loguetown             : 1        * 28.80           = 28.80 
+Drapeau du Ciel                : 1        * 8.70            = 8.70 
+----------------------------------------------------------------------------------------
+Total hors taxe : 236.6
+Total avec taxe : 283.91999999999996

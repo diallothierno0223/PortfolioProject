@@ -1,0 +1,12 @@
+Fracture N° 335
+Date commande : 0023-09-20T10:23:38
+----------------------------------------------------------------------------------------
+Nom Client : Boa Hancock
+Adresse Client : Palais Royal, Amazon Lily
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Replique du Pluton             : 1        * 40.90           = 40.90 
+Statuette de Riku Doldo III    : 8        * 65.55           = 524.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 565.3
+Total avec taxe : 678.3599999999999

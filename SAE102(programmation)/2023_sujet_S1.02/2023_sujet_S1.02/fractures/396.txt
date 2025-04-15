@@ -1,0 +1,15 @@
+Fracture N° 396
+Date commande : 0026-04-03T20:35:53
+----------------------------------------------------------------------------------------
+Nom Client : T-Bone
+Adresse Client : Base Navale G-8, G-8
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Casque du Colisee Corrida      : 6        * 98.65           = 591.90 
+Dagues de pirates ciselees     : 1        * 74.60           = 74.60 
+Statuette en Or                : 1        * 57.90           = 57.90 
+Sac a Dos de Sogeking          : 4        * 93.25           = 373.00 
+Dagues de pirates ciselees     : 12       * 74.60           = 895.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1992.6
+Total avec taxe : 2391.12

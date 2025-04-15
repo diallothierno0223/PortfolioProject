@@ -1,0 +1,12 @@
+Fracture N° 295
+Date commande : 0022-04-25T07:43:40
+----------------------------------------------------------------------------------------
+Nom Client : Absalom
+Adresse Client : Jardin des Zombies, Thriller Bark
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Services de table nautiques    : 1        * 44.30           = 44.30 
+T-shirts arborant des emblemes pirates : 2        * 59.35           = 118.70 
+----------------------------------------------------------------------------------------
+Total hors taxe : 163.0
+Total avec taxe : 195.6

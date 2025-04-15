@@ -1,0 +1,14 @@
+Fracture N° 207
+Date commande : 0018-07-29T02:26:50
+----------------------------------------------------------------------------------------
+Nom Client : Perona
+Adresse Client : Manoir de Perona, Thriller Bark
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Livres de recits de pirates    : 1        * 24.40           = 24.40 
+Statuette de Luffy             : 1        * 7.70            = 7.70 
+Eventail en Forme de Gateau    : 1        * 36.70           = 36.70 
+Sac a Dos de Cipher Pol        : 2        * 38.25           = 76.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 145.3
+Total avec taxe : 174.36

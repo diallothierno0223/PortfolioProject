@@ -1,0 +1,12 @@
+Fracture N° 253
+Date commande : 0020-07-21T00:11:11
+----------------------------------------------------------------------------------------
+Nom Client : Baby 5
+Adresse Client : Base de Doflamingo, Punk Hazard
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bague de l'Arbre Sabondy       : 4        * 0.80            = 3.20 
+Biscuits Homies                : 1        * 9.55            = 9.55 
+----------------------------------------------------------------------------------------
+Total hors taxe : 12.75
+Total avec taxe : 15.299999999999999

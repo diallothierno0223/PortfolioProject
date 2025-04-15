@@ -1,0 +1,13 @@
+Fracture N° 240
+Date commande : 0020-03-03T12:06:00
+----------------------------------------------------------------------------------------
+Nom Client : Coby
+Adresse Client : Village de Goat, Ile de Goat
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boussole Doree                 : 12       * 38.05           = 456.60 
+Pendentif des Dragons Celestes : 1        * 60.70           = 60.70 
+Bouteilles de Rhum personnalisees : 7        * 16.00           = 112.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 629.3
+Total avec taxe : 755.16

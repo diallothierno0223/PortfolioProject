@@ -1,0 +1,11 @@
+Fracture N° 300
+Date commande : 0022-06-13T11:30:02
+----------------------------------------------------------------------------------------
+Nom Client : Crocodile
+Adresse Client : Casino Rain Dinners, Rainbase
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Briques de Lego de navires pirates : 1        * 28.10           = 28.10 
+----------------------------------------------------------------------------------------
+Total hors taxe : 28.1
+Total avec taxe : 33.72

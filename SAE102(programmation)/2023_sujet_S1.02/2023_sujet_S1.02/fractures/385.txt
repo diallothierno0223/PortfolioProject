@@ -1,0 +1,13 @@
+Fracture N° 385
+Date commande : 0025-11-25T09:02:46
+----------------------------------------------------------------------------------------
+Nom Client : Baby 5
+Adresse Client : Base de Doflamingo, Punk Hazard
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Montres a gousset marines      : 1        * 69.60           = 69.60 
+Gateau du Roi des Pirates      : 2        * 24.95           = 49.90 
+Katana Enma                    : 1        * 71.65           = 71.65 
+----------------------------------------------------------------------------------------
+Total hors taxe : 191.15
+Total avec taxe : 229.38

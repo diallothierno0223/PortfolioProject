@@ -1,0 +1,15 @@
+Fracture N° 226
+Date commande : 0019-09-24T04:00:05
+----------------------------------------------------------------------------------------
+Nom Client : Vivi
+Adresse Client : Palais d'Alubarna, Alubarna
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bague des Dragons Celestes     : 1        * 52.80           = 52.80 
+Pendentif Demon d'Or           : 2        * 21.80           = 43.60 
+Chapeau de Soleil de Sabaody   : 1        * 46.10           = 46.10 
+Boussole Davy Back             : 1        * 61.15           = 61.15 
+Bague de l'Arbre Sabondy       : 5        * 0.80            = 4.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 207.65
+Total avec taxe : 249.18

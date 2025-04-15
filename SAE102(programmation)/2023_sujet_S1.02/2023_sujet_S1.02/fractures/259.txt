@@ -1,0 +1,15 @@
+Fracture N° 259
+Date commande : 0020-09-21T00:42:07
+----------------------------------------------------------------------------------------
+Nom Client : Dellinger
+Adresse Client : Colisee de Dressrosa, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Tablette d'Histoire Antique    : 1        * 12.35           = 12.35 
+Briquets a l'effigie de pirates : 5        * 72.75           = 363.75 
+Boussole Davy Back             : 1        * 61.15           = 61.15 
+T-shirt de Loguetown           : 1        * 8.60            = 8.60 
+Tirelires en forme de tonneaux : 1        * 0.05            = 0.05 
+----------------------------------------------------------------------------------------
+Total hors taxe : 445.90000000000003
+Total avec taxe : 535.08

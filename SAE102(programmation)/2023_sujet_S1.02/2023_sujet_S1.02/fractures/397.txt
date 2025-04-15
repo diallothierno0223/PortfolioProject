@@ -1,0 +1,15 @@
+Fracture N° 397
+Date commande : 0026-04-08T12:15:10
+----------------------------------------------------------------------------------------
+Nom Client : O-Kiku
+Adresse Client : Rue des Geishas, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Fruit du Demon Mera Mera       : 5        * 65.40           = 327.00 
+Chapeau de Gardien d'Enfer     : 1        * 11.95           = 11.95 
+T-shirt de Luffy               : 1        * 108.15          = 108.15 
+Fruit du Demon Mera Mera       : 1        * 65.40           = 65.40 
+Repliques de pieces de monnaie anciennes : 1        * 122.20          = 122.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 634.7
+Total avec taxe : 761.64

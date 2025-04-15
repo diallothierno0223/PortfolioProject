@@ -1,0 +1,13 @@
+Fracture N° 31
+Date commande : 0011-04-26T08:27:50
+----------------------------------------------------------------------------------------
+Nom Client : Helmeppo
+Adresse Client : Marineford, Quartier General de la Marine
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Tapis de Fourrure de Mink      : 4        * 59.80           = 239.20 
+Lunettes de Vision X-Round     : 3        * 26.20           = 78.60 
+Montre de Compteur Davy Back   : 6        * 58.60           = 351.60 
+----------------------------------------------------------------------------------------
+Total hors taxe : 669.4
+Total avec taxe : 803.28

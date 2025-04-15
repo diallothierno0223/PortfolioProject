@@ -1,0 +1,13 @@
+Fracture N° 107
+Date commande : 0015-03-10T21:55:52
+----------------------------------------------------------------------------------------
+Nom Client : Blueno
+Adresse Client : Cour Interieure, Enies Lobby
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Colliers avec des dents de requin : 3        * 41.40           = 124.20 
+Patisserie des Iles Caramel    : 5        * 43.35           = 216.75 
+T-shirt de Thriller Bark       : 1        * 57.00           = 57.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 397.95
+Total avec taxe : 477.53999999999996

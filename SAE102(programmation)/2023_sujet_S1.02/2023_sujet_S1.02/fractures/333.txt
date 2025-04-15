@@ -1,0 +1,12 @@
+Fracture N° 333
+Date commande : 0023-09-14T11:19:07
+----------------------------------------------------------------------------------------
+Nom Client : Fujitora
+Adresse Client : Plateau Royal, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bague de l'Arbre Sabondy       : 1        * 0.80            = 0.80 
+Instruments de navigation anciens : 9        * 38.65           = 347.85 
+----------------------------------------------------------------------------------------
+Total hors taxe : 348.65
+Total avec taxe : 418.37999999999994

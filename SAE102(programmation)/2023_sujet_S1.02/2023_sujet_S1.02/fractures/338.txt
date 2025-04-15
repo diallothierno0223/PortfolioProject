@@ -1,0 +1,14 @@
+Fracture N° 338
+Date commande : 0023-10-02T15:46:40
+----------------------------------------------------------------------------------------
+Nom Client : Kanjuro
+Adresse Client : Foret de Kanjuro, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Statuette de Riku Doldo III    : 6        * 65.55           = 393.30 
+Insignes de capitaine et de matelot : 1        * 61.25           = 61.25 
+Boucles d'oreilles de perles noires : 1        * 0.05            = 0.05 
+Pendentif des Dragons Celestes : 1        * 60.70           = 60.70 
+----------------------------------------------------------------------------------------
+Total hors taxe : 515.3
+Total avec taxe : 618.3599999999999

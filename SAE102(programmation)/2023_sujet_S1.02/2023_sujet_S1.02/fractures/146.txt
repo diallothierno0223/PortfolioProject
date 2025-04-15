@@ -1,0 +1,13 @@
+Fracture N° 146
+Date commande : 0016-08-16T09:49:52
+----------------------------------------------------------------------------------------
+Nom Client : Sabo
+Adresse Client : Foret de Fuschia, Fuschia
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Services de table maritimes    : 1        * 0.05            = 0.05 
+Chapeau de Soleil de Sabaody   : 1        * 46.10           = 46.10 
+Sabres de bordee               : 1        * 81.65           = 81.65 
+----------------------------------------------------------------------------------------
+Total hors taxe : 127.80000000000001
+Total avec taxe : 153.36

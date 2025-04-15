@@ -1,0 +1,15 @@
+Fracture N° 340
+Date commande : 0023-10-31T07:35:02
+----------------------------------------------------------------------------------------
+Nom Client : Carue
+Adresse Client : Stables Royaux, Alubarna
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Masque de Norland              : 8        * 64.55           = 516.40 
+Tasse Thousand Sunny           : 1        * 71.15           = 71.15 
+Tapis de Loguetown             : 11       * 28.80           = 316.80 
+Lance du Colisee Corrida       : 3        * 16.25           = 48.75 
+Bouclier de Defi Davy Back     : 9        * 26.95           = 242.55 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1195.6499999999999
+Total avec taxe : 1434.7799999999997

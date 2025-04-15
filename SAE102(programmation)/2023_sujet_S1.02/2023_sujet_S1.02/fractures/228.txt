@@ -1,0 +1,15 @@
+Fracture N° 228
+Date commande : 0019-10-28T11:34:12
+----------------------------------------------------------------------------------------
+Nom Client : Trafalgar D. Water Law
+Adresse Client : Pays de Wano
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Montres a gousset marines      : 1        * 69.60           = 69.60 
+Epee Buster Call               : 10       * 0.05            = 0.50 
+Sac de Sabaody                 : 4        * 46.85           = 187.40 
+Boucles d'oreilles de perles noires : 5        * 90.75           = 453.75 
+Repliques de pieces de monnaie anciennes : 1        * 122.20          = 122.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 833.45
+Total avec taxe : 1000.14

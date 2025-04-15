@@ -1,0 +1,14 @@
+Fracture N° 61
+Date commande : 0012-08-16T22:07:46
+----------------------------------------------------------------------------------------
+Nom Client : Vivi
+Adresse Client : Palais d'Alubarna, Alubarna
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+T-shirt de Dressrosa           : 1        * 33.40           = 33.40 
+Porte-cles Gouvernail en Laiton : 3        * 62.45           = 187.35 
+Boussole de Shandora           : 7        * 98.95           = 692.65 
+Gants de Gouvernail en Cuir    : 1        * 90.30           = 90.30 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1003.6999999999999
+Total avec taxe : 1204.4399999999998

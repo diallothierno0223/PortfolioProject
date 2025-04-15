@@ -1,0 +1,15 @@
+Fracture N° 366
+Date commande : 0025-03-03T09:10:41
+----------------------------------------------------------------------------------------
+Nom Client : Bepo
+Adresse Client : Foret des Hommes-Poissons, Fish-Man Island
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boussole a Energie Solaire de Franky : 2        * 58.30           = 116.60 
+Chapeau de Soleil de Sabaody   : 2        * 46.10           = 92.20 
+Services de table nautiques    : 8        * 44.30           = 354.40 
+Cafetiere de Water Seven       : 3        * 64.65           = 193.95 
+Drapeau de l'Equipage du Chapeau de Paille : 1        * 74.90           = 74.90 
+----------------------------------------------------------------------------------------
+Total hors taxe : 832.0500000000001
+Total avec taxe : 998.46

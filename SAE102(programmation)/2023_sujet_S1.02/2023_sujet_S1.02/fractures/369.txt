@@ -1,0 +1,15 @@
+Fracture N° 369
+Date commande : 0025-04-19T18:15:19
+----------------------------------------------------------------------------------------
+Nom Client : Rebecca
+Adresse Client : Colisee de Dressrosa, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Briquets a l'effigie de pirates : 1        * 72.75           = 72.75 
+Masque de Sogeking             : 1        * 0.05            = 0.05 
+Poupees de pirates en peluche  : 2        * 56.05           = 112.10 
+Livre de la Foret des Bulles   : 1        * 65.80           = 65.80 
+Drapeau de l'Equipage du Chapeau de Paille : 1        * 74.90           = 74.90 
+----------------------------------------------------------------------------------------
+Total hors taxe : 325.6
+Total avec taxe : 390.72

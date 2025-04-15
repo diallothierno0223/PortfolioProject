@@ -1,0 +1,12 @@
+Fracture N° 72
+Date commande : 0013-04-26T18:02:26
+----------------------------------------------------------------------------------------
+Nom Client : Monkey D. Luffy
+Adresse Client : Port de Fuschia
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Masque de Sogeking             : 4        * 0.05            = 0.20 
+Bracelet de l'Arbre Sabondy    : 1        * 102.80          = 102.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 103.0
+Total avec taxe : 123.6

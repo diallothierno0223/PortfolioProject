@@ -1,0 +1,15 @@
+Fracture N° 181
+Date commande : 0017-12-24T16:54:42
+----------------------------------------------------------------------------------------
+Nom Client : Roronoa Zoro
+Adresse Client : Dojo de Mihawk
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Masque de Norland              : 1        * 64.55           = 64.55 
+Colliers avec des dents de requin : 1        * 41.40           = 41.40 
+Gateau du Roi des Pirates      : 1        * 24.95           = 24.95 
+Boussole Doree                 : 3        * 38.05           = 114.15 
+Sac a Dos du Fournisseur       : 3        * 36.15           = 108.45 
+----------------------------------------------------------------------------------------
+Total hors taxe : 353.49999999999994
+Total avec taxe : 424.19999999999993

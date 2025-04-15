@@ -1,0 +1,12 @@
+Fracture N° 316
+Date commande : 0023-01-02T03:31:55
+----------------------------------------------------------------------------------------
+Nom Client : O-Kiku
+Adresse Client : Rue des Geishas, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Gateau du Fruit du Demon       : 2        * 65.85           = 131.70 
+Broches d'inspiration pirate   : 3        * 70.95           = 212.85 
+----------------------------------------------------------------------------------------
+Total hors taxe : 344.55
+Total avec taxe : 413.46

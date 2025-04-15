@@ -1,0 +1,15 @@
+Fracture N° 187
+Date commande : 0018-01-12T09:35:54
+----------------------------------------------------------------------------------------
+Nom Client : Kalifa
+Adresse Client : Salle de la Justice, Enies Lobby
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boussole de Loguetown          : 1        * 75.00           = 75.00 
+T-shirt de Loguetown           : 1        * 8.60            = 8.60 
+Livres de recits de pirates    : 1        * 24.40           = 24.40 
+Robe de Sabaody                : 1        * 53.30           = 53.30 
+Tablette d'Histoire Antique    : 8        * 12.35           = 98.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 260.1
+Total avec taxe : 312.12

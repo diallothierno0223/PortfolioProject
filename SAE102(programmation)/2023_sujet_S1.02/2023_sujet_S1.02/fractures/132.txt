@@ -1,0 +1,13 @@
+Fracture N° 132
+Date commande : 0016-01-02T20:03:41
+----------------------------------------------------------------------------------------
+Nom Client : Vista
+Adresse Client : Jardins de Merveille, Merveille
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Drapeaux de Jolly Roger authentiques : 8        * 82.60           = 660.80 
+Lunettes de Loguetown          : 1        * 40.20           = 40.20 
+Statuette de Luffy             : 1        * 7.70            = 7.70 
+----------------------------------------------------------------------------------------
+Total hors taxe : 708.7
+Total avec taxe : 850.44

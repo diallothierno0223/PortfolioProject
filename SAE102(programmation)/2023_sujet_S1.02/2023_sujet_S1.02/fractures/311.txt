@@ -1,0 +1,14 @@
+Fracture N° 311
+Date commande : 0022-10-26T01:28:31
+----------------------------------------------------------------------------------------
+Nom Client : Senor Pink
+Adresse Client : Bar des Sourires, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Veste de Capitaine du Voile    : 1        * 17.70           = 17.70 
+Tapis de Loguetown             : 4        * 28.80           = 115.20 
+Boucles d'oreilles de perles noires : 1        * 0.05            = 0.05 
+Gravure de Sandai Kitetsu      : 1        * 63.20           = 63.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 196.15000000000003
+Total avec taxe : 235.38000000000002

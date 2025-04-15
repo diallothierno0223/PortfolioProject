@@ -1,0 +1,12 @@
+Fracture N° 120
+Date commande : 0015-08-30T12:38:33
+----------------------------------------------------------------------------------------
+Nom Client : Katakuri
+Adresse Client : Boutique de Patisserie, Whole Cake Island
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Chapeaux de pirate en cuir     : 1        * 18.10           = 18.10 
+Montre de Compteur Davy Back   : 4        * 58.60           = 234.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 252.5
+Total avec taxe : 303.0

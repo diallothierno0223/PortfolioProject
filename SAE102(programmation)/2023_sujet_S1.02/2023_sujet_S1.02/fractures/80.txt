@@ -1,0 +1,11 @@
+Fracture N° 80
+Date commande : 0013-09-05T04:03:39
+----------------------------------------------------------------------------------------
+Nom Client : Kaku
+Adresse Client : Salle des Archives, Enies Lobby
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Colliers avec des dents de requin : 1        * 41.40           = 41.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 41.4
+Total avec taxe : 49.68

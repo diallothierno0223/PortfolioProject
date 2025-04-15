@@ -1,0 +1,11 @@
+Fracture N° 162
+Date commande : 0017-01-13T04:09:44
+----------------------------------------------------------------------------------------
+Nom Client : Inuarashi
+Adresse Client : Mont Inuarashi, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Veste de Capitaine du Voile    : 17       * 17.70           = 300.90 
+----------------------------------------------------------------------------------------
+Total hors taxe : 300.9
+Total avec taxe : 361.08

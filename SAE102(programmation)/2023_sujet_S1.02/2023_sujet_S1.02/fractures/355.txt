@@ -1,0 +1,15 @@
+Fracture N° 355
+Date commande : 0024-08-23T04:01:52
+----------------------------------------------------------------------------------------
+Nom Client : Monkey D. Luffy
+Adresse Client : Port de Fuschia
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+T-shirt du Fruit du Demon      : 1        * 52.15           = 52.15 
+Tapis de Souris Gouvernail     : 1        * 59.30           = 59.30 
+Fourreau en Cuir de Ryuma      : 1        * 72.45           = 72.45 
+Maquette du Thousand Sunny     : 12       * 50.55           = 606.60 
+Montre de Compteur Davy Back   : 2        * 58.60           = 117.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 907.6999999999999
+Total avec taxe : 1089.2399999999998

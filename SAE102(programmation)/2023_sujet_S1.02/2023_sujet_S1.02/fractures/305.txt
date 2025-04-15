@@ -1,0 +1,13 @@
+Fracture N° 305
+Date commande : 0022-08-27T01:18:24
+----------------------------------------------------------------------------------------
+Nom Client : Yamato
+Adresse Client : Cavernes des Ruines, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bijoux du Ciel                 : 1        * 33.95           = 33.95 
+Sac a Dos de Sogeking          : 1        * 93.25           = 93.25 
+Epee du Ciel                   : 3        * 12.05           = 36.15 
+----------------------------------------------------------------------------------------
+Total hors taxe : 163.35000000000002
+Total avec taxe : 196.02

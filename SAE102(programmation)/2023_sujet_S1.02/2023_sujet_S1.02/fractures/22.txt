@@ -1,0 +1,14 @@
+Fracture N° 22
+Date commande : 0010-11-28T13:29:17
+----------------------------------------------------------------------------------------
+Nom Client : Koby
+Adresse Client : Village de Goa, Goa Kingdom
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Tunique du Colisee Corrida     : 11       * 15.60           = 171.60 
+Longues-vues marines           : 6        * 92.10           = 552.60 
+Drapeau de l'Equipage du Chapeau de Paille : 5        * 74.90           = 374.50 
+Bracelet de l'Arbre Sabondy    : 1        * 102.80          = 102.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1201.4999999999998
+Total avec taxe : 1441.7999999999997

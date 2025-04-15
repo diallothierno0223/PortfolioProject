@@ -1,0 +1,15 @@
+Fracture N° 65
+Date commande : 0012-12-09T11:50:25
+----------------------------------------------------------------------------------------
+Nom Client : Marco
+Adresse Client : Cathedrale de Merveille, Merveille
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Epees forgees en acier marine  : 1        * 44.55           = 44.55 
+Cafetiere de Water Seven       : 3        * 64.65           = 193.95 
+Tapis de Fourrure de Mink      : 3        * 59.80           = 179.40 
+Tapis de Plage de Sabaody      : 1        * 82.85           = 82.85 
+Lunettes de Loguetown          : 1        * 40.20           = 40.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 540.95
+Total avec taxe : 649.14

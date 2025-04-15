@@ -1,0 +1,12 @@
+Fracture N° 10
+Date commande : 0010-07-13T15:54:38
+----------------------------------------------------------------------------------------
+Nom Client : Yamato
+Adresse Client : Cavernes des Ruines, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Cadenas de coffres de pirates  : 1        * 40.80           = 40.80 
+Pendentif de l'Arbre Sabondy   : 2        * 54.25           = 108.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 149.3
+Total avec taxe : 179.16

@@ -1,0 +1,12 @@
+Fracture N° 70
+Date commande : 0013-04-13T05:31:07
+----------------------------------------------------------------------------------------
+Nom Client : Sanji
+Adresse Client : Restaurant Baratie, All Blue Market
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+T-shirt du Fruit du Demon      : 7        * 52.15           = 365.05 
+Livre des Zombies              : 2        * 55.35           = 110.70 
+----------------------------------------------------------------------------------------
+Total hors taxe : 475.75
+Total avec taxe : 570.9

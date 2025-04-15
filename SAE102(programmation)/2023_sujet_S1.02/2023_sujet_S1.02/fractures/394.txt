@@ -1,0 +1,11 @@
+Fracture N° 394
+Date commande : 0026-02-27T09:05:16
+----------------------------------------------------------------------------------------
+Nom Client : Senor Pink
+Adresse Client : Bar des Sourires, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Drapeau du Voile               : 1        * 4.75            = 4.75 
+----------------------------------------------------------------------------------------
+Total hors taxe : 4.75
+Total avec taxe : 5.7

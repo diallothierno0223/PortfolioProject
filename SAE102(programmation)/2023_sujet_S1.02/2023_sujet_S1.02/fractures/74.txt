@@ -1,0 +1,11 @@
+Fracture N° 74
+Date commande : 0013-05-10T05:14:44
+----------------------------------------------------------------------------------------
+Nom Client : Wapol
+Adresse Client : Chateau Royal, Black Drum
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Fruit du Demon Hie Hie         : 2        * 60.00           = 120.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 120.0
+Total avec taxe : 144.0

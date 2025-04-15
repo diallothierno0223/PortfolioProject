@@ -1,0 +1,11 @@
+Fracture N° 260
+Date commande : 0020-09-29T01:15:07
+----------------------------------------------------------------------------------------
+Nom Client : Sengoku
+Adresse Client : Plaza Marineford, Marineford
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Tirelires en forme de tonneaux : 1        * 0.05            = 0.05 
+----------------------------------------------------------------------------------------
+Total hors taxe : 0.05
+Total avec taxe : 0.06

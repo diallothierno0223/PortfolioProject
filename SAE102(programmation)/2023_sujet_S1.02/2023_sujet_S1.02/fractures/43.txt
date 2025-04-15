@@ -1,0 +1,15 @@
+Fracture N° 43
+Date commande : 0011-12-30T13:38:57
+----------------------------------------------------------------------------------------
+Nom Client : Hack
+Adresse Client : Gymnase des Gladiateurs, Fish-Man Island
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Chapeau de Capitaine Noir      : 4        * 72.75           = 291.00 
+Katana Ame no Habakiri         : 1        * 31.95           = 31.95 
+Chocolat du Fruit du Demon     : 1        * 69.75           = 69.75 
+Gants en Metal de Franky       : 1        * 25.50           = 25.50 
+Jeux de Societe Davy Back      : 2        * 78.20           = 156.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 574.6
+Total avec taxe : 689.52

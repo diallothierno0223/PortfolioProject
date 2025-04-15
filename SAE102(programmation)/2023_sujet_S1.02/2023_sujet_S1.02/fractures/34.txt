@@ -1,0 +1,15 @@
+Fracture N° 34
+Date commande : 0011-05-30T23:43:30
+----------------------------------------------------------------------------------------
+Nom Client : Garp
+Adresse Client : Salle des Amiraux, Marine HQ, Sabaody
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Livre des Zombies              : 14       * 55.35           = 774.90 
+Services de table maritimes    : 1        * 54.10           = 54.10 
+Sac a Dos de Sogeking          : 7        * 93.25           = 652.75 
+Bouclier du Colisee Corrida    : 6        * 14.95           = 89.70 
+Badges decoratifs pour sacs    : 11       * 113.55          = 1249.05 
+----------------------------------------------------------------------------------------
+Total hors taxe : 2820.5
+Total avec taxe : 3384.6

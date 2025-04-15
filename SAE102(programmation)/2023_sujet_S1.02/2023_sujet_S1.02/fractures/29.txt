@@ -1,0 +1,13 @@
+Fracture N° 29
+Date commande : 0011-04-12T13:44:35
+----------------------------------------------------------------------------------------
+Nom Client : Denjiro
+Adresse Client : Rue des Artisans, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Anciens sextants de navigation : 3        * 25.80           = 77.40 
+Tresor d'Or en Boite           : 1        * 71.40           = 71.40 
+Fruit du Demon Gura Gura       : 1        * 54.50           = 54.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 203.3
+Total avec taxe : 243.96

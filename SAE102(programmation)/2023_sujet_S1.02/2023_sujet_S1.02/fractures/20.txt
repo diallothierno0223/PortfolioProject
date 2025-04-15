@@ -1,0 +1,15 @@
+Fracture N° 20
+Date commande : 0010-10-02T20:15:28
+----------------------------------------------------------------------------------------
+Nom Client : Vivi
+Adresse Client : Palais d'Alubarna, Alubarna
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boucles d'oreilles de perles noires : 2        * 0.05            = 0.10 
+Bouteilles de parfum au sillage marin : 2        * 28.40           = 56.80 
+Boussole du Fournisseur        : 1        * 76.50           = 76.50 
+T-shirt de Franky              : 7        * 68.95           = 482.65 
+Tapisserie des Anciens         : 1        * 32.50           = 32.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 648.5500000000001
+Total avec taxe : 778.2600000000001

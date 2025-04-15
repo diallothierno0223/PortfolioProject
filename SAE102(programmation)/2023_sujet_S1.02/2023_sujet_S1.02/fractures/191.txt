@@ -1,0 +1,15 @@
+Fracture N° 191
+Date commande : 0018-02-22T13:16:11
+----------------------------------------------------------------------------------------
+Nom Client : Coby
+Adresse Client : Village de Goat, Ile de Goat
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boussole Davy Back             : 3        * 61.15           = 183.45 
+Figurines de legendaires pirates : 1        * 60.15           = 60.15 
+Chapeau de Loguetown           : 3        * 66.90           = 200.70 
+Chapeau de Soleil de Sabaody   : 1        * 46.10           = 46.10 
+Chapeau de Loguetown           : 1        * 66.90           = 66.90 
+----------------------------------------------------------------------------------------
+Total hors taxe : 557.3000000000001
+Total avec taxe : 668.7600000000001

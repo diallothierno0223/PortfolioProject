@@ -1,0 +1,15 @@
+Fracture N° 195
+Date commande : 0018-04-01T16:25:42
+----------------------------------------------------------------------------------------
+Nom Client : Caesar Clown
+Adresse Client : Laboratoire de Caesar, Punk Hazard
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Montre de Compteur Davy Back   : 1        * 58.60           = 58.60 
+Collier de Sabaody             : 3        * 44.50           = 133.50 
+Cape de Cipher Pol             : 8        * 48.85           = 390.80 
+Boussole du Chapeau de Paille  : 1        * 45.85           = 45.85 
+Katana Shusui                  : 1        * 66.15           = 66.15 
+----------------------------------------------------------------------------------------
+Total hors taxe : 694.9
+Total avec taxe : 833.88

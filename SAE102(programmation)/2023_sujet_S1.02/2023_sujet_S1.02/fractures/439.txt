@@ -1,0 +1,12 @@
+Fracture N° 439
+Date commande : 0028-01-04T08:58:14
+----------------------------------------------------------------------------------------
+Nom Client : Tony Tony Chopper
+Adresse Client : Bureau du Docteur Kureha, Montagne Drum
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bouclier de Barreaux           : 1        * 66.85           = 66.85 
+Veste de Capitaine du Voile    : 11       * 17.70           = 194.70 
+----------------------------------------------------------------------------------------
+Total hors taxe : 261.54999999999995
+Total avec taxe : 313.85999999999996

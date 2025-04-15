@@ -1,0 +1,12 @@
+Fracture N° 198
+Date commande : 0018-05-06T21:37:03
+----------------------------------------------------------------------------------------
+Nom Client : Rebecca
+Adresse Client : Colisee de Dressrosa, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Eventail en Forme de Gateau    : 1        * 36.70           = 36.70 
+Sceptre du Monde Celeste       : 1        * 29.00           = 29.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 65.7
+Total avec taxe : 78.84

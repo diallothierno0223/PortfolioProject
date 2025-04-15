@@ -1,0 +1,13 @@
+Fracture N° 27
+Date commande : 0011-03-31T02:27:47
+----------------------------------------------------------------------------------------
+Nom Client : Kizaru
+Adresse Client : Grove 1, Sabaody
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Masque de Sogeking             : 1        * 0.05            = 0.05 
+Fruit du Demon Gura Gura       : 4        * 54.50           = 218.00 
+Boussole du Fournisseur        : 1        * 76.50           = 76.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 294.55
+Total avec taxe : 353.46

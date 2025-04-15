@@ -1,0 +1,13 @@
+Fracture N° 282
+Date commande : 0021-07-24T20:20:12
+----------------------------------------------------------------------------------------
+Nom Client : Enel
+Adresse Client : Arche Maxim, Upper Yard
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bague de l'Arbre Sabondy       : 1        * 0.80            = 0.80 
+Bouclier de Defi Davy Back     : 3        * 26.95           = 80.85 
+Livres de recits de pirates    : 4        * 48.35           = 193.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 275.05
+Total avec taxe : 330.06

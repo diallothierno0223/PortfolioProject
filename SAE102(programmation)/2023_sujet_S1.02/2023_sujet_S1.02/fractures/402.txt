@@ -1,0 +1,14 @@
+Fracture N° 402
+Date commande : 0026-06-09T01:00:20
+----------------------------------------------------------------------------------------
+Nom Client : Trebol
+Adresse Client : Porte du Manoir Donquixote, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Gants en Metal de Franky       : 6        * 25.50           = 153.00 
+Katana Shusui                  : 1        * 66.15           = 66.15 
+Robe de Sabaody                : 8        * 53.30           = 426.40 
+Chapeau de Fourrure de Mink    : 1        * 83.50           = 83.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 729.05
+Total avec taxe : 874.8599999999999

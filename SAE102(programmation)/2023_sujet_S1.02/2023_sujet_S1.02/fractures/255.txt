@@ -1,0 +1,13 @@
+Fracture N° 255
+Date commande : 0020-08-29T18:16:34
+----------------------------------------------------------------------------------------
+Nom Client : Crocodile
+Adresse Client : Casino Rain Dinners, Rainbase
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Poupees de pirates en peluche  : 1        * 48.45           = 48.45 
+T-shirt de Luffy               : 2        * 108.15          = 216.30 
+Casque du Colisee Corrida      : 2        * 98.65           = 197.30 
+----------------------------------------------------------------------------------------
+Total hors taxe : 462.05
+Total avec taxe : 554.46

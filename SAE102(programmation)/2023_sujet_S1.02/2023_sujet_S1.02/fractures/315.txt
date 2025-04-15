@@ -1,0 +1,15 @@
+Fracture N° 315
+Date commande : 0022-12-20T06:08:15
+----------------------------------------------------------------------------------------
+Nom Client : Sabo
+Adresse Client : Foret de Fuschia, Fuschia
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Poupees de pirates en peluche  : 1        * 48.45           = 48.45 
+Statuette de Moria             : 2        * 28.50           = 57.00 
+Dagues de capitaine            : 1        * 21.95           = 21.95 
+Epee du Ciel                   : 2        * 12.05           = 24.10 
+Tapisserie des Anciens         : 8        * 32.50           = 260.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 411.5
+Total avec taxe : 493.79999999999995

@@ -1,0 +1,15 @@
+Fracture N° 199
+Date commande : 0018-05-07T18:05:15
+----------------------------------------------------------------------------------------
+Nom Client : Dr. Hiriluk
+Adresse Client : Chambre du Dr. Hiriluk, Drum Rockies
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Epee Sandai Kitetsu            : 5        * 64.65           = 323.25 
+T-shirt de Wano                : 5        * 70.30           = 351.50 
+Collier de l'Arbre Sabondy     : 1        * 23.25           = 23.25 
+Cadenas de coffres de pirates  : 4        * 0.05            = 0.20 
+Chapeau de Capitaine Noir      : 7        * 72.75           = 509.25 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1207.45
+Total avec taxe : 1448.94

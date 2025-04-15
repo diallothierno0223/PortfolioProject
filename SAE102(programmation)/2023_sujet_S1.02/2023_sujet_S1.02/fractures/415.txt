@@ -1,0 +1,11 @@
+Fracture N° 415
+Date commande : 0026-11-28T01:42:33
+----------------------------------------------------------------------------------------
+Nom Client : Brook
+Adresse Client : Bateau Thousand Sunny, Florian Triangle
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Tablette d'Histoire Antique    : 8        * 12.35           = 98.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 98.8
+Total avec taxe : 118.55999999999999

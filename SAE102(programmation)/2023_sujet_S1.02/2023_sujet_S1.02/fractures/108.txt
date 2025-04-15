@@ -1,0 +1,11 @@
+Fracture N° 108
+Date commande : 0015-03-15T02:35:48
+----------------------------------------------------------------------------------------
+Nom Client : Absalom
+Adresse Client : Jardin des Zombies, Thriller Bark
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Gravure de Sandai Kitetsu      : 8        * 63.20           = 505.60 
+----------------------------------------------------------------------------------------
+Total hors taxe : 505.6
+Total avec taxe : 606.72

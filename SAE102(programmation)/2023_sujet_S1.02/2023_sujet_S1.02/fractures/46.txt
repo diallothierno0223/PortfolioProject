@@ -1,0 +1,13 @@
+Fracture N° 46
+Date commande : 0012-01-13T09:44:50
+----------------------------------------------------------------------------------------
+Nom Client : Vinsmoke Sanji
+Adresse Client : Restaurant Baratie, All Blue Market
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+T-shirt du Fruit du Demon      : 6        * 52.15           = 312.90 
+Fourreau en Cuir de Ryuma      : 10       * 72.45           = 724.50 
+Bouclier de Defi Davy Back     : 1        * 26.95           = 26.95 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1064.3500000000001
+Total avec taxe : 1277.22

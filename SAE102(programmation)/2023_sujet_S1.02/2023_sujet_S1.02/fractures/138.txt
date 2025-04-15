@@ -1,0 +1,15 @@
+Fracture N° 138
+Date commande : 0016-03-18T16:15:16
+----------------------------------------------------------------------------------------
+Nom Client : Katakuri
+Adresse Client : Boutique de Patisserie, Whole Cake Island
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boussole Doree                 : 1        * 38.05           = 38.05 
+Boussole Davy Back             : 4        * 61.15           = 244.60 
+Insignes de capitaine et de matelot : 3        * 61.25           = 183.75 
+Katana Enma                    : 8        * 71.65           = 573.20 
+Bracelet de l'Ordre Celeste    : 2        * 37.55           = 75.10 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1114.6999999999998
+Total avec taxe : 1337.6399999999996

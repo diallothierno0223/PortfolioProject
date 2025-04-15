@@ -1,0 +1,11 @@
+Fracture N° 140
+Date commande : 0016-04-19T11:13:37
+----------------------------------------------------------------------------------------
+Nom Client : Tsuru
+Adresse Client : Quartier General de la Marine, Marineford
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Gravure de Sandai Kitetsu      : 14       * 63.20           = 884.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 884.8000000000001
+Total avec taxe : 1061.76

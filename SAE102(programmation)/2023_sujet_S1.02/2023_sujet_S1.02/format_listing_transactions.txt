@@ -1,0 +1,16 @@
+# ------------------------------------------------------------------------------
+# Listing transactions 
+# 
+#     - Version      : CVXXII
+#     - Owner        : Grand Line Discount
+#     - Dernière Maj : 0028-10-14T23:59:59 ap. Gold Roger
+#
+# Format :
+#     - col 0 : InvoiceID     (identifiant unique de la facture/transaction),
+#     - col 1 : ClientID      (identifiant unique du client),
+#     - col 2 : Date          (heure de la transaction),
+#     - col 3 : RefCount      (nombre de références différentes dans le panier)
+#     - (col 4+i, col 5+i) avec i variant de O à (RefCount-1):
+#           * col 3+i : RefID     (identifiant unique de la reference produit),
+#           * col 4+i : Quantity  (nombre d'items dans le panier).
+# ------------------------------------------------------------------------------

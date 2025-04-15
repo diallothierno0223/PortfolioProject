@@ -1,0 +1,12 @@
+Fracture N° 179
+Date commande : 0017-11-10T04:34:30
+----------------------------------------------------------------------------------------
+Nom Client : Kozuki Oden
+Adresse Client : Chateau Oden, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Eventail en Forme de Gateau    : 6        * 36.70           = 220.20 
+Badges decoratifs pour sacs    : 8        * 113.55          = 908.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1128.6
+Total avec taxe : 1354.32

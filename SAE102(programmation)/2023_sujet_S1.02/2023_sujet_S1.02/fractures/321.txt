@@ -1,0 +1,13 @@
+Fracture N° 321
+Date commande : 0023-02-14T04:34:08
+----------------------------------------------------------------------------------------
+Nom Client : Marco
+Adresse Client : Cathedrale de Merveille, Merveille
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Repliques de pieces de monnaie anciennes : 1        * 122.20          = 122.20 
+Drapeau de Sogeking            : 1        * 29.20           = 29.20 
+Gateau du Fruit du Demon       : 1        * 65.85           = 65.85 
+----------------------------------------------------------------------------------------
+Total hors taxe : 217.25
+Total avec taxe : 260.7

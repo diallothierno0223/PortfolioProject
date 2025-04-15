@@ -1,0 +1,13 @@
+Fracture N° 124
+Date commande : 0015-09-26T16:52:46
+----------------------------------------------------------------------------------------
+Nom Client : Wapol
+Adresse Client : Chateau Royal, Black Drum
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Epee Buster Call               : 2        * 0.05            = 0.10 
+Livre de la Foret des Bulles   : 6        * 65.80           = 394.80 
+T-shirt de Loguetown           : 3        * 8.60            = 25.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 420.7
+Total avec taxe : 504.84

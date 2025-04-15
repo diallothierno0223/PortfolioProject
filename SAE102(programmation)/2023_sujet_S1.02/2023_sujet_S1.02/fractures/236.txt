@@ -1,0 +1,15 @@
+Fracture N° 236
+Date commande : 0020-01-03T14:18:37
+----------------------------------------------------------------------------------------
+Nom Client : Sengoku
+Adresse Client : Plaza Marineford, Marineford
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Statuette de Riku Doldo III    : 1        * 65.55           = 65.55 
+Epee Sandai Kitetsu            : 4        * 64.65           = 258.60 
+Longues-vues marines           : 1        * 92.10           = 92.10 
+Poupees de pirates en peluche  : 1        * 56.05           = 56.05 
+Veste de Capitaine du Voile    : 7        * 17.70           = 123.90 
+----------------------------------------------------------------------------------------
+Total hors taxe : 596.2
+Total avec taxe : 715.44

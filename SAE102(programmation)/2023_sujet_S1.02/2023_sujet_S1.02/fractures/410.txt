@@ -1,0 +1,12 @@
+Fracture N° 410
+Date commande : 0026-10-19T13:12:59
+----------------------------------------------------------------------------------------
+Nom Client : Nekomamushi
+Adresse Client : Mont Nekomamushi, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Collier du Joker               : 4        * 26.05           = 104.20 
+Tapis de Plage de Sabaody      : 1        * 82.85           = 82.85 
+----------------------------------------------------------------------------------------
+Total hors taxe : 187.05
+Total avec taxe : 224.46

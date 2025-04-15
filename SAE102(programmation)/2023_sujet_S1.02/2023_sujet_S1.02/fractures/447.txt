@@ -1,0 +1,14 @@
+Fracture N° 447
+Date commande : 0028-03-11T02:13:58
+----------------------------------------------------------------------------------------
+Nom Client : Vivi
+Adresse Client : Palais d'Alubarna, Alubarna
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Figurines de legendaires pirates : 9        * 55.45           = 499.05 
+Bonbons du Fruit du Demon      : 3        * 45.35           = 136.05 
+Lunettes de Vision X-Round     : 1        * 26.20           = 26.20 
+Katana Shusui                  : 1        * 66.15           = 66.15 
+----------------------------------------------------------------------------------------
+Total hors taxe : 727.45
+Total avec taxe : 872.94

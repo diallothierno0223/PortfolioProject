@@ -1,0 +1,12 @@
+Fracture N° 349
+Date commande : 0024-07-25T16:50:55
+----------------------------------------------------------------------------------------
+Nom Client : Smoker
+Adresse Client : Quartier General de la Marine, G-5
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Katana Enma                    : 4        * 71.65           = 286.60 
+Briques de Lego de navires pirates : 1        * 28.10           = 28.10 
+----------------------------------------------------------------------------------------
+Total hors taxe : 314.70000000000005
+Total avec taxe : 377.64000000000004

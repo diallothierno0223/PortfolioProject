@@ -1,0 +1,13 @@
+Fracture N° 121
+Date commande : 0015-09-15T10:32:43
+----------------------------------------------------------------------------------------
+Nom Client : Bon Clay (Mr. 2)
+Adresse Client : Niveau 2 - Enfer Eternel, Impel Down
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Chapeau de Capitaine Noir      : 4        * 72.75           = 291.00 
+Cape de Cipher Pol             : 3        * 48.85           = 146.55 
+Tapisserie Equipage du Voile   : 1        * 64.05           = 64.05 
+----------------------------------------------------------------------------------------
+Total hors taxe : 501.6
+Total avec taxe : 601.92

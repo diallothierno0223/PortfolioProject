@@ -1,0 +1,11 @@
+Fracture N° 229
+Date commande : 0019-10-31T22:26:40
+----------------------------------------------------------------------------------------
+Nom Client : Ryokugyu
+Adresse Client : Quartier des Equipages, Onigashima
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bouclier du Fournisseur        : 1        * 66.40           = 66.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 66.4
+Total avec taxe : 79.68

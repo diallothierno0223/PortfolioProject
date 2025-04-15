@@ -1,0 +1,12 @@
+Fracture N° 294
+Date commande : 0022-04-11T14:08:53
+----------------------------------------------------------------------------------------
+Nom Client : Red-Haired Shanks
+Adresse Client : Bar de Makino, Fuschia
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Katana Ame no Habakiri         : 1        * 31.95           = 31.95 
+Statuette de Luffy             : 1        * 7.70            = 7.70 
+----------------------------------------------------------------------------------------
+Total hors taxe : 39.65
+Total avec taxe : 47.58

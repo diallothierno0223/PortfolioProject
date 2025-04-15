@@ -1,0 +1,13 @@
+Fracture N° 376
+Date commande : 0025-08-26T10:18:45
+----------------------------------------------------------------------------------------
+Nom Client : Bellemere
+Adresse Client : Cocoyashi Village, Cocoyashi
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boussole du Fournisseur        : 1        * 76.50           = 76.50 
+Colliers avec des dents de requin : 18       * 41.40           = 745.20 
+Fourreau en Cuir de Ryuma      : 1        * 72.45           = 72.45 
+----------------------------------------------------------------------------------------
+Total hors taxe : 894.15
+Total avec taxe : 1072.98

@@ -1,0 +1,13 @@
+Fracture N° 135
+Date commande : 0016-02-28T22:37:52
+----------------------------------------------------------------------------------------
+Nom Client : Diamante
+Adresse Client : Stade Corrida, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Jus de Fruit du Demon          : 1        * 47.70           = 47.70 
+Pendules de bord vintage       : 2        * 0.05            = 0.10 
+Maquette du Siecle Oublie      : 5        * 56.00           = 280.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 327.8
+Total avec taxe : 393.36

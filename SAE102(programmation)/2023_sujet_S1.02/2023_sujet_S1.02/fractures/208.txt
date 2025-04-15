@@ -1,0 +1,15 @@
+Fracture N° 208
+Date commande : 0018-08-03T09:30:25
+----------------------------------------------------------------------------------------
+Nom Client : Fukurou
+Adresse Client : Quartiers des Gardiens, Enies Lobby
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Briquets a l'effigie de pirates : 1        * 72.75           = 72.75 
+Cape du Ciel                   : 1        * 112.00          = 112.00 
+Pendules de bord vintage       : 2        * 0.05            = 0.10 
+Sceptre du Monde Celeste       : 1        * 29.00           = 29.00 
+Tapisserie des Anciens         : 4        * 32.50           = 130.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 343.85
+Total avec taxe : 412.62

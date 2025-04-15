@@ -1,0 +1,14 @@
+Fracture N° 32
+Date commande : 0011-05-17T15:14:13
+----------------------------------------------------------------------------------------
+Nom Client : Kaido
+Adresse Client : Sommet d'Onigashima, Onigashima
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Collier de Wano                : 3        * 73.25           = 219.75 
+Katana Ame no Habakiri         : 1        * 31.95           = 31.95 
+Chapeau de Fourrure de Mink    : 1        * 83.50           = 83.50 
+Briques de Lego de navires pirates : 1        * 28.10           = 28.10 
+----------------------------------------------------------------------------------------
+Total hors taxe : 363.3
+Total avec taxe : 435.96

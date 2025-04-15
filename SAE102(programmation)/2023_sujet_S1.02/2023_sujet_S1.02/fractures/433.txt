@@ -1,0 +1,13 @@
+Fracture N° 433
+Date commande : 0027-10-21T12:15:03
+----------------------------------------------------------------------------------------
+Nom Client : Bepo
+Adresse Client : Foret des Hommes-Poissons, Fish-Man Island
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Sabres forges en acier de qualite marine : 3        * 75.25           = 225.75 
+Figurines des Ombres           : 1        * 98.25           = 98.25 
+Fruit du Demon Bara Bara       : 5        * 48.30           = 241.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 565.5
+Total avec taxe : 678.6

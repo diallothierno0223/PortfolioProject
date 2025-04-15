@@ -1,0 +1,12 @@
+Fracture N° 266
+Date commande : 0020-11-07T19:54:25
+----------------------------------------------------------------------------------------
+Nom Client : Silvers Rayleigh
+Adresse Client : Parc Sabaody, Sabaody
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Tresor d'Or en Boite           : 7        * 71.40           = 499.80 
+Bouclier de Zou                : 7        * 99.00           = 693.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1192.8000000000002
+Total avec taxe : 1431.3600000000001

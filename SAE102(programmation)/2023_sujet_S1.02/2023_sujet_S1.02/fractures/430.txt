@@ -1,0 +1,14 @@
+Fracture N° 430
+Date commande : 0027-08-27T13:49:36
+----------------------------------------------------------------------------------------
+Nom Client : Sanji
+Adresse Client : Restaurant Baratie, All Blue Market
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Services de table maritimes    : 3        * 0.05            = 0.15 
+Epee Buster Call               : 3        * 0.05            = 0.15 
+Cape du Ciel                   : 1        * 112.00          = 112.00 
+Briques de Lego de navires pirates : 2        * 28.10           = 56.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 168.5
+Total avec taxe : 202.2

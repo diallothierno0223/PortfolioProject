@@ -1,0 +1,15 @@
+Fracture N° 38
+Date commande : 0011-08-31T11:02:48
+----------------------------------------------------------------------------------------
+Nom Client : Helmeppo
+Adresse Client : Marineford, Quartier General de la Marine
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Tresor d'Or en Boite           : 2        * 71.40           = 142.80 
+Statuette de Moria             : 1        * 28.50           = 28.50 
+Maquette du Siecle Oublie      : 1        * 56.00           = 56.00 
+Pendentif des Dragons Celestes : 2        * 60.70           = 121.40 
+Boucles d'oreilles de perles noires : 5        * 54.20           = 271.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 619.7
+Total avec taxe : 743.64

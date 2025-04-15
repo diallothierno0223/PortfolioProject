@@ -1,0 +1,11 @@
+Fracture N° 73
+Date commande : 0013-04-26T20:56:17
+----------------------------------------------------------------------------------------
+Nom Client : Kozuki Oden
+Adresse Client : Chateau Oden, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Gants du Colisee Corrida       : 7        * 63.95           = 447.65 
+----------------------------------------------------------------------------------------
+Total hors taxe : 447.65000000000003
+Total avec taxe : 537.1800000000001

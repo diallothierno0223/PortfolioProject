@@ -1,0 +1,15 @@
+Fracture N° 302
+Date commande : 0022-06-30T03:25:10
+----------------------------------------------------------------------------------------
+Nom Client : Kawamatsu
+Adresse Client : Riviere Kawamatsu, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Fruit du Demon Gomu Gomu       : 1        * 71.90           = 71.90 
+Boussole du Ciel               : 1        * 96.05           = 96.05 
+Maquettes de navires de legende : 13       * 52.30           = 679.90 
+Sceptre du Monde Celeste       : 9        * 29.00           = 261.00 
+Pendentif Demon d'Or           : 1        * 21.80           = 21.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1130.6499999999999
+Total avec taxe : 1356.7799999999997

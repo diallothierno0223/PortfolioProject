@@ -1,0 +1,15 @@
+Fracture N° 419
+Date commande : 0027-05-06T19:58:36
+----------------------------------------------------------------------------------------
+Nom Client : Marshall D. Teach (Barbe Noire)
+Adresse Client : Foret de Fuschia, Fuschia
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+T-shirt des Charpentiers de Water Seven : 1        * 20.60           = 20.60 
+Poupees de pirates en peluche  : 4        * 48.45           = 193.80 
+Medaillon du Siecle Oublie     : 5        * 43.60           = 218.00 
+Replique du Pluton             : 1        * 40.90           = 40.90 
+Modele de Navire de Guerre Buster Call : 1        * 37.80           = 37.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 511.09999999999997
+Total avec taxe : 613.3199999999999

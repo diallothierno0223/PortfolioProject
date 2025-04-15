@@ -1,0 +1,15 @@
+Fracture N° 323
+Date commande : 0023-03-03T04:02:04
+----------------------------------------------------------------------------------------
+Nom Client : Silvers Rayleigh
+Adresse Client : Parc Sabaody, Sabaody
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Chapeau de Gladiator           : 1        * 31.50           = 31.50 
+Epee du Ciel                   : 1        * 12.05           = 12.05 
+Collier de l'Ordre Celeste     : 1        * 70.60           = 70.60 
+Gants de Cipher Pol            : 5        * 36.45           = 182.25 
+Chapeaux de pirate en cuir     : 1        * 18.10           = 18.10 
+----------------------------------------------------------------------------------------
+Total hors taxe : 314.5
+Total avec taxe : 377.4

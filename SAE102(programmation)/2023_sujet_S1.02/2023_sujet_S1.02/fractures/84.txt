@@ -1,0 +1,12 @@
+Fracture N° 84
+Date commande : 0014-01-17T19:19:40
+----------------------------------------------------------------------------------------
+Nom Client : Rob Lucci
+Adresse Client : Quartiers Generaux du CP9, Enies Lobby
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Pendentif Demon d'Or           : 1        * 21.80           = 21.80 
+Tresor d'Or en Boite           : 9        * 71.40           = 642.60 
+----------------------------------------------------------------------------------------
+Total hors taxe : 664.4
+Total avec taxe : 797.28

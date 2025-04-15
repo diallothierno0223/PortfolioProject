@@ -1,0 +1,15 @@
+Fracture N° 52
+Date commande : 0012-05-01T22:53:33
+----------------------------------------------------------------------------------------
+Nom Client : Pappug
+Adresse Client : Place des Marchands, Fish-Man Island
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bonbons de Big Mom             : 1        * 30.80           = 30.80 
+Dagues de capitaine            : 1        * 21.95           = 21.95 
+Gravure de Sandai Kitetsu      : 3        * 63.20           = 189.60 
+Jeux de societe de bataille navale : 8        * 0.05            = 0.40 
+Armes de Cipher Pol            : 5        * 0.05            = 0.25 
+----------------------------------------------------------------------------------------
+Total hors taxe : 243.00000000000003
+Total avec taxe : 291.6

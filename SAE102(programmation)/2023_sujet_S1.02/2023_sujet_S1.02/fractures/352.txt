@@ -1,0 +1,14 @@
+Fracture N° 352
+Date commande : 0024-08-03T23:06:11
+----------------------------------------------------------------------------------------
+Nom Client : Vivi
+Adresse Client : Palais d'Alubarna, Alubarna
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Sabre de l'Equipage d'Or       : 5        * 28.20           = 141.00 
+Sceptre du Monde Celeste       : 1        * 29.00           = 29.00 
+Tapis de Fourrure de Mink      : 6        * 59.80           = 358.80 
+Boucle de ceinturon tete de mort : 1        * 90.45           = 90.45 
+----------------------------------------------------------------------------------------
+Total hors taxe : 619.25
+Total avec taxe : 743.1

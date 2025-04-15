@@ -1,0 +1,12 @@
+Fracture N° 412
+Date commande : 0026-10-29T02:13:21
+----------------------------------------------------------------------------------------
+Nom Client : Bellemere
+Adresse Client : Cocoyashi Village, Cocoyashi
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Fourreau en Cuir de Ryuma      : 1        * 72.45           = 72.45 
+Tapis de Loguetown             : 1        * 28.80           = 28.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 101.25
+Total avec taxe : 121.5

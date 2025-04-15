@@ -1,0 +1,12 @@
+# ------------------------------------------------------------------------------
+# Listing des clients 
+# 
+#     - Version      : CVXXII
+#     - Owner        : Grand Line Discount
+#     - Dernière Maj : 0028-10-14T23:59:59 ap. Gold Roger
+#
+# Format :
+#     - col 0 : ClientID      (identifiant unique du client),
+#     - col 1 : ClientName    (nom du client),
+#     - col 2 : ClientAdress  (adresse de livraison).
+# ------------------------------------------------------------------------------

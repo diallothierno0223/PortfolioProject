@@ -1,0 +1,12 @@
+Fracture N° 277
+Date commande : 0021-04-02T12:28:29
+----------------------------------------------------------------------------------------
+Nom Client : Buggy le Clown
+Adresse Client : Place du Marche, Fuschia
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Badges decoratifs pour sacs    : 1        * 113.55          = 113.55 
+Services de table nautiques    : 1        * 44.30           = 44.30 
+----------------------------------------------------------------------------------------
+Total hors taxe : 157.85
+Total avec taxe : 189.42

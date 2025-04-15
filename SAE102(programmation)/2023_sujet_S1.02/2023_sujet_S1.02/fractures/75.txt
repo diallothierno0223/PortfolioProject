@@ -1,0 +1,13 @@
+Fracture N° 75
+Date commande : 0013-06-13T17:15:01
+----------------------------------------------------------------------------------------
+Nom Client : Roronoa Zoro
+Adresse Client : Dojo de Mihawk
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Cafetiere de Water Seven       : 1        * 64.65           = 64.65 
+Drapeau de Sogeking            : 1        * 29.20           = 29.20 
+T-shirt de Wano                : 8        * 70.30           = 562.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 656.25
+Total avec taxe : 787.5

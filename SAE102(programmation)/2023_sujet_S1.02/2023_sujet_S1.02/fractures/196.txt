@@ -1,0 +1,14 @@
+Fracture N° 196
+Date commande : 0018-04-07T10:08:16
+----------------------------------------------------------------------------------------
+Nom Client : Charlotte Linlin (Big Mom)
+Adresse Client : Salle du Trone, Whole Cake Chateau
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Tresor d'Or en Boite           : 1        * 71.40           = 71.40 
+T-shirt de Loguetown           : 4        * 8.60            = 34.40 
+Repliques de pieces de monnaie anciennes : 2        * 122.20          = 244.40 
+T-shirt de Impel Down          : 1        * 21.30           = 21.30 
+----------------------------------------------------------------------------------------
+Total hors taxe : 371.50000000000006
+Total avec taxe : 445.80000000000007

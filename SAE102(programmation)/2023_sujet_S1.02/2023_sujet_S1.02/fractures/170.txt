@@ -1,0 +1,11 @@
+Fracture N° 170
+Date commande : 0017-07-27T18:37:04
+----------------------------------------------------------------------------------------
+Nom Client : Smoker
+Adresse Client : Quartier General de la Marine, G-5
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+T-shirt de Loguetown           : 1        * 8.60            = 8.60 
+----------------------------------------------------------------------------------------
+Total hors taxe : 8.6
+Total avec taxe : 10.319999999999999

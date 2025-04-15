@@ -1,0 +1,14 @@
+Fracture N° 23
+Date commande : 0010-12-12T09:28:19
+----------------------------------------------------------------------------------------
+Nom Client : Dracule Mihawk
+Adresse Client : Chateau de Mihawk, Kuraigana
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Jeux de Societe Davy Back      : 1        * 78.20           = 78.20 
+Boussole a Energie Solaire de Franky : 1        * 58.30           = 58.30 
+Boucles d'Oreilles de Zou      : 1        * 36.05           = 36.05 
+Insignes de capitaine et de matelot : 1        * 61.25           = 61.25 
+----------------------------------------------------------------------------------------
+Total hors taxe : 233.8
+Total avec taxe : 280.56

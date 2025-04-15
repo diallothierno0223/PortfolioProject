@@ -1,0 +1,14 @@
+Fracture N° 237
+Date commande : 0020-01-07T17:11:10
+----------------------------------------------------------------------------------------
+Nom Client : Vista
+Adresse Client : Jardins de Merveille, Merveille
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Tirelires en forme de tonneaux : 4        * 0.05            = 0.20 
+Drapeau du Ciel                : 4        * 8.70            = 34.80 
+Sceptre du Monde Celeste       : 6        * 29.00           = 174.00 
+Longues-vues marines           : 1        * 92.10           = 92.10 
+----------------------------------------------------------------------------------------
+Total hors taxe : 301.1
+Total avec taxe : 361.32

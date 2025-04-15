@@ -1,0 +1,13 @@
+Fracture N° 248
+Date commande : 0020-04-22T00:19:19
+----------------------------------------------------------------------------------------
+Nom Client : Ryokugyu
+Adresse Client : Quartier des Equipages, Onigashima
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Cape du Ciel                   : 1        * 112.00          = 112.00 
+Chapeau de Loguetown           : 1        * 66.90           = 66.90 
+Tapis de Loguetown             : 1        * 28.80           = 28.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 207.70000000000002
+Total avec taxe : 249.24

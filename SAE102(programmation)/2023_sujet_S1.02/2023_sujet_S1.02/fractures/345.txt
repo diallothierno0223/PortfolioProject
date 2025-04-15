@@ -1,0 +1,14 @@
+Fracture N° 345
+Date commande : 0024-03-03T15:56:36
+----------------------------------------------------------------------------------------
+Nom Client : Ashura Doji
+Adresse Client : Mont Ashura Doji, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Fruit du Demon Gomu Gomu       : 1        * 71.90           = 71.90 
+Collier du Voile               : 1        * 70.90           = 70.90 
+Ancres decoratives en laiton   : 6        * 26.20           = 157.20 
+Affiches encadrees de batailles navales : 1        * 61.30           = 61.30 
+----------------------------------------------------------------------------------------
+Total hors taxe : 361.3
+Total avec taxe : 433.56

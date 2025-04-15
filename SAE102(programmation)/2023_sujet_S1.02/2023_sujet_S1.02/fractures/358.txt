@@ -1,0 +1,12 @@
+Fracture N° 358
+Date commande : 0024-09-03T11:30:48
+----------------------------------------------------------------------------------------
+Nom Client : Boa Hancock
+Adresse Client : Palais Royal, Amazon Lily
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Modele de Navire de Guerre Buster Call : 1        * 37.80           = 37.80 
+Figurines de legendaires pirates : 1        * 55.45           = 55.45 
+----------------------------------------------------------------------------------------
+Total hors taxe : 93.25
+Total avec taxe : 111.89999999999999

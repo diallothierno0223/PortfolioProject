@@ -1,0 +1,14 @@
+Fracture N° 357
+Date commande : 0024-08-31T04:44:57
+----------------------------------------------------------------------------------------
+Nom Client : Dellinger
+Adresse Client : Colisee de Dressrosa, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Epee du Ciel                   : 3        * 12.05           = 36.15 
+Collier de Wano                : 1        * 73.25           = 73.25 
+Boussole Doree                 : 5        * 38.05           = 190.25 
+Boucles d'oreilles de perles noires : 2        * 54.20           = 108.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 408.04999999999995
+Total avec taxe : 489.6599999999999

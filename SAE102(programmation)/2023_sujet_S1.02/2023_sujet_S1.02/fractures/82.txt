@@ -1,0 +1,14 @@
+Fracture N° 82
+Date commande : 0013-11-25T09:37:27
+----------------------------------------------------------------------------------------
+Nom Client : Vergo
+Adresse Client : Laboratoire de Vergo, Punk Hazard
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Montres a gousset marines      : 1        * 69.60           = 69.60 
+Epee Sandai Kitetsu            : 6        * 64.65           = 387.90 
+Bouclier de Justice            : 1        * 63.05           = 63.05 
+Porte-monnaie en cuir travaille : 2        * 21.65           = 43.30 
+----------------------------------------------------------------------------------------
+Total hors taxe : 563.8499999999999
+Total avec taxe : 676.6199999999999

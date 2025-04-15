@@ -1,0 +1,12 @@
+Fracture N° 63
+Date commande : 0012-09-03T18:51:27
+----------------------------------------------------------------------------------------
+Nom Client : Scratchmen Apoo
+Adresse Client : Grove 35, Sabaody
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Collier de Wano                : 7        * 73.25           = 512.75 
+Ancres decoratives en laiton   : 1        * 26.20           = 26.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 538.95
+Total avec taxe : 646.74

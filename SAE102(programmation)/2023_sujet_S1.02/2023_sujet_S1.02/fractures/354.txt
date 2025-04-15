@@ -1,0 +1,12 @@
+Fracture N° 354
+Date commande : 0024-08-17T23:06:43
+----------------------------------------------------------------------------------------
+Nom Client : Kaku
+Adresse Client : Salle des Archives, Enies Lobby
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Drapeau de Sogeking            : 10       * 29.20           = 292.00 
+Jeux de societe de bataille navale : 1        * 0.05            = 0.05 
+----------------------------------------------------------------------------------------
+Total hors taxe : 292.05
+Total avec taxe : 350.46

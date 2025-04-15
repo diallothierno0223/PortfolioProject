@@ -1,0 +1,13 @@
+Fracture N° 167
+Date commande : 0017-06-20T00:06:21
+----------------------------------------------------------------------------------------
+Nom Client : O-Kiku
+Adresse Client : Rue des Geishas, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Chapeau de Capitaine Noir      : 1        * 72.75           = 72.75 
+Collier de l'Ordre Celeste     : 2        * 70.60           = 141.20 
+Boussole de Shandora           : 1        * 98.95           = 98.95 
+----------------------------------------------------------------------------------------
+Total hors taxe : 312.9
+Total avec taxe : 375.47999999999996

@@ -1,0 +1,12 @@
+Fracture N° 281
+Date commande : 0021-07-02T22:49:43
+----------------------------------------------------------------------------------------
+Nom Client : Donquixote Doflamingo
+Adresse Client : Palais Royal, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Pendentif du Joker             : 1        * 42.10           = 42.10 
+Porte-monnaie en cuir travaille : 1        * 21.65           = 21.65 
+----------------------------------------------------------------------------------------
+Total hors taxe : 63.75
+Total avec taxe : 76.5

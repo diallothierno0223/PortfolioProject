@@ -1,0 +1,14 @@
+Fracture N° 441
+Date commande : 0028-01-20T22:24:53
+----------------------------------------------------------------------------------------
+Nom Client : Nico Robin
+Adresse Client : Rue des Archeologues, Ohara
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Livres de recits de pirates    : 1        * 48.35           = 48.35 
+Insignes de capitaine et de matelot : 6        * 61.25           = 367.50 
+Fruit du Demon Gura Gura       : 5        * 54.50           = 272.50 
+Fruit du Demon Mera Mera       : 7        * 65.40           = 457.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1146.15
+Total avec taxe : 1375.38

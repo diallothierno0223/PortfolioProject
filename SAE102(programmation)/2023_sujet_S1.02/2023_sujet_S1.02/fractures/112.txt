@@ -1,0 +1,13 @@
+Fracture N° 112
+Date commande : 0015-05-11T13:52:45
+----------------------------------------------------------------------------------------
+Nom Client : Fujitora
+Adresse Client : Plateau Royal, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boucles d'oreilles de perles noires : 5        * 54.20           = 271.00 
+Gravure de Sandai Kitetsu      : 4        * 63.20           = 252.80 
+Bouclier du Colisee Corrida    : 1        * 14.95           = 14.95 
+----------------------------------------------------------------------------------------
+Total hors taxe : 538.75
+Total avec taxe : 646.5

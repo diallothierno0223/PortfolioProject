@@ -1,0 +1,12 @@
+Fracture N° 456
+Date commande : 0028-05-23T08:11:57
+----------------------------------------------------------------------------------------
+Nom Client : Franky
+Adresse Client : Franky House, Water 7
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Sac a Dos de Cipher Pol        : 11       * 38.25           = 420.75 
+Repliques de pieces de monnaie anciennes : 1        * 122.20          = 122.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 542.95
+Total avec taxe : 651.5400000000001

@@ -1,0 +1,12 @@
+Fracture N° 134
+Date commande : 0016-02-21T18:23:40
+----------------------------------------------------------------------------------------
+Nom Client : Crocodile
+Adresse Client : Casino Rain Dinners, Rainbase
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Collier du Joker               : 1        * 26.05           = 26.05 
+Lunettes de Sogeking           : 5        * 67.15           = 335.75 
+----------------------------------------------------------------------------------------
+Total hors taxe : 361.8
+Total avec taxe : 434.16

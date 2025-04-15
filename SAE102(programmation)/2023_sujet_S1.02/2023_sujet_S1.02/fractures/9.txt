@@ -1,0 +1,11 @@
+Fracture N° 9
+Date commande : 0010-06-30T21:45:04
+----------------------------------------------------------------------------------------
+Nom Client : Donquixote Doflamingo
+Adresse Client : Palais Royal, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Statuette de Luffy             : 1        * 7.70            = 7.70 
+----------------------------------------------------------------------------------------
+Total hors taxe : 7.7
+Total avec taxe : 9.24

@@ -1,0 +1,15 @@
+Fracture N° 99
+Date commande : 0014-12-05T03:34:58
+----------------------------------------------------------------------------------------
+Nom Client : Yamato
+Adresse Client : Cavernes des Ruines, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Sabres forges en acier de qualite marine : 4        * 75.25           = 301.00 
+T-shirts arborant des emblemes pirates : 6        * 59.35           = 356.10 
+T-shirt de Thriller Bark       : 1        * 57.00           = 57.00 
+Drapeaux de Jolly Roger authentiques : 4        * 74.05           = 296.20 
+Jus de Fruit du Demon          : 1        * 47.70           = 47.70 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1058.0
+Total avec taxe : 1269.6

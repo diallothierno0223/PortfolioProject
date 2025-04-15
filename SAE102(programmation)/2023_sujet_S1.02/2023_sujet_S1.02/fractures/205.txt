@@ -1,0 +1,14 @@
+Fracture N° 205
+Date commande : 0018-06-29T05:25:30
+----------------------------------------------------------------------------------------
+Nom Client : T-Bone
+Adresse Client : Base Navale G-8, G-8
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Anciens sextants de navigation : 1        * 25.80           = 25.80 
+Patisserie des Iles Caramel    : 1        * 43.35           = 43.35 
+Cape du Ciel                   : 1        * 112.00          = 112.00 
+Bouclier du Colisee Corrida    : 2        * 14.95           = 29.90 
+----------------------------------------------------------------------------------------
+Total hors taxe : 211.05
+Total avec taxe : 253.26

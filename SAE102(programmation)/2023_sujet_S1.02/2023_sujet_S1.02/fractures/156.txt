@@ -1,0 +1,15 @@
+Fracture N° 156
+Date commande : 0016-11-11T07:30:12
+----------------------------------------------------------------------------------------
+Nom Client : Trafalgar D. Water Law
+Adresse Client : Pays de Wano
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Jeux de societe de bataille navale : 3        * 0.05            = 0.15 
+Boussole du Ciel               : 1        * 96.05           = 96.05 
+Masque de Sogeking             : 2        * 0.05            = 0.10 
+Gants de Fourrure de Mink      : 6        * 81.75           = 490.50 
+Fruit du Demon Hie Hie         : 1        * 60.00           = 60.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 646.8
+Total avec taxe : 776.16

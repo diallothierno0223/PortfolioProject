@@ -1,0 +1,11 @@
+Fracture N° 375
+Date commande : 0025-08-20T22:43:34
+----------------------------------------------------------------------------------------
+Nom Client : Yamato
+Adresse Client : Cavernes des Ruines, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boucles d'oreilles de perles noires : 13       * 90.75           = 1179.75 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1179.75
+Total avec taxe : 1415.7

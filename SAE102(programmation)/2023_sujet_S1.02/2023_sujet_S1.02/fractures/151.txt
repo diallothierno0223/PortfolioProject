@@ -1,0 +1,12 @@
+Fracture N° 151
+Date commande : 0016-09-19T22:10:57
+----------------------------------------------------------------------------------------
+Nom Client : Rebecca
+Adresse Client : Colisee de Dressrosa, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Lance du Colisee Corrida       : 1        * 16.25           = 16.25 
+Tunique du Colisee Corrida     : 4        * 15.60           = 62.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 78.65
+Total avec taxe : 94.38000000000001

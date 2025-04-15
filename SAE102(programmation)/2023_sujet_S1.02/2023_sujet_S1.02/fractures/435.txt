@@ -1,0 +1,14 @@
+Fracture N° 435
+Date commande : 0027-10-31T23:48:15
+----------------------------------------------------------------------------------------
+Nom Client : Vinsmoke Sanji
+Adresse Client : Restaurant Baratie, All Blue Market
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Livres de recits de pirates    : 1        * 48.35           = 48.35 
+Longues-vues marines           : 1        * 92.10           = 92.10 
+Modele de Vogue Merry          : 1        * 38.30           = 38.30 
+Figurines articulees de pirates : 13       * 10.80           = 140.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 319.15
+Total avec taxe : 382.97999999999996

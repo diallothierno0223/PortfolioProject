@@ -1,0 +1,15 @@
+Fracture N° 129
+Date commande : 0015-12-23T19:11:16
+----------------------------------------------------------------------------------------
+Nom Client : Smoker
+Adresse Client : Quartier General de la Marine, G-5
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Tapisserie des Anciens         : 3        * 32.50           = 97.50 
+Insignes de capitaine et de matelot : 4        * 61.25           = 245.00 
+Collier de Wano                : 1        * 73.25           = 73.25 
+Gants de Gouvernail en Cuir    : 7        * 90.30           = 632.10 
+Chapeau de Gladiator           : 7        * 31.50           = 220.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1268.35
+Total avec taxe : 1522.0199999999998

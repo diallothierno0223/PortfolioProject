@@ -1,0 +1,15 @@
+Fracture N° 190
+Date commande : 0018-02-14T07:58:33
+----------------------------------------------------------------------------------------
+Nom Client : Hina
+Adresse Client : Base Navale G-8, G-8
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boucles d'Oreilles de Zou      : 9        * 36.05           = 324.45 
+Bague du Joker                 : 5        * 36.80           = 184.00 
+Badges decoratifs pour sacs    : 3        * 113.55          = 340.65 
+Porte-monnaie en cuir travaille : 9        * 21.65           = 194.85 
+Dagues de pirates ciselees     : 1        * 74.60           = 74.60 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1118.5499999999997
+Total avec taxe : 1342.2599999999995

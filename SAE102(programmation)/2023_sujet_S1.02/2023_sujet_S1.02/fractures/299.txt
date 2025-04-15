@@ -1,0 +1,11 @@
+Fracture N° 299
+Date commande : 0022-06-01T17:38:40
+----------------------------------------------------------------------------------------
+Nom Client : Raizo
+Adresse Client : Foret de Raizo, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Fruit du Demon Hie Hie         : 8        * 60.00           = 480.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 480.0
+Total avec taxe : 576.0

@@ -1,0 +1,14 @@
+Fracture N° 274
+Date commande : 0021-03-14T14:31:49
+----------------------------------------------------------------------------------------
+Nom Client : Usopp
+Adresse Client : Atelier d'Usopp, Long Beach
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Lunettes de Loguetown          : 3        * 40.20           = 120.60 
+Bijoux du Ciel                 : 4        * 33.95           = 135.80 
+Gateau du Fruit du Demon       : 1        * 65.85           = 65.85 
+Insignes de capitaine et de matelot : 4        * 61.25           = 245.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 567.25
+Total avec taxe : 680.6999999999999

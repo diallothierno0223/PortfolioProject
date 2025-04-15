@@ -1,0 +1,14 @@
+Fracture N° 298
+Date commande : 0022-05-26T04:36:33
+----------------------------------------------------------------------------------------
+Nom Client : Portgas D. Ace
+Adresse Client : Port de Fuschia
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Epee Buster Call               : 1        * 0.05            = 0.05 
+Bouclier de Barreaux           : 1        * 66.85           = 66.85 
+Boussole de Shandora           : 8        * 98.95           = 791.60 
+Broches d'inspiration pirate   : 7        * 70.95           = 496.65 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1355.15
+Total avec taxe : 1626.18

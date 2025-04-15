@@ -1,0 +1,11 @@
+Fracture N° 110
+Date commande : 0015-03-23T00:26:59
+----------------------------------------------------------------------------------------
+Nom Client : Sir Crocodile
+Adresse Client : Coeur du Desert, Alubarna
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Pendentif des Dragons Celestes : 1        * 60.70           = 60.70 
+----------------------------------------------------------------------------------------
+Total hors taxe : 60.7
+Total avec taxe : 72.84

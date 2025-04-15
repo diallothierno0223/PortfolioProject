@@ -1,0 +1,12 @@
+Fracture N° 69
+Date commande : 0013-03-29T12:08:45
+----------------------------------------------------------------------------------------
+Nom Client : Vista
+Adresse Client : Jardins de Merveille, Merveille
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Tapis de Loguetown             : 1        * 28.80           = 28.80 
+Statuette de Kozuki Oden       : 5        * 25.00           = 125.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 153.8
+Total avec taxe : 184.56

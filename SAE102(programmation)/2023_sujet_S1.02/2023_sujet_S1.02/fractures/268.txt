@@ -1,0 +1,15 @@
+Fracture N° 268
+Date commande : 0020-12-13T15:49:40
+----------------------------------------------------------------------------------------
+Nom Client : Dracule Mihawk
+Adresse Client : Chateau de Mihawk, Kuraigana
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Briquets a l'effigie de pirates : 1        * 72.75           = 72.75 
+Figurines articulees de pirates : 3        * 10.80           = 32.40 
+Bijoux du Ciel                 : 2        * 33.95           = 67.90 
+Boucles d'oreilles de perles noires : 1        * 90.75           = 90.75 
+Epees forgees en acier marine  : 1        * 44.55           = 44.55 
+----------------------------------------------------------------------------------------
+Total hors taxe : 308.35
+Total avec taxe : 370.02000000000004

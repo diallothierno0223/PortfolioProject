@@ -1,0 +1,14 @@
+Fracture N° 17
+Date commande : 0010-08-22T05:00:54
+----------------------------------------------------------------------------------------
+Nom Client : Hack
+Adresse Client : Gymnase des Gladiateurs, Fish-Man Island
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+T-shirt du Fruit du Demon      : 4        * 52.15           = 208.60 
+Casquette de Luffy             : 2        * 74.60           = 149.20 
+Bouteilles de parfum au sillage marin : 1        * 28.40           = 28.40 
+Gants de Feu d'Enfer           : 1        * 65.45           = 65.45 
+----------------------------------------------------------------------------------------
+Total hors taxe : 451.6499999999999
+Total avec taxe : 541.9799999999999

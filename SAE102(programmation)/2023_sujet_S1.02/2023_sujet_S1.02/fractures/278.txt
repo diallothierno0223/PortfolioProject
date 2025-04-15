@@ -1,0 +1,15 @@
+Fracture N° 278
+Date commande : 0021-04-27T22:15:21
+----------------------------------------------------------------------------------------
+Nom Client : Kalifa
+Adresse Client : Salle de la Justice, Enies Lobby
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Figurines des Ombres           : 1        * 98.25           = 98.25 
+Porte-monnaie en cuir travaille : 1        * 21.65           = 21.65 
+Boucles d'Oreilles de Gouvernail : 1        * 54.50           = 54.50 
+Katana Ame no Habakiri         : 1        * 31.95           = 31.95 
+Statuette de Riku Doldo III    : 6        * 65.55           = 393.30 
+----------------------------------------------------------------------------------------
+Total hors taxe : 599.65
+Total avec taxe : 719.5799999999999

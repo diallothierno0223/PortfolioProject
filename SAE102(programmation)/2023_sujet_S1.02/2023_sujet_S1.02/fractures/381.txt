@@ -1,0 +1,12 @@
+Fracture N° 381
+Date commande : 0025-10-21T14:58:07
+----------------------------------------------------------------------------------------
+Nom Client : Igaram
+Adresse Client : Rue des Marchands, Alubarna
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Tunique du Colisee Corrida     : 1        * 15.60           = 15.60 
+T-shirt du Fournisseur         : 5        * 61.20           = 306.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 321.6
+Total avec taxe : 385.92

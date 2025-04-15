@@ -1,0 +1,15 @@
+Fracture N° 314
+Date commande : 0022-12-01T01:51:14
+----------------------------------------------------------------------------------------
+Nom Client : Senor Pink
+Adresse Client : Bar des Sourires, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Livre des Zombies              : 1        * 55.35           = 55.35 
+Tirelires en forme de tonneaux : 1        * 0.05            = 0.05 
+T-shirts arborant des emblemes pirates : 3        * 59.35           = 178.05 
+Boucles d'oreilles de perles noires : 1        * 0.05            = 0.05 
+Bouclier de Barreaux           : 5        * 66.85           = 334.25 
+----------------------------------------------------------------------------------------
+Total hors taxe : 567.75
+Total avec taxe : 681.3

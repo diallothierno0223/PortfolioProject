@@ -1,0 +1,12 @@
+Fracture N° 401
+Date commande : 0026-06-08T08:42:36
+----------------------------------------------------------------------------------------
+Nom Client : Kizaru
+Adresse Client : Grove 1, Sabaody
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Services de table nautiques    : 1        * 44.30           = 44.30 
+Cadenas de coffres de pirates  : 4        * 40.80           = 163.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 207.5
+Total avec taxe : 249.0

@@ -1,0 +1,15 @@
+Fracture N° 193
+Date commande : 0018-03-14T11:13:09
+----------------------------------------------------------------------------------------
+Nom Client : Donquixote Doflamingo
+Adresse Client : Palais Royal, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Modele de Navire de Guerre Buster Call : 1        * 37.80           = 37.80 
+Wado Ichimonji                 : 6        * 35.50           = 213.00 
+Boussole du Ciel               : 1        * 96.05           = 96.05 
+Montres a gousset marines      : 1        * 69.60           = 69.60 
+Bouclier de Justice            : 1        * 63.05           = 63.05 
+----------------------------------------------------------------------------------------
+Total hors taxe : 479.50000000000006
+Total avec taxe : 575.4000000000001

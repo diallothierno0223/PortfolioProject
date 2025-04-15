@@ -1,0 +1,11 @@
+Fracture N° 155
+Date commande : 0016-11-10T20:10:59
+----------------------------------------------------------------------------------------
+Nom Client : Kin'emon
+Adresse Client : Foret de Kin'emon, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Livres de recits de pirates    : 1        * 24.40           = 24.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 24.4
+Total avec taxe : 29.279999999999998

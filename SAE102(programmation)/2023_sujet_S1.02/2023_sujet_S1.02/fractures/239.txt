@@ -1,0 +1,14 @@
+Fracture N° 239
+Date commande : 0020-02-26T10:46:07
+----------------------------------------------------------------------------------------
+Nom Client : O-Kiku
+Adresse Client : Rue des Geishas, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Modele de Navire de Guerre Buster Call : 4        * 37.80           = 151.20 
+Boucles d'Oreilles de Gouvernail : 1        * 54.50           = 54.50 
+Sac a Dos de Cipher Pol        : 1        * 38.25           = 38.25 
+Drapeaux de Jolly Roger authentiques : 1        * 74.05           = 74.05 
+----------------------------------------------------------------------------------------
+Total hors taxe : 318.0
+Total avec taxe : 381.59999999999997

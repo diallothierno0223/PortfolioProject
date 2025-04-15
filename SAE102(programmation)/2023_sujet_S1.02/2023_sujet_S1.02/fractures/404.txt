@@ -1,0 +1,15 @@
+Fracture N° 404
+Date commande : 0026-06-19T23:39:36
+----------------------------------------------------------------------------------------
+Nom Client : Basil Hawkins
+Adresse Client : Grove 22, Sabaody
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Statuette de Moria             : 8        * 28.50           = 228.00 
+Statuette de Kozuki Oden       : 1        * 25.00           = 25.00 
+Dagues de pirates ciselees     : 1        * 74.60           = 74.60 
+Cafetiere de Water Seven       : 6        * 64.65           = 387.90 
+Chapeau de Gardien d'Enfer     : 4        * 11.95           = 47.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 763.3
+Total avec taxe : 915.9599999999999

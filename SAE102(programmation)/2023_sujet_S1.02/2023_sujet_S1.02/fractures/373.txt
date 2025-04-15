@@ -1,0 +1,14 @@
+Fracture N° 373
+Date commande : 0025-07-28T08:26:02
+----------------------------------------------------------------------------------------
+Nom Client : Rebecca
+Adresse Client : Colisee de Dressrosa, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Montre de Pluton               : 7        * 83.75           = 586.25 
+Sac a Dos de Cipher Pol        : 1        * 38.25           = 38.25 
+Boucles d'oreilles de perles noires : 2        * 0.05            = 0.10 
+Statuette de Luffy             : 3        * 7.70            = 23.10 
+----------------------------------------------------------------------------------------
+Total hors taxe : 647.7
+Total avec taxe : 777.24

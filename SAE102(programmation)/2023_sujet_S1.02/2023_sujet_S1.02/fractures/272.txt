@@ -1,0 +1,12 @@
+Fracture N° 272
+Date commande : 0021-02-01T08:24:56
+----------------------------------------------------------------------------------------
+Nom Client : Pappug
+Adresse Client : Place des Marchands, Fish-Man Island
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Tunique du Colisee Corrida     : 3        * 15.60           = 46.80 
+Drapeau du Ciel                : 1        * 8.70            = 8.70 
+----------------------------------------------------------------------------------------
+Total hors taxe : 55.5
+Total avec taxe : 66.6

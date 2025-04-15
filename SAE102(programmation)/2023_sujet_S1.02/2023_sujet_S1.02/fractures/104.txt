@@ -1,0 +1,15 @@
+Fracture N° 104
+Date commande : 0015-03-02T04:12:42
+----------------------------------------------------------------------------------------
+Nom Client : Nami
+Adresse Client : Rue des Cartographes, Oranje
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bague du Joker                 : 1        * 36.80           = 36.80 
+Sabre de l'Equipage d'Or       : 1        * 28.20           = 28.20 
+Armes de Cipher Pol            : 15       * 0.05            = 0.75 
+T-shirt de Thriller Bark       : 1        * 57.00           = 57.00 
+Casque du Colisee Corrida      : 10       * 98.65           = 986.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1109.25
+Total avec taxe : 1331.1

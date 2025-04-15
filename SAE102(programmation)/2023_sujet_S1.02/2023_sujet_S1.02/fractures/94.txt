@@ -1,0 +1,14 @@
+Fracture N° 94
+Date commande : 0014-07-20T14:13:03
+----------------------------------------------------------------------------------------
+Nom Client : Jinbe
+Adresse Client : Chateau Ryugu, Fish-Man Island
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Casque du Colisee Corrida      : 5        * 98.65           = 493.25 
+Fourreau en Cuir de Ryuma      : 1        * 72.45           = 72.45 
+Masque de Norland              : 2        * 64.55           = 129.10 
+Replique du Pluton             : 1        * 40.90           = 40.90 
+----------------------------------------------------------------------------------------
+Total hors taxe : 735.7
+Total avec taxe : 882.84

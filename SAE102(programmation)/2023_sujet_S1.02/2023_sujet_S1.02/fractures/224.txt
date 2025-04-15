@@ -1,0 +1,13 @@
+Fracture N° 224
+Date commande : 0019-08-19T00:56:36
+----------------------------------------------------------------------------------------
+Nom Client : Absalom
+Adresse Client : Jardin des Zombies, Thriller Bark
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Collier du Voile               : 2        * 70.90           = 141.80 
+Longues-vues marines           : 1        * 92.10           = 92.10 
+Sac a Dos de Sogeking          : 15       * 93.25           = 1398.75 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1632.65
+Total avec taxe : 1959.18

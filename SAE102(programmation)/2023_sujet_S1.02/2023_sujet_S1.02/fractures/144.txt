@@ -1,0 +1,12 @@
+Fracture N° 144
+Date commande : 0016-07-12T01:48:52
+----------------------------------------------------------------------------------------
+Nom Client : Hack
+Adresse Client : Gymnase des Gladiateurs, Fish-Man Island
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Poupees de pirates en peluche  : 1        * 48.45           = 48.45 
+Figurine de Pluton             : 1        * 21.30           = 21.30 
+----------------------------------------------------------------------------------------
+Total hors taxe : 69.75
+Total avec taxe : 83.7

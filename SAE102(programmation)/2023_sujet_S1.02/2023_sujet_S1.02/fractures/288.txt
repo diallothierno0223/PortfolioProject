@@ -1,0 +1,12 @@
+Fracture N° 288
+Date commande : 0021-09-30T10:25:13
+----------------------------------------------------------------------------------------
+Nom Client : Jozu
+Adresse Client : Palais Royal, Merveille
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Pendules de bord vintage       : 6        * 0.05            = 0.30 
+Sac de Sabaody                 : 4        * 46.85           = 187.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 187.70000000000002
+Total avec taxe : 225.24

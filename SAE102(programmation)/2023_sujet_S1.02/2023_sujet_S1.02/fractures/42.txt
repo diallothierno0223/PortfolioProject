@@ -1,0 +1,15 @@
+Fracture N° 42
+Date commande : 0011-12-02T05:28:16
+----------------------------------------------------------------------------------------
+Nom Client : Crocodile
+Adresse Client : Casino Rain Dinners, Rainbase
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boussoles enchantees           : 10       * 91.55           = 915.50 
+Boucles d'Oreilles de Gouvernail : 2        * 54.50           = 109.00 
+Eventail en Forme de Gateau    : 1        * 36.70           = 36.70 
+Collier de Wano                : 10       * 73.25           = 732.50 
+Bijoux du Ciel                 : 9        * 33.95           = 305.55 
+----------------------------------------------------------------------------------------
+Total hors taxe : 2099.25
+Total avec taxe : 2519.1

@@ -1,0 +1,15 @@
+Fracture N° 363
+Date commande : 0024-12-15T20:58:25
+----------------------------------------------------------------------------------------
+Nom Client : Marco
+Adresse Client : Cathedrale de Merveille, Merveille
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Robe de Sabaody                : 3        * 53.30           = 159.90 
+Montre de Compteur Davy Back   : 1        * 58.60           = 58.60 
+Boussoles enchantees           : 1        * 91.55           = 91.55 
+Statuette de Riku Doldo III    : 1        * 65.55           = 65.55 
+Gilets de capitaine            : 3        * 45.95           = 137.85 
+----------------------------------------------------------------------------------------
+Total hors taxe : 513.45
+Total avec taxe : 616.14

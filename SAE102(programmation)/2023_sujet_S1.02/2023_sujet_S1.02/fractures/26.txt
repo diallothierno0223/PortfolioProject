@@ -1,0 +1,11 @@
+Fracture N° 26
+Date commande : 0011-03-25T05:58:31
+----------------------------------------------------------------------------------------
+Nom Client : Perona
+Adresse Client : Manoir de Perona, Thriller Bark
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Insignes de capitaine et de matelot : 1        * 61.25           = 61.25 
+----------------------------------------------------------------------------------------
+Total hors taxe : 61.25
+Total avec taxe : 73.5

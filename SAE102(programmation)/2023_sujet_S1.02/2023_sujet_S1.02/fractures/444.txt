@@ -1,0 +1,15 @@
+Fracture N° 444
+Date commande : 0028-02-03T12:48:26
+----------------------------------------------------------------------------------------
+Nom Client : Nico Robin
+Adresse Client : Rue des Archeologues, Ohara
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Anciens sextants de navigation : 1        * 25.80           = 25.80 
+Cristal du Siecle Oublie       : 1        * 63.75           = 63.75 
+Collier de Sabaody             : 1        * 44.50           = 44.50 
+Bouclier du Fournisseur        : 1        * 66.40           = 66.40 
+Bouclier de Defi Davy Back     : 1        * 26.95           = 26.95 
+----------------------------------------------------------------------------------------
+Total hors taxe : 227.4
+Total avec taxe : 272.88

@@ -1,0 +1,14 @@
+Fracture N° 312
+Date commande : 0022-11-04T15:42:05
+----------------------------------------------------------------------------------------
+Nom Client : Pappug
+Adresse Client : Place des Marchands, Fish-Man Island
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Collier de Wano                : 5        * 73.25           = 366.25 
+T-shirt de Wano                : 11       * 70.30           = 773.30 
+Epees forgees en acier marine  : 1        * 44.55           = 44.55 
+Chocolat du Fruit du Demon     : 1        * 69.75           = 69.75 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1253.85
+Total avec taxe : 1504.62

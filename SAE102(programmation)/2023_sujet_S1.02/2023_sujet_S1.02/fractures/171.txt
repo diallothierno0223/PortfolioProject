@@ -1,0 +1,11 @@
+Fracture N° 171
+Date commande : 0017-07-30T01:35:12
+----------------------------------------------------------------------------------------
+Nom Client : Carue
+Adresse Client : Stables Royaux, Alubarna
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Canon Buster Call              : 1        * 78.65           = 78.65 
+----------------------------------------------------------------------------------------
+Total hors taxe : 78.65
+Total avec taxe : 94.38000000000001

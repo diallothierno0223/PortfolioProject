@@ -1,0 +1,14 @@
+Fracture N° 263
+Date commande : 0020-10-13T10:48:46
+----------------------------------------------------------------------------------------
+Nom Client : Fukurou
+Adresse Client : Quartiers des Gardiens, Enies Lobby
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boussole de Shandora           : 1        * 98.95           = 98.95 
+Bracelet du Joker              : 14       * 57.40           = 803.60 
+Lance du Colisee Corrida       : 7        * 16.25           = 113.75 
+Cape du Ciel                   : 1        * 112.00          = 112.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1128.3000000000002
+Total avec taxe : 1353.9600000000003

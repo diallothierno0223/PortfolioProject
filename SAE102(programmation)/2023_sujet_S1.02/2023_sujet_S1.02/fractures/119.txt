@@ -1,0 +1,14 @@
+Fracture N° 119
+Date commande : 0015-08-30T00:06:24
+----------------------------------------------------------------------------------------
+Nom Client : Enel
+Adresse Client : Arche Maxim, Upper Yard
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Drapeau du Davy Back           : 1        * 38.20           = 38.20 
+Livre des Zombies              : 7        * 55.35           = 387.45 
+Sac de Sabaody                 : 1        * 46.85           = 46.85 
+Epees forgees en acier marine  : 1        * 44.55           = 44.55 
+----------------------------------------------------------------------------------------
+Total hors taxe : 517.05
+Total avec taxe : 620.4599999999999

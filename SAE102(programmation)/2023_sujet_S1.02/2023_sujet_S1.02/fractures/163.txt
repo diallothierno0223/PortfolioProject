@@ -1,0 +1,12 @@
+Fracture N° 163
+Date commande : 0017-02-08T02:10:46
+----------------------------------------------------------------------------------------
+Nom Client : T-Bone
+Adresse Client : Base Navale G-8, G-8
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bague des Dragons Celestes     : 4        * 52.80           = 211.20 
+Ancres decoratives en laiton   : 1        * 26.20           = 26.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 237.39999999999998
+Total avec taxe : 284.87999999999994

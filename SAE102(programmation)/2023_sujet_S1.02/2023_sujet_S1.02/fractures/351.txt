@@ -1,0 +1,13 @@
+Fracture N° 351
+Date commande : 0024-07-28T20:35:20
+----------------------------------------------------------------------------------------
+Nom Client : Pappug
+Adresse Client : Place des Marchands, Fish-Man Island
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Porte-monnaie en cuir travaille : 1        * 21.65           = 21.65 
+Epee Sandai Kitetsu            : 10       * 64.65           = 646.50 
+Masque de Sogeking             : 4        * 0.05            = 0.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 668.35
+Total avec taxe : 802.02

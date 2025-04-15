@@ -1,0 +1,15 @@
+Fracture N° 202
+Date commande : 0018-05-27T05:22:53
+----------------------------------------------------------------------------------------
+Nom Client : Kizaru
+Adresse Client : Grove 1, Sabaody
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Katana Enma                    : 3        * 71.65           = 214.95 
+Figurines articulees de pirates : 7        * 10.80           = 75.60 
+Boucles d'oreilles de perles noires : 1        * 0.05            = 0.05 
+Boucle de ceinturon tete de mort : 6        * 90.45           = 542.70 
+Instruments de navigation anciens : 5        * 38.65           = 193.25 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1026.5500000000002
+Total avec taxe : 1231.8600000000001

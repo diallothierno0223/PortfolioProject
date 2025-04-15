@@ -1,0 +1,12 @@
+Fracture N° 461
+Date commande : 0028-07-29T00:17:43
+----------------------------------------------------------------------------------------
+Nom Client : Franky
+Adresse Client : Franky House, Water 7
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Modele de Vogue Merry          : 1        * 38.30           = 38.30 
+Manteau de l'Amiral            : 15       * 23.40           = 351.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 389.3
+Total avec taxe : 467.15999999999997

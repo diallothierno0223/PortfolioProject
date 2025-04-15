@@ -1,0 +1,13 @@
+Fracture N° 245
+Date commande : 0020-03-26T19:35:06
+----------------------------------------------------------------------------------------
+Nom Client : Eustass Kid
+Adresse Client : Maison de Ventes aux Encheres, Sabaody
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Figurines de legendaires pirates : 10       * 55.45           = 554.50 
+Instruments de navigation anciens : 2        * 38.65           = 77.30 
+Pendentif de l'Arbre Sabondy   : 1        * 54.25           = 54.25 
+----------------------------------------------------------------------------------------
+Total hors taxe : 686.05
+Total avec taxe : 823.2599999999999

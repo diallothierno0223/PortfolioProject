@@ -1,0 +1,14 @@
+Fracture N° 382
+Date commande : 0025-11-04T09:48:38
+----------------------------------------------------------------------------------------
+Nom Client : Eustass Kid
+Adresse Client : Maison de Ventes aux Encheres, Sabaody
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+T-shirt des Charpentiers de Water Seven : 1        * 20.60           = 20.60 
+Tirelires en forme de tonneaux : 4        * 0.05            = 0.20 
+T-shirt du Fruit du Demon      : 1        * 52.15           = 52.15 
+Tapis de Souris Gouvernail     : 1        * 59.30           = 59.30 
+----------------------------------------------------------------------------------------
+Total hors taxe : 132.25
+Total avec taxe : 158.7

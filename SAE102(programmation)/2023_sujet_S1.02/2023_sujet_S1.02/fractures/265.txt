@@ -1,0 +1,12 @@
+Fracture N° 265
+Date commande : 0020-11-06T08:00:39
+----------------------------------------------------------------------------------------
+Nom Client : Donquixote Doflamingo
+Adresse Client : Palais Royal, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Insignes de capitaine et de matelot : 1        * 61.25           = 61.25 
+Boussole a Energie Solaire de Franky : 1        * 58.30           = 58.30 
+----------------------------------------------------------------------------------------
+Total hors taxe : 119.55
+Total avec taxe : 143.45999999999998

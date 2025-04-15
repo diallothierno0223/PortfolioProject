@@ -1,0 +1,11 @@
+Fracture N° 145
+Date commande : 0016-08-04T06:14:52
+----------------------------------------------------------------------------------------
+Nom Client : Gladius
+Adresse Client : Plateau de Dressrosa, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boussole Davy Back             : 1        * 61.15           = 61.15 
+----------------------------------------------------------------------------------------
+Total hors taxe : 61.15
+Total avec taxe : 73.38

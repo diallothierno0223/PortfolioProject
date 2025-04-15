@@ -1,0 +1,11 @@
+Fracture N° 180
+Date commande : 0017-12-05T15:58:34
+----------------------------------------------------------------------------------------
+Nom Client : Basil Hawkins
+Adresse Client : Grove 22, Sabaody
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Jus de Fruit du Demon          : 2        * 47.70           = 95.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 95.4
+Total avec taxe : 114.48

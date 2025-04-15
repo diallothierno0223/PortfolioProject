@@ -1,0 +1,13 @@
+Fracture N° 336
+Date commande : 0023-09-20T18:01:46
+----------------------------------------------------------------------------------------
+Nom Client : Vivi
+Adresse Client : Palais d'Alubarna, Alubarna
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+T-shirt de Dressrosa           : 1        * 33.40           = 33.40 
+Cape du Ciel                   : 1        * 112.00          = 112.00 
+Wado Ichimonji                 : 1        * 35.50           = 35.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 180.9
+Total avec taxe : 217.08

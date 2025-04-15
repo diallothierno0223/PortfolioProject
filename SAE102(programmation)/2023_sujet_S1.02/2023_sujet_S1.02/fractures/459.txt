@@ -1,0 +1,11 @@
+Fracture N° 459
+Date commande : 0028-06-21T09:46:56
+----------------------------------------------------------------------------------------
+Nom Client : Rebecca
+Adresse Client : Colisee de Dressrosa, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Gants de Fourrure de Mink      : 1        * 81.75           = 81.75 
+----------------------------------------------------------------------------------------
+Total hors taxe : 81.75
+Total avec taxe : 98.1

@@ -1,0 +1,14 @@
+Fracture N° 322
+Date commande : 0023-02-14T23:41:30
+----------------------------------------------------------------------------------------
+Nom Client : Blueno
+Adresse Client : Cour Interieure, Enies Lobby
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Armes de Cipher Pol            : 1        * 0.05            = 0.05 
+Sac a Dos de Cipher Pol        : 7        * 38.25           = 267.75 
+Boussole a Energie Solaire de Franky : 1        * 58.30           = 58.30 
+Sabres de bordee               : 3        * 81.65           = 244.95 
+----------------------------------------------------------------------------------------
+Total hors taxe : 571.0500000000001
+Total avec taxe : 685.2600000000001

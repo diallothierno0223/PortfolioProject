@@ -1,0 +1,15 @@
+Fracture N° 81
+Date commande : 0013-10-23T17:55:11
+----------------------------------------------------------------------------------------
+Nom Client : Vinsmoke Sanji
+Adresse Client : Restaurant Baratie, All Blue Market
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Masque de Sogeking             : 1        * 0.05            = 0.05 
+Bague du Joker                 : 1        * 36.80           = 36.80 
+Boussole Davy Back             : 1        * 61.15           = 61.15 
+Briquets a l'effigie de pirates : 3        * 72.75           = 218.25 
+Boussole du Ciel               : 1        * 96.05           = 96.05 
+----------------------------------------------------------------------------------------
+Total hors taxe : 412.3
+Total avec taxe : 494.76

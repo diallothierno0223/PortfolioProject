@@ -1,0 +1,11 @@
+Fracture N° 216
+Date commande : 0018-12-31T16:23:39
+----------------------------------------------------------------------------------------
+Nom Client : Gladius
+Adresse Client : Plateau de Dressrosa, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bouteilles de Rhum personnalisees : 1        * 16.00           = 16.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 16.0
+Total avec taxe : 19.2

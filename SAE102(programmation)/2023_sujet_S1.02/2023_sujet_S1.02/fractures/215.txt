@@ -1,0 +1,11 @@
+Fracture N° 215
+Date commande : 0018-12-31T09:11:13
+----------------------------------------------------------------------------------------
+Nom Client : Buggy le Clown
+Adresse Client : Place du Marche, Fuschia
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bouclier du Fournisseur        : 6        * 66.40           = 398.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 398.40000000000003
+Total avec taxe : 478.08000000000004

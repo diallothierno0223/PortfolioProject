@@ -1,0 +1,14 @@
+Fracture N° 165
+Date commande : 0017-03-30T17:19:24
+----------------------------------------------------------------------------------------
+Nom Client : Tsuru
+Adresse Client : Quartier General de la Marine, Marineford
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boussole Davy Back             : 7        * 61.15           = 428.05 
+T-shirt de Impel Down          : 1        * 21.30           = 21.30 
+Pendentif des Dragons Celestes : 2        * 60.70           = 121.40 
+Lunettes de Vision X-Round     : 11       * 26.20           = 288.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 858.95
+Total avec taxe : 1030.74

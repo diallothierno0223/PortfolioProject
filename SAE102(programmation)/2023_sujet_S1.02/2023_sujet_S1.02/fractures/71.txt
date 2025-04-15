@@ -1,0 +1,15 @@
+Fracture N° 71
+Date commande : 0013-04-19T02:22:26
+----------------------------------------------------------------------------------------
+Nom Client : Jabra
+Adresse Client : Salle des Batailles, Enies Lobby
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Jeux de Societe Davy Back      : 2        * 78.20           = 156.40 
+Gants de Feu d'Enfer           : 13       * 65.45           = 850.85 
+Tapis de Loguetown             : 15       * 28.80           = 432.00 
+Services de table maritimes    : 8        * 54.10           = 432.80 
+T-shirt de Sogeking            : 1        * 68.75           = 68.75 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1940.8
+Total avec taxe : 2328.96

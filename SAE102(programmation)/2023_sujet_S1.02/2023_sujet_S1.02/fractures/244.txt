@@ -1,0 +1,14 @@
+Fracture N° 244
+Date commande : 0020-03-25T03:06:39
+----------------------------------------------------------------------------------------
+Nom Client : Gol D. Roger
+Adresse Client : Place d'Execution, Loguetown
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Chapeau de Capitaine Noir      : 1        * 72.75           = 72.75 
+Anciens sextants de navigation : 2        * 81.45           = 162.90 
+Tapisserie Equipage du Voile   : 1        * 64.05           = 64.05 
+Collier du Voile               : 1        * 70.90           = 70.90 
+----------------------------------------------------------------------------------------
+Total hors taxe : 370.6
+Total avec taxe : 444.72

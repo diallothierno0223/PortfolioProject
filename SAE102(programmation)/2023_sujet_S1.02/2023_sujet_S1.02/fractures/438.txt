@@ -1,0 +1,13 @@
+Fracture N° 438
+Date commande : 0027-12-31T22:19:11
+----------------------------------------------------------------------------------------
+Nom Client : Red-Haired Shanks
+Adresse Client : Bar de Makino, Fuschia
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Montre de Pluton               : 1        * 83.75           = 83.75 
+Sac de Sabaody                 : 3        * 46.85           = 140.55 
+Veste de Capitaine du Voile    : 2        * 17.70           = 35.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 259.7
+Total avec taxe : 311.64

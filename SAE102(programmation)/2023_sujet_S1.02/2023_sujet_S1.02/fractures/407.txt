@@ -1,0 +1,13 @@
+Fracture N° 407
+Date commande : 0026-09-15T09:30:06
+----------------------------------------------------------------------------------------
+Nom Client : Wapol
+Adresse Client : Chateau Royal, Black Drum
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Figurines de legendaires pirates : 1        * 55.45           = 55.45 
+Gateau du Roi des Pirates      : 4        * 24.95           = 99.80 
+Sac a Dos de Cipher Pol        : 2        * 38.25           = 76.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 231.75
+Total avec taxe : 278.09999999999997

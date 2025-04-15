@@ -1,0 +1,12 @@
+Fracture N° 446
+Date commande : 0028-02-24T08:36:27
+----------------------------------------------------------------------------------------
+Nom Client : Sir Crocodile
+Adresse Client : Coeur du Desert, Alubarna
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Katana Shusui                  : 3        * 66.15           = 198.45 
+Gants de Cipher Pol            : 9        * 36.45           = 328.05 
+----------------------------------------------------------------------------------------
+Total hors taxe : 526.5
+Total avec taxe : 631.8

@@ -1,0 +1,11 @@
+Fracture N° 307
+Date commande : 0022-09-06T07:39:32
+----------------------------------------------------------------------------------------
+Nom Client : Marco
+Adresse Client : Cathedrale de Merveille, Merveille
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Canon Buster Call              : 1        * 78.65           = 78.65 
+----------------------------------------------------------------------------------------
+Total hors taxe : 78.65
+Total avec taxe : 94.38000000000001

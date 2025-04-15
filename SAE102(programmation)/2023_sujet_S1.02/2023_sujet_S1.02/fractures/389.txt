@@ -1,0 +1,15 @@
+Fracture N° 389
+Date commande : 0026-01-25T02:32:10
+----------------------------------------------------------------------------------------
+Nom Client : Smoker
+Adresse Client : Quartier General de la Marine, G-5
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Casquette de Luffy             : 1        * 74.60           = 74.60 
+Masque de Demon de l'Enfer     : 6        * 98.60           = 591.60 
+Patisserie des Iles Caramel    : 2        * 43.35           = 86.70 
+T-shirt de Sogeking            : 1        * 68.75           = 68.75 
+Figurines articulees de pirates : 1        * 10.80           = 10.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 832.4499999999999
+Total avec taxe : 998.9399999999998

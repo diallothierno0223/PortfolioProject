@@ -1,0 +1,12 @@
+Fracture N° 443
+Date commande : 0028-02-03T04:53:22
+----------------------------------------------------------------------------------------
+Nom Client : Roronoa Zoro
+Adresse Client : Dojo de Mihawk
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Services de table maritimes    : 11       * 54.10           = 595.10 
+Bouclier de Justice            : 2        * 63.05           = 126.10 
+----------------------------------------------------------------------------------------
+Total hors taxe : 721.2
+Total avec taxe : 865.44

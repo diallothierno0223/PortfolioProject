@@ -1,0 +1,12 @@
+Fracture N° 212
+Date commande : 0018-11-14T07:20:53
+----------------------------------------------------------------------------------------
+Nom Client : Kalifa
+Adresse Client : Salle de la Justice, Enies Lobby
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Gilets de capitaine            : 7        * 45.95           = 321.65 
+Gants en Metal de Franky       : 5        * 25.50           = 127.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 449.15000000000003
+Total avec taxe : 538.98

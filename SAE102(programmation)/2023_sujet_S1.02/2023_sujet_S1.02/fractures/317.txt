@@ -1,0 +1,14 @@
+Fracture N° 317
+Date commande : 0023-01-16T08:34:24
+----------------------------------------------------------------------------------------
+Nom Client : Fukurou
+Adresse Client : Quartiers des Gardiens, Enies Lobby
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Dagues de capitaine            : 3        * 21.95           = 65.85 
+Boussole de Shandora           : 1        * 98.95           = 98.95 
+Jeux de Societe Davy Back      : 1        * 78.20           = 78.20 
+Tapisserie des Anciens         : 1        * 32.50           = 32.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 275.5
+Total avec taxe : 330.59999999999997

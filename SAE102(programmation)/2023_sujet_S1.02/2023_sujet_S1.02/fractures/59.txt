@@ -1,0 +1,11 @@
+Fracture N° 59
+Date commande : 0012-07-31T16:43:01
+----------------------------------------------------------------------------------------
+Nom Client : Monkey D. Luffy
+Adresse Client : Port de Fuschia
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Figurines de legendaires pirates : 1        * 60.15           = 60.15 
+----------------------------------------------------------------------------------------
+Total hors taxe : 60.15
+Total avec taxe : 72.17999999999999

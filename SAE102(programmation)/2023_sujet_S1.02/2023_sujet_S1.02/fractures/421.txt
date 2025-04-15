@@ -1,0 +1,13 @@
+Fracture N° 421
+Date commande : 0027-05-30T01:05:08
+----------------------------------------------------------------------------------------
+Nom Client : Jinbe
+Adresse Client : Chateau Ryugu, Fish-Man Island
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boucles d'Oreilles de Zou      : 5        * 36.05           = 180.25 
+T-shirt de Sogeking            : 5        * 68.75           = 343.75 
+Modele de Navire de Guerre Buster Call : 1        * 37.80           = 37.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 561.8
+Total avec taxe : 674.16

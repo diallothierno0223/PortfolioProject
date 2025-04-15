@@ -1,0 +1,15 @@
+Fracture N° 303
+Date commande : 0022-07-11T23:27:47
+----------------------------------------------------------------------------------------
+Nom Client : Fukurou
+Adresse Client : Quartiers des Gardiens, Enies Lobby
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Pendentif des Dragons Celestes : 6        * 60.70           = 364.20 
+Cape du Ciel                   : 2        * 112.00          = 224.00 
+Bouteilles de Rhum personnalisees : 1        * 16.00           = 16.00 
+Porte-monnaie en cuir travaille : 1        * 21.65           = 21.65 
+Services de table maritimes    : 1        * 0.05            = 0.05 
+----------------------------------------------------------------------------------------
+Total hors taxe : 625.9
+Total avec taxe : 751.0799999999999

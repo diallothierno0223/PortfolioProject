@@ -1,0 +1,12 @@
+Fracture N° 178
+Date commande : 0017-10-20T00:21:53
+----------------------------------------------------------------------------------------
+Nom Client : Koala
+Adresse Client : Foret des Hommes-Poissons, Fish-Man Island
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Ancres decoratives en laiton   : 7        * 26.20           = 183.40 
+Boussole Doree                 : 1        * 38.05           = 38.05 
+----------------------------------------------------------------------------------------
+Total hors taxe : 221.45
+Total avec taxe : 265.73999999999995

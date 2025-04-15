@@ -1,0 +1,15 @@
+Fracture N° 286
+Date commande : 0021-09-17T22:53:08
+----------------------------------------------------------------------------------------
+Nom Client : Enel
+Adresse Client : Arche Maxim, Upper Yard
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Sac a Dos de Sogeking          : 1        * 93.25           = 93.25 
+Drapeau du Ciel                : 1        * 8.70            = 8.70 
+Boussole du Ciel               : 1        * 96.05           = 96.05 
+T-shirt des Charpentiers de Water Seven : 1        * 20.60           = 20.60 
+Drapeaux de Jolly Roger authentiques : 6        * 82.60           = 495.60 
+----------------------------------------------------------------------------------------
+Total hors taxe : 714.1999999999999
+Total avec taxe : 857.0399999999998

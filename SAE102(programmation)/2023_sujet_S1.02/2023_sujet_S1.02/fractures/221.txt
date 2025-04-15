@@ -1,0 +1,14 @@
+Fracture N° 221
+Date commande : 0019-05-07T10:19:08
+----------------------------------------------------------------------------------------
+Nom Client : Diamante
+Adresse Client : Stade Corrida, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Medaillon du Siecle Oublie     : 3        * 43.60           = 130.80 
+Broches d'inspiration pirate   : 5        * 70.95           = 354.75 
+Cadenas de coffres de pirates  : 1        * 40.80           = 40.80 
+Masque de Norland              : 8        * 64.55           = 516.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1042.75
+Total avec taxe : 1251.3

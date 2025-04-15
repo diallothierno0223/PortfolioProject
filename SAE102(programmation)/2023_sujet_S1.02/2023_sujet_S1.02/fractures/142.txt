@@ -1,0 +1,11 @@
+Fracture N° 142
+Date commande : 0016-06-25T08:52:17
+----------------------------------------------------------------------------------------
+Nom Client : Kozuki Oden
+Adresse Client : Chateau Oden, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Pendentif de Thriller Bark     : 1        * 85.15           = 85.15 
+----------------------------------------------------------------------------------------
+Total hors taxe : 85.15
+Total avec taxe : 102.18

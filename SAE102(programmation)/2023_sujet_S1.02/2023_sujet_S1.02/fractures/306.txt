@@ -1,0 +1,15 @@
+Fracture N° 306
+Date commande : 0022-09-01T12:39:47
+----------------------------------------------------------------------------------------
+Nom Client : Marco
+Adresse Client : Cathedrale de Merveille, Merveille
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boussole du Chapeau de Paille  : 8        * 45.85           = 366.80 
+Sac a Dos du Gouvernail        : 1        * 0.05            = 0.05 
+Services de table maritimes    : 10       * 54.10           = 541.00 
+Sabre de l'Equipage d'Or       : 1        * 28.20           = 28.20 
+Fourreau en Cuir de Ryuma      : 3        * 72.45           = 217.35 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1153.4
+Total avec taxe : 1384.0800000000002

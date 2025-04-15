@@ -1,0 +1,12 @@
+Fracture N° 463
+Date commande : 0028-09-16T04:23:46
+----------------------------------------------------------------------------------------
+Nom Client : O-Kiku
+Adresse Client : Rue des Geishas, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Masque de Demon de l'Enfer     : 3        * 98.60           = 295.80 
+Gants en Metal de Franky       : 8        * 25.50           = 204.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 499.79999999999995
+Total avec taxe : 599.7599999999999

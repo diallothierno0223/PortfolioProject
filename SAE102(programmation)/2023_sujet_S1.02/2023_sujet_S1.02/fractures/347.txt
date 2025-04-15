@@ -1,0 +1,13 @@
+Fracture N° 347
+Date commande : 0024-03-12T08:34:52
+----------------------------------------------------------------------------------------
+Nom Client : Roronoa Zoro
+Adresse Client : Dojo de Mihawk
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Collier du Joker               : 1        * 26.05           = 26.05 
+Montre de Pluton               : 12       * 83.75           = 1005.00 
+Epee Buster Call               : 5        * 0.05            = 0.25 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1031.3
+Total avec taxe : 1237.56

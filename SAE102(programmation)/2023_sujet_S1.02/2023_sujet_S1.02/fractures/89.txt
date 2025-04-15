@@ -1,0 +1,11 @@
+Fracture N° 89
+Date commande : 0014-05-30T05:22:14
+----------------------------------------------------------------------------------------
+Nom Client : Dracule Mihawk
+Adresse Client : Chateau de Mihawk, Kuraigana
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Epee Sandai Kitetsu            : 8        * 64.65           = 517.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 517.2
+Total avec taxe : 620.64

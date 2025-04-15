@@ -1,0 +1,14 @@
+Fracture N° 141
+Date commande : 0016-04-27T00:02:03
+----------------------------------------------------------------------------------------
+Nom Client : Charlotte Linlin (Big Mom)
+Adresse Client : Salle du Trone, Whole Cake Chateau
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Epee du Ciel                   : 4        * 12.05           = 48.20 
+Drapeaux de Jolly Roger authentiques : 6        * 82.60           = 495.60 
+Casquette de Luffy             : 1        * 74.60           = 74.60 
+Wado Ichimonji                 : 2        * 35.50           = 71.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 689.4
+Total avec taxe : 827.28

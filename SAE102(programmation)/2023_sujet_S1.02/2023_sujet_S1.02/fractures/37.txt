@@ -1,0 +1,14 @@
+Fracture N° 37
+Date commande : 0011-08-04T23:24:05
+----------------------------------------------------------------------------------------
+Nom Client : Machvise
+Adresse Client : Porte Principale, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bouclier du Fournisseur        : 5        * 66.40           = 332.00 
+Sac a Dos du Fournisseur       : 1        * 36.15           = 36.15 
+Jus de Fruit du Demon          : 1        * 47.70           = 47.70 
+Tasse Thousand Sunny           : 6        * 71.15           = 426.90 
+----------------------------------------------------------------------------------------
+Total hors taxe : 842.75
+Total avec taxe : 1011.3

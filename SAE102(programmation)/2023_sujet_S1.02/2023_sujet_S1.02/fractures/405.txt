@@ -1,0 +1,14 @@
+Fracture N° 405
+Date commande : 0026-07-20T19:08:17
+----------------------------------------------------------------------------------------
+Nom Client : Trebol
+Adresse Client : Porte du Manoir Donquixote, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Anciens sextants de navigation : 13       * 25.80           = 335.40 
+T-shirt de Loguetown           : 4        * 8.60            = 34.40 
+Sac a Dos du Gouvernail        : 6        * 0.05            = 0.30 
+Chapeau de Fourrure de Mink    : 2        * 83.50           = 167.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 537.1
+Total avec taxe : 644.52

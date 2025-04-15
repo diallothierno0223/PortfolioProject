@@ -1,0 +1,13 @@
+Fracture N° 235
+Date commande : 0019-12-20T06:25:12
+----------------------------------------------------------------------------------------
+Nom Client : Dalton
+Adresse Client : Drum Rockies, Montagne Drum
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boussole a Energie Solaire de Franky : 1        * 58.30           = 58.30 
+Epees forgees en acier marine  : 1        * 44.55           = 44.55 
+Boucles d'Oreilles de Zou      : 1        * 36.05           = 36.05 
+----------------------------------------------------------------------------------------
+Total hors taxe : 138.89999999999998
+Total avec taxe : 166.67999999999998

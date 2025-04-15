@@ -1,0 +1,13 @@
+Fracture N° 106
+Date commande : 0015-03-05T21:22:46
+----------------------------------------------------------------------------------------
+Nom Client : Fujitora
+Adresse Client : Plateau Royal, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Affiches encadrees de batailles navales : 3        * 61.30           = 183.90 
+Gravure de Sandai Kitetsu      : 2        * 63.20           = 126.40 
+Lunettes de Loguetown          : 5        * 40.20           = 201.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 511.29999999999995
+Total avec taxe : 613.56

@@ -1,0 +1,15 @@
+Fracture N° 50
+Date commande : 0012-03-30T15:49:36
+----------------------------------------------------------------------------------------
+Nom Client : Capone Bege
+Adresse Client : Chambre de Capone, Ryugu Palace
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Broches d'inspiration pirate   : 1        * 70.95           = 70.95 
+Drapeau du Ciel                : 6        * 8.70            = 52.20 
+Figurines articulees de pirates : 5        * 48.20           = 241.00 
+Fruit du Demon Hie Hie         : 1        * 60.00           = 60.00 
+Drapeau de Sogeking            : 5        * 29.20           = 146.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 570.15
+Total avec taxe : 684.18

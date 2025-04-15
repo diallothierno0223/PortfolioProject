@@ -1,0 +1,14 @@
+Fracture N° 343
+Date commande : 0024-02-25T18:18:53
+----------------------------------------------------------------------------------------
+Nom Client : Capone Bege
+Adresse Client : Chambre de Capone, Ryugu Palace
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boucle de ceinturon tete de mort : 1        * 90.45           = 90.45 
+Gants de Gouvernail en Cuir    : 1        * 90.30           = 90.30 
+Statuette en Or                : 6        * 57.90           = 347.40 
+Pendentif du Joker             : 1        * 42.10           = 42.10 
+----------------------------------------------------------------------------------------
+Total hors taxe : 570.25
+Total avec taxe : 684.3

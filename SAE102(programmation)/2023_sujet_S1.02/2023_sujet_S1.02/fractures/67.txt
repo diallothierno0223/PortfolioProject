@@ -1,0 +1,11 @@
+Fracture N° 67
+Date commande : 0012-12-26T08:28:46
+----------------------------------------------------------------------------------------
+Nom Client : Pell
+Adresse Client : Palais d'Alubarna, Alubarna
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Drapeau du Voile               : 2        * 4.75            = 9.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 9.5
+Total avec taxe : 11.4

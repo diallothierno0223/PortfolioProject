@@ -1,0 +1,14 @@
+Fracture N° 83
+Date commande : 0013-12-13T11:04:15
+----------------------------------------------------------------------------------------
+Nom Client : Trafalgar D. Water Law
+Adresse Client : Pays de Wano
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Figurines articulees de pirates : 3        * 10.80           = 32.40 
+Montre de Pluton               : 1        * 83.75           = 83.75 
+Bague de l'Arbre Sabondy       : 5        * 0.80            = 4.00 
+Figurines de legendaires pirates : 6        * 55.45           = 332.70 
+----------------------------------------------------------------------------------------
+Total hors taxe : 452.85
+Total avec taxe : 543.42

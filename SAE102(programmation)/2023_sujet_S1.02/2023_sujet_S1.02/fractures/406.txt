@@ -1,0 +1,11 @@
+Fracture N° 406
+Date commande : 0026-07-29T09:28:36
+----------------------------------------------------------------------------------------
+Nom Client : Smoker
+Adresse Client : Quartier General de la Marine, G-5
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Anciens sextants de navigation : 1        * 81.45           = 81.45 
+----------------------------------------------------------------------------------------
+Total hors taxe : 81.45
+Total avec taxe : 97.74

@@ -1,0 +1,14 @@
+Fracture N° 177
+Date commande : 0017-09-15T05:55:40
+----------------------------------------------------------------------------------------
+Nom Client : Wapol
+Adresse Client : Chateau Royal, Black Drum
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bracelet de l'Ordre Celeste    : 1        * 37.55           = 37.55 
+Dagues de capitaine            : 1        * 21.95           = 21.95 
+Poupees de pirates en peluche  : 6        * 56.05           = 336.30 
+Modele de Navire de Guerre Buster Call : 2        * 37.80           = 75.60 
+----------------------------------------------------------------------------------------
+Total hors taxe : 471.4
+Total avec taxe : 565.68

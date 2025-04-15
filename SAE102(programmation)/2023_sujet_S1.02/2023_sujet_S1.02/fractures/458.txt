@@ -1,0 +1,14 @@
+Fracture N° 458
+Date commande : 0028-06-06T06:26:41
+----------------------------------------------------------------------------------------
+Nom Client : Silvers Rayleigh
+Adresse Client : Parc Sabaody, Sabaody
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Sabres de bordee               : 1        * 81.65           = 81.65 
+Boucles d'Oreilles de Gouvernail : 3        * 54.50           = 163.50 
+Tapisserie Equipage du Voile   : 1        * 64.05           = 64.05 
+Bracelet de l'Arbre Sabondy    : 7        * 102.80          = 719.60 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1028.8
+Total avec taxe : 1234.56

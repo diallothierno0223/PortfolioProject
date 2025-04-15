@@ -1,0 +1,13 @@
+Fracture N° 122
+Date commande : 0015-09-18T04:49:49
+----------------------------------------------------------------------------------------
+Nom Client : Yamato
+Adresse Client : Cavernes des Ruines, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Medaillon du Siecle Oublie     : 1        * 43.60           = 43.60 
+Boussole de Loguetown          : 1        * 75.00           = 75.00 
+Gilets de capitaine            : 4        * 45.95           = 183.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 302.4
+Total avec taxe : 362.87999999999994

@@ -1,0 +1,14 @@
+Fracture N° 227
+Date commande : 0019-10-15T20:18:31
+----------------------------------------------------------------------------------------
+Nom Client : Dr. Hiriluk
+Adresse Client : Chambre du Dr. Hiriluk, Drum Rockies
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+T-shirt de Sogeking            : 4        * 68.75           = 275.00 
+Instruments de navigation anciens : 5        * 38.65           = 193.25 
+Chapeau de Loguetown           : 4        * 66.90           = 267.60 
+Broches d'inspiration pirate   : 3        * 70.95           = 212.85 
+----------------------------------------------------------------------------------------
+Total hors taxe : 948.7
+Total avec taxe : 1138.44

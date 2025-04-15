@@ -1,0 +1,14 @@
+Fracture N° 256
+Date commande : 0020-09-08T14:59:08
+----------------------------------------------------------------------------------------
+Nom Client : Roronoa Zoro
+Adresse Client : Dojo de Mihawk
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bouclier du Colisee Corrida    : 4        * 14.95           = 59.80 
+Modele de Navire de Guerre Buster Call : 8        * 37.80           = 302.40 
+Sac a Dos de Sogeking          : 1        * 93.25           = 93.25 
+Gants du Colisee Corrida       : 13       * 63.95           = 831.35 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1286.8
+Total avec taxe : 1544.1599999999999

@@ -1,0 +1,13 @@
+Fracture N° 383
+Date commande : 0025-11-06T07:45:18
+----------------------------------------------------------------------------------------
+Nom Client : Dracule Mihawk
+Adresse Client : Chateau de Mihawk, Kuraigana
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Poupees de pirates en peluche  : 3        * 48.45           = 145.35 
+Tapis de Loguetown             : 1        * 28.80           = 28.80 
+Robe de Sabaody                : 12       * 53.30           = 639.60 
+----------------------------------------------------------------------------------------
+Total hors taxe : 813.75
+Total avec taxe : 976.5

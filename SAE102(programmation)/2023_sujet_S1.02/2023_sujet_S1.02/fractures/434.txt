@@ -1,0 +1,12 @@
+Fracture N° 434
+Date commande : 0027-10-30T16:51:02
+----------------------------------------------------------------------------------------
+Nom Client : Fujitora
+Adresse Client : Plateau Royal, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Anciens sextants de navigation : 5        * 25.80           = 129.00 
+Masque de Demon de l'Enfer     : 8        * 98.60           = 788.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 917.8
+Total avec taxe : 1101.36

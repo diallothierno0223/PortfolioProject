@@ -1,0 +1,15 @@
+Fracture N° 400
+Date commande : 0026-05-18T16:02:25
+----------------------------------------------------------------------------------------
+Nom Client : Usopp
+Adresse Client : Atelier d'Usopp, Long Beach
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Cafetiere de Water Seven       : 7        * 64.65           = 452.55 
+Medaillon du Siecle Oublie     : 2        * 43.60           = 87.20 
+Bouteilles de Rhum personnalisees : 1        * 16.00           = 16.00 
+Casque du Colisee Corrida      : 1        * 98.65           = 98.65 
+Fruit du Demon Bara Bara       : 1        * 48.30           = 48.30 
+----------------------------------------------------------------------------------------
+Total hors taxe : 702.7
+Total avec taxe : 843.24

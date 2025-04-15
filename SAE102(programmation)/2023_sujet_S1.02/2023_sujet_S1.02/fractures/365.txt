@@ -1,0 +1,14 @@
+Fracture N° 365
+Date commande : 0025-01-14T22:54:29
+----------------------------------------------------------------------------------------
+Nom Client : Sabo
+Adresse Client : Foret de Fuschia, Fuschia
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Modele de Navire de Guerre Buster Call : 1        * 37.80           = 37.80 
+Bras Cyborg de Franky          : 3        * 10.30           = 30.90 
+T-shirt de Luffy               : 2        * 108.15          = 216.30 
+Chapeau de Capitaine Noir      : 2        * 72.75           = 145.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 430.5
+Total avec taxe : 516.6

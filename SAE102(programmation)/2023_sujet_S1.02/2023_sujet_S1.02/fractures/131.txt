@@ -1,0 +1,11 @@
+Fracture N° 131
+Date commande : 0015-12-27T08:41:43
+----------------------------------------------------------------------------------------
+Nom Client : Brook
+Adresse Client : Bateau Thousand Sunny, Florian Triangle
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Dagues de capitaine            : 1        * 21.95           = 21.95 
+----------------------------------------------------------------------------------------
+Total hors taxe : 21.95
+Total avec taxe : 26.34

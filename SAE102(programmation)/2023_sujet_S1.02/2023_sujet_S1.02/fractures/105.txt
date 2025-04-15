@@ -1,0 +1,14 @@
+Fracture N° 105
+Date commande : 0015-03-03T21:28:50
+----------------------------------------------------------------------------------------
+Nom Client : Tony Tony Chopper
+Adresse Client : Bureau du Docteur Kureha, Montagne Drum
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Maquette du Siecle Oublie      : 1        * 56.00           = 56.00 
+Porte-monnaie en cuir travaille : 1        * 21.65           = 21.65 
+Boussole a Energie Solaire de Franky : 1        * 58.30           = 58.30 
+Sabres de bordee               : 5        * 81.65           = 408.25 
+----------------------------------------------------------------------------------------
+Total hors taxe : 544.2
+Total avec taxe : 653.0400000000001

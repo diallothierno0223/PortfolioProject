@@ -1,0 +1,12 @@
+Fracture N° 398
+Date commande : 0026-04-20T16:44:24
+----------------------------------------------------------------------------------------
+Nom Client : Kaido
+Adresse Client : Sommet d'Onigashima, Onigashima
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Sabre de l'Equipage d'Or       : 5        * 28.20           = 141.00 
+T-shirt de Thriller Bark       : 12       * 57.00           = 684.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 825.0
+Total avec taxe : 990.0

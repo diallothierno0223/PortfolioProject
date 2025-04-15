@@ -1,0 +1,11 @@
+Fracture N° 200
+Date commande : 0018-05-16T10:35:32
+----------------------------------------------------------------------------------------
+Nom Client : Gol D. Roger
+Adresse Client : Place d'Execution, Loguetown
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Masque de Demon de l'Enfer     : 1        * 98.60           = 98.60 
+----------------------------------------------------------------------------------------
+Total hors taxe : 98.6
+Total avec taxe : 118.32

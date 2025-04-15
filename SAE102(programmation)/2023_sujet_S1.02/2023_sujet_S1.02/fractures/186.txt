@@ -1,0 +1,12 @@
+Fracture N° 186
+Date commande : 0018-01-09T08:24:33
+----------------------------------------------------------------------------------------
+Nom Client : Kizaru
+Adresse Client : Grove 1, Sabaody
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Briquets a l'effigie de pirates : 1        * 72.75           = 72.75 
+Boussole du Ciel               : 1        * 96.05           = 96.05 
+----------------------------------------------------------------------------------------
+Total hors taxe : 168.8
+Total avec taxe : 202.56

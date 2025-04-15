@@ -1,0 +1,12 @@
+Fracture N° 359
+Date commande : 0024-09-05T19:29:07
+----------------------------------------------------------------------------------------
+Nom Client : Boa Hancock
+Adresse Client : Palais Royal, Amazon Lily
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Veste de Capitaine du Voile    : 2        * 17.70           = 35.40 
+Telescopes a vision nocturne   : 11       * 19.40           = 213.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 248.79999999999998
+Total avec taxe : 298.55999999999995

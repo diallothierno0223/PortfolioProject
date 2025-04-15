@@ -1,0 +1,15 @@
+Fracture N° 90
+Date commande : 0014-06-21T19:56:45
+----------------------------------------------------------------------------------------
+Nom Client : Monet
+Adresse Client : Jardin Gele, Punk Hazard
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Fourreau en Cuir de Ryuma      : 8        * 72.45           = 579.60 
+Gateau du Roi des Pirates      : 1        * 24.95           = 24.95 
+Casque du Colisee Corrida      : 1        * 98.65           = 98.65 
+Bouteilles de parfum au sillage marin : 4        * 28.40           = 113.60 
+Gants de Cipher Pol            : 1        * 36.45           = 36.45 
+----------------------------------------------------------------------------------------
+Total hors taxe : 853.2500000000001
+Total avec taxe : 1023.9000000000001

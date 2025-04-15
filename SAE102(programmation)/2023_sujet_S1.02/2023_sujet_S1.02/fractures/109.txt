@@ -1,0 +1,14 @@
+Fracture N° 109
+Date commande : 0015-03-18T07:49:02
+----------------------------------------------------------------------------------------
+Nom Client : Donquixote Doflamingo
+Adresse Client : Palais Royal, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boussole a Energie Solaire de Franky : 5        * 58.30           = 291.50 
+Masque de Demon de l'Enfer     : 1        * 98.60           = 98.60 
+Bouclier de Justice            : 1        * 63.05           = 63.05 
+Tapis de Souris Gouvernail     : 13       * 59.30           = 770.90 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1224.05
+Total avec taxe : 1468.86

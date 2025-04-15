@@ -1,0 +1,11 @@
+Fracture N° 368
+Date commande : 0025-03-18T10:11:44
+----------------------------------------------------------------------------------------
+Nom Client : Roronoa Zoro
+Adresse Client : Dojo de Mihawk
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bijoux du Ciel                 : 1        * 33.95           = 33.95 
+----------------------------------------------------------------------------------------
+Total hors taxe : 33.95
+Total avec taxe : 40.74

@@ -1,0 +1,13 @@
+Fracture N° 327
+Date commande : 0023-04-18T14:56:06
+----------------------------------------------------------------------------------------
+Nom Client : Bellemere
+Adresse Client : Cocoyashi Village, Cocoyashi
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Armes de Cipher Pol            : 1        * 0.05            = 0.05 
+Gants de Dressrosa             : 1        * 48.25           = 48.25 
+Bouteilles de parfum au sillage marin : 1        * 28.40           = 28.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 76.69999999999999
+Total avec taxe : 92.03999999999998

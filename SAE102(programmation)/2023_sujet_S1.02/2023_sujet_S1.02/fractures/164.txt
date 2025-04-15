@@ -1,0 +1,13 @@
+Fracture N° 164
+Date commande : 0017-02-16T05:07:56
+----------------------------------------------------------------------------------------
+Nom Client : Gol D. Roger
+Adresse Client : Place d'Execution, Loguetown
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Chapeau de Gardien d'Enfer     : 1        * 11.95           = 11.95 
+Tresor d'Or en Boite           : 3        * 71.40           = 214.20 
+Services de table maritimes    : 1        * 0.05            = 0.05 
+----------------------------------------------------------------------------------------
+Total hors taxe : 226.20000000000002
+Total avec taxe : 271.44

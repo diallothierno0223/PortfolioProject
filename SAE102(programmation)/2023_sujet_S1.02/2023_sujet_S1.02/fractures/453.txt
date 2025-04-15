@@ -1,0 +1,15 @@
+Fracture N° 453
+Date commande : 0028-05-13T09:15:30
+----------------------------------------------------------------------------------------
+Nom Client : Bellemere
+Adresse Client : Cocoyashi Village, Cocoyashi
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Veste de Capitaine du Voile    : 10       * 17.70           = 177.00 
+Pendentif de Thriller Bark     : 1        * 85.15           = 85.15 
+Lunettes de Vision X-Round     : 2        * 26.20           = 52.40 
+Modele de Vogue Merry          : 4        * 38.30           = 153.20 
+Gants de Fourrure de Mink      : 7        * 81.75           = 572.25 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1040.0
+Total avec taxe : 1248.0

@@ -1,0 +1,11 @@
+Fracture N° 1
+Date commande : 0010-03-22T01:13:07
+----------------------------------------------------------------------------------------
+Nom Client : Basil Hawkins
+Adresse Client : Grove 22, Sabaody
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Cadenas de coffres de pirates  : 1        * 40.80           = 40.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 40.8
+Total avec taxe : 48.959999999999994

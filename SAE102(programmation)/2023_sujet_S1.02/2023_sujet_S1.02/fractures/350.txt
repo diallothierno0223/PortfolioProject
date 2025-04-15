@@ -1,0 +1,11 @@
+Fracture N° 350
+Date commande : 0024-07-27T00:31:28
+----------------------------------------------------------------------------------------
+Nom Client : Rob Lucci
+Adresse Client : Quartiers Generaux du CP9, Enies Lobby
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Livres de recits de pirates    : 1        * 48.35           = 48.35 
+----------------------------------------------------------------------------------------
+Total hors taxe : 48.35
+Total avec taxe : 58.019999999999996

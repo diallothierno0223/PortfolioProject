@@ -1,0 +1,14 @@
+Fracture N° 454
+Date commande : 0028-05-17T03:06:09
+----------------------------------------------------------------------------------------
+Nom Client : Capone Bege
+Adresse Client : Chambre de Capone, Ryugu Palace
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Porte-monnaie en cuir travaille : 3        * 21.65           = 64.95 
+Katana Enma                    : 3        * 71.65           = 214.95 
+Montre de Pluton               : 9        * 83.75           = 753.75 
+Chapeau de Gladiator           : 9        * 31.50           = 283.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1317.15
+Total avec taxe : 1580.5800000000002

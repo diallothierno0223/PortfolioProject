@@ -1,0 +1,12 @@
+Fracture N° 301
+Date commande : 0022-06-26T10:38:03
+----------------------------------------------------------------------------------------
+Nom Client : Kawamatsu
+Adresse Client : Riviere Kawamatsu, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Manteau de l'Amiral            : 5        * 23.40           = 117.00 
+T-shirt de Luffy               : 1        * 108.15          = 108.15 
+----------------------------------------------------------------------------------------
+Total hors taxe : 225.15
+Total avec taxe : 270.18

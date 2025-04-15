@@ -1,0 +1,15 @@
+Fracture N° 417
+Date commande : 0027-01-30T07:53:10
+----------------------------------------------------------------------------------------
+Nom Client : Silvers Rayleigh
+Adresse Client : Parc Sabaody, Sabaody
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Biscuits Homies                : 7        * 9.55            = 66.85 
+Modele de Navire de Guerre Buster Call : 1        * 37.80           = 37.80 
+Bouteilles de Rhum personnalisees : 1        * 16.00           = 16.00 
+Services de table maritimes    : 5        * 54.10           = 270.50 
+Tasse Thousand Sunny           : 1        * 71.15           = 71.15 
+----------------------------------------------------------------------------------------
+Total hors taxe : 462.29999999999995
+Total avec taxe : 554.7599999999999

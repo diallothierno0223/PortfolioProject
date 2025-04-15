@@ -1,0 +1,11 @@
+Fracture N° 222
+Date commande : 0019-05-16T21:21:50
+----------------------------------------------------------------------------------------
+Nom Client : Monkey D. Luffy
+Adresse Client : Port de Fuschia
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Statuette de Moria             : 1        * 28.50           = 28.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 28.5
+Total avec taxe : 34.199999999999996

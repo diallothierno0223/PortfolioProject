@@ -1,0 +1,12 @@
+Fracture N° 18
+Date commande : 0010-08-25T17:28:37
+----------------------------------------------------------------------------------------
+Nom Client : Gladius
+Adresse Client : Plateau de Dressrosa, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Katana Shusui                  : 2        * 66.15           = 132.30 
+Broches d'inspiration pirate   : 1        * 70.95           = 70.95 
+----------------------------------------------------------------------------------------
+Total hors taxe : 203.25
+Total avec taxe : 243.89999999999998

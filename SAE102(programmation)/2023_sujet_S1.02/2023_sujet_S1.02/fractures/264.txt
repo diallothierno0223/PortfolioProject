@@ -1,0 +1,13 @@
+Fracture N° 264
+Date commande : 0020-11-01T21:38:10
+----------------------------------------------------------------------------------------
+Nom Client : Donquixote Doflamingo
+Adresse Client : Palais Royal, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Canon Buster Call              : 4        * 78.65           = 314.60 
+Chapeau de Loguetown           : 1        * 66.90           = 66.90 
+Chapeau de Soleil de Sabaody   : 8        * 46.10           = 368.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 750.3
+Total avec taxe : 900.3599999999999

@@ -1,0 +1,14 @@
+Fracture N° 325
+Date commande : 0023-03-22T22:52:30
+----------------------------------------------------------------------------------------
+Nom Client : Sir Crocodile
+Adresse Client : Coeur du Desert, Alubarna
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bouteilles de parfum au sillage marin : 2        * 28.40           = 56.80 
+Boucles d'Oreilles de Gouvernail : 2        * 54.50           = 109.00 
+Maquettes de navires de legende : 1        * 5.85            = 5.85 
+Briques de Lego de navires pirates : 1        * 28.10           = 28.10 
+----------------------------------------------------------------------------------------
+Total hors taxe : 199.75
+Total avec taxe : 239.7

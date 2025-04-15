@@ -1,0 +1,14 @@
+Fracture N° 276
+Date commande : 0021-03-31T08:09:07
+----------------------------------------------------------------------------------------
+Nom Client : Capone Bege
+Adresse Client : Chambre de Capone, Ryugu Palace
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boussole Doree                 : 8        * 38.05           = 304.40 
+Montre de Compteur Davy Back   : 2        * 58.60           = 117.20 
+Chapeaux de pirate en cuir     : 1        * 18.10           = 18.10 
+Briques de Lego de navires pirates : 1        * 28.10           = 28.10 
+----------------------------------------------------------------------------------------
+Total hors taxe : 467.8
+Total avec taxe : 561.36

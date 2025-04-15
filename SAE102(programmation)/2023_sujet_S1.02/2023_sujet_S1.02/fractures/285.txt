@@ -1,0 +1,12 @@
+Fracture N° 285
+Date commande : 0021-08-07T03:17:24
+----------------------------------------------------------------------------------------
+Nom Client : Nico Robin
+Adresse Client : Rue des Archeologues, Ohara
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Biscuits Homies                : 4        * 9.55            = 38.20 
+Boussole du Fournisseur        : 2        * 76.50           = 153.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 191.2
+Total avec taxe : 229.43999999999997

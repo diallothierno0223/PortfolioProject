@@ -1,0 +1,15 @@
+Fracture N° 66
+Date commande : 0012-12-18T16:07:24
+----------------------------------------------------------------------------------------
+Nom Client : Ashura Doji
+Adresse Client : Mont Ashura Doji, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Collier de l'Arbre Sabondy     : 1        * 23.25           = 23.25 
+Collier du Joker               : 1        * 26.05           = 26.05 
+Figurines articulees de pirates : 1        * 48.20           = 48.20 
+Statuette de Riku Doldo III    : 1        * 65.55           = 65.55 
+Collier du Voile               : 7        * 70.90           = 496.30 
+----------------------------------------------------------------------------------------
+Total hors taxe : 659.3500000000001
+Total avec taxe : 791.2200000000001

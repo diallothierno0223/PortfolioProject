@@ -1,0 +1,12 @@
+Fracture N° 448
+Date commande : 0028-03-18T00:03:33
+----------------------------------------------------------------------------------------
+Nom Client : Enel
+Adresse Client : Arche Maxim, Upper Yard
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Services de table maritimes    : 1        * 0.05            = 0.05 
+Bracelet du Joker              : 6        * 57.40           = 344.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 344.45
+Total avec taxe : 413.34

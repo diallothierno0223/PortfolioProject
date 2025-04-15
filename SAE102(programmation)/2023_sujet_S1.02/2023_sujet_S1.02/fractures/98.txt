@@ -1,0 +1,13 @@
+Fracture N° 98
+Date commande : 0014-11-08T01:25:01
+----------------------------------------------------------------------------------------
+Nom Client : Monet
+Adresse Client : Jardin Gele, Punk Hazard
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Maquette du Siecle Oublie      : 2        * 56.00           = 112.00 
+Bracelet de l'Arbre Sabondy    : 5        * 102.80          = 514.00 
+Affiches encadrees de batailles navales : 1        * 61.30           = 61.30 
+----------------------------------------------------------------------------------------
+Total hors taxe : 687.3
+Total avec taxe : 824.7599999999999

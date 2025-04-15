@@ -1,0 +1,13 @@
+Fracture N° 309
+Date commande : 0022-09-22T08:15:47
+----------------------------------------------------------------------------------------
+Nom Client : Fujitora
+Adresse Client : Plateau Royal, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bouteilles de Rhum personnalisees : 1        * 16.00           = 16.00 
+Boussole Antique               : 14       * 33.05           = 462.70 
+Modele de Vogue Merry          : 1        * 38.30           = 38.30 
+----------------------------------------------------------------------------------------
+Total hors taxe : 516.9999999999999
+Total avec taxe : 620.3999999999999

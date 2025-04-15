@@ -1,0 +1,12 @@
+Fracture N° 114
+Date commande : 0015-07-06T20:16:13
+----------------------------------------------------------------------------------------
+Nom Client : Hina
+Adresse Client : Base Navale G-8, G-8
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+T-shirt du Fournisseur         : 1        * 61.20           = 61.20 
+Boussole Aqua Laguna           : 1        * 22.40           = 22.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 83.6
+Total avec taxe : 100.32

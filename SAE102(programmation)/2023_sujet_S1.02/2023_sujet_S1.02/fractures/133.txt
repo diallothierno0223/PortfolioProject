@@ -1,0 +1,15 @@
+Fracture N° 133
+Date commande : 0016-02-04T19:02:41
+----------------------------------------------------------------------------------------
+Nom Client : Hina
+Adresse Client : Base Navale G-8, G-8
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bouteilles de parfum au sillage marin : 1        * 28.40           = 28.40 
+Telescopes a vision nocturne   : 4        * 19.40           = 77.60 
+Affiches encadrees de batailles navales : 1        * 61.30           = 61.30 
+Bracelet de l'Ordre Celeste    : 2        * 37.55           = 75.10 
+T-shirt de Loguetown           : 7        * 8.60            = 60.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 302.6
+Total avec taxe : 363.12

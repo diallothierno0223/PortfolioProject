@@ -1,0 +1,14 @@
+Fracture N° 428
+Date commande : 0027-07-19T22:43:08
+----------------------------------------------------------------------------------------
+Nom Client : Marco
+Adresse Client : Cathedrale de Merveille, Merveille
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Maquettes de navires de legende : 1        * 5.85            = 5.85 
+Wado Ichimonji                 : 2        * 35.50           = 71.00 
+Briques de Lego de navires pirates : 2        * 28.10           = 56.20 
+Boussole de Cipher Pol         : 1        * 32.45           = 32.45 
+----------------------------------------------------------------------------------------
+Total hors taxe : 165.5
+Total avec taxe : 198.6

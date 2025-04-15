@@ -1,0 +1,11 @@
+Fracture N° 387
+Date commande : 0026-01-06T03:50:47
+----------------------------------------------------------------------------------------
+Nom Client : Hina
+Adresse Client : Base Navale G-8, G-8
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boucles d'Oreilles de Gouvernail : 1        * 54.50           = 54.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 54.5
+Total avec taxe : 65.39999999999999

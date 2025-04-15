@@ -1,0 +1,12 @@
+Fracture N° 3
+Date commande : 0010-05-19T07:16:07
+----------------------------------------------------------------------------------------
+Nom Client : Nami
+Adresse Client : Rue des Cartographes, Oranje
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Fruit du Demon Mera Mera       : 11       * 65.40           = 719.40 
+Casque du Colisee Corrida      : 1        * 98.65           = 98.65 
+----------------------------------------------------------------------------------------
+Total hors taxe : 818.0500000000001
+Total avec taxe : 981.6600000000001

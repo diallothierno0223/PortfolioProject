@@ -1,0 +1,15 @@
+Fracture N° 91
+Date commande : 0014-06-24T05:24:32
+----------------------------------------------------------------------------------------
+Nom Client : Diamante
+Adresse Client : Stade Corrida, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Services de table nautiques    : 1        * 44.30           = 44.30 
+Boussole a Energie Solaire de Franky : 3        * 58.30           = 174.90 
+Pendentif de Thriller Bark     : 4        * 85.15           = 340.60 
+Ancres decoratives en laiton   : 1        * 26.20           = 26.20 
+Services de table maritimes    : 6        * 0.05            = 0.30 
+----------------------------------------------------------------------------------------
+Total hors taxe : 586.3
+Total avec taxe : 703.56

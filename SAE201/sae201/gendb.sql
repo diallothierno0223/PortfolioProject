@@ -1,0 +1,156 @@
+-- DROP TABLE IF EXISTS SOUS_CATEGORIE_ACTIVITE;
+-- -- DROP TABLE IF EXISTS DATE_DEROULEMENT_FESTIVAL;
+-- DROP TABLE IF EXISTS ACTIVITE_FESTIVAL;
+-- DROP TABLE IF EXISTS SOUS_CATEGORIE_FESTIVAL;
+-- DROP TABLE IF EXISTS DISCIPLINE_DOMINANTE_FESTIVAL;
+-- DROP TABLE IF EXISTS ADRESSE_FESTIVAL;
+-- DROP TABLE IF EXISTS FESTIVAL;
+-- DROP TABLE IF EXISTS DATE_DEROULEMENT;
+-- DROP TABLE IF EXISTS ACTIVITE;
+-- DROP TABLE IF EXISTS SOUS_CATEGORIE;
+-- DROP TABLE IF EXISTS DISCIPLINE_DOMINANTE;
+-- DROP TABLE IF EXISTS ADRESSE;
+-- DROP TABLE IF EXISTS COMMUNE;
+-- DROP TABLE IF EXISTS DEPARTEMENT;
+-- DROP TABLE IF EXISTS REGION;
+-- DROP TABLE IF EXISTS ENVERGURE;
+-- DROP TABLE IF EXISTS EPCI;
+
+
+DROP SCHEMA public CASCADE;
+CREATE SCHEMA public;
+
+-- ok
+CREATE TABLE EPCI(
+    code_epci INTEGER PRIMARY KEY,
+    nom_epci VARCHAR
+);
+-- ok
+CREATE TABLE ENVERGURE(
+    id_envergure INTEGER PRIMARY KEY,
+    envergure_territorial VARCHAR
+);
+
+-- ok
+CREATE TABLE REGION(
+    id_region INTEGER PRIMARY KEY,
+    nom_region VARCHAR
+);
+
+-- ok
+CREATE TABLE DEPARTEMENT(
+    id_departement INTEGER PRIMARY KEY,
+    nom_departement VARCHAR,
+    id_region INTEGER REFERENCES REGION(id_region) ON DELETE SET NULL
+);
+
+-- ok
+CREATE TABLE COMMUNE(
+    code_insee INTEGER PRIMARY KEY,
+    nom_commune VARCHAR,
+    code_postal VARCHAR,
+    id_departement INTEGER REFERENCES DEPARTEMENT(id_departement) ON DELETE SET NULL
+);
+
+-- ok
+CREATE TABLE ADRESSE(
+    id_adresse INTEGER PRIMARY KEY,
+    num_voie VARCHAR,
+    type_voie VARCHAR,
+    nom_voie VARCHAR,
+    complement_adresse VARCHAR,
+    code_insee INTEGER REFERENCES COMMUNE(code_insee) ON DELETE SET NULL
+);
+
+-- ok
+CREATE TABLE CATEGORIE(
+    id_categorie INTEGER PRIMARY KEY,
+    nom_categorie VARCHAR
+);
+
+-- OK
+CREATE TABLE SOUS_CATEGORIE(
+    id_sous_categorie INTEGER PRIMARY KEY,
+    nom_sous_categorie VARCHAR
+    -- id_categorie INTEGER REFERENCES CATEGORIE(id_categorie) ON DELETE SET NULL
+);
+
+-- OK
+CREATE TABLE ACTIVITE(
+    id_activite INTEGER PRIMARY KEY,
+    nom_activite VARCHAR
+    --id_sous_categorie INTEGER REFERENCES SOUS_CATEGORIE(id_sous_categorie) ON DELETE SET NULL
+);
+
+-- OK
+CREATE TABLE DATE_DEROULEMENT (
+    id_periode INTEGER PRIMARY KEY, 
+    nom_periode VARCHAR
+);
+
+-- OK
+CREATE TABLE DECENIE(
+    id_decenie INTEGER PRIMARY KEY,
+    nom_decenie VARCHAR
+);
+
+-- OK
+CREATE TABLE FESTIVAL(
+    id_festival INTEGER PRIMARY KEY,
+    nom_festival VARCHAR, 
+    site_internet VARCHAR, 
+    adresse_mail VARCHAR, 
+    annee_creation VARCHAR,  
+    identifiant_agence VARCHAR, 
+    identifiant_cnm VARCHAR, 
+    geocodage_x VARCHAR, 
+    geocodage_y VARCHAR, 
+    id_envergure INTEGER REFERENCES ENVERGURE(id_envergure) ON DELETE SET NULL, 
+    code_epci INTEGER REFERENCES EPCI(code_epci) ON DELETE SET NULL, 
+    id_periode INTEGER REFERENCES DATE_DEROULEMENT(id_periode) ON DELETE SET NULL,
+    id_decenie INTEGER REFERENCES DECENIE(id_decenie) ON DELETE SET NULL,
+    code_insee INTEGER REFERENCES COMMUNE(code_insee) ON DELETE SET NULL
+);
+
+-- CREATE TABLE DATE_DEROULEMENT_FESTIVAL(
+--     id_date INTEGER REFERENCES DATE_DEROULEMENT(id_date) ON DELETE CASCADE,
+--     id_festival INTEGER REFERENCES FESTIVAL(id_festival) ON DELETE CASCADE,
+--     PRIMARY KEY (id_date, id_festival)
+-- );
+
+CREATE TABLE ADRESSE_FESTIVAL(
+    id_adresse INTEGER REFERENCES ADRESSE(id_adresse) ON DELETE CASCADE, 
+    id_festival INTEGER REFERENCES FESTIVAL(id_festival) ON DELETE CASCADE,
+    PRIMARY KEY (id_adresse, id_festival)
+);
+
+CREATE TABLE CATEGORIE_FESTIVAL(
+    id_categorie INTEGER REFERENCES CATEGORIE(id_categorie) ON DELETE CASCADE, 
+    id_festival INTEGER REFERENCES FESTIVAL(id_festival) ON DELETE CASCADE,
+    PRIMARY KEY (id_categorie, id_festival)
+);
+
+CREATE TABLE SOUS_CATEGORIE_FESTIVAL(
+    id_sous_categorie INTEGER REFERENCES SOUS_CATEGORIE(id_sous_categorie) ON DELETE CASCADE, 
+    id_festival INTEGER REFERENCES FESTIVAL(id_festival) ON DELETE CASCADE,
+    PRIMARY KEY (id_sous_categorie, id_festival)
+);
+
+CREATE TABLE ACTIVITE_FESTIVAL(
+    id_activite INTEGER REFERENCES ACTIVITE(id_activite) ON DELETE CASCADE, 
+    id_festival INTEGER REFERENCES FESTIVAL(id_festival) ON DELETE CASCADE,
+    PRIMARY KEY (id_activite, id_festival)
+);
+
+-- ok
+CREATE TABLE SOUS_CATEGORIE_ACTIVITE(
+    id_sous_categorie INTEGER REFERENCES SOUS_CATEGORIE(id_sous_categorie) ON DELETE CASCADE, 
+    id_activite INTEGER REFERENCES ACTIVITE(id_activite) ON DELETE CASCADE,
+    PRIMARY KEY (id_sous_categorie, id_activite)
+);
+
+CREATE TABLE CATEGORIE_SOUS_CATEGORIE(
+    id_sous_categorie INTEGER REFERENCES SOUS_CATEGORIE(id_sous_categorie) ON DELETE CASCADE,
+    id_categorie INTEGER REFERENCES CATEGORIE(id_categorie) ON DELETE CASCADE,
+    PRIMARY KEY (id_categorie, id_sous_categorie)
+);

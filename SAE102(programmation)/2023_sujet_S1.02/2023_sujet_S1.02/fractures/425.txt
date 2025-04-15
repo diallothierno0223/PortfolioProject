@@ -1,0 +1,12 @@
+Fracture N° 425
+Date commande : 0027-06-25T12:34:59
+----------------------------------------------------------------------------------------
+Nom Client : Pell
+Adresse Client : Palais d'Alubarna, Alubarna
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Collier de l'Ordre Celeste     : 1        * 70.60           = 70.60 
+Bague des Dragons Celestes     : 6        * 52.80           = 316.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 387.4
+Total avec taxe : 464.87999999999994

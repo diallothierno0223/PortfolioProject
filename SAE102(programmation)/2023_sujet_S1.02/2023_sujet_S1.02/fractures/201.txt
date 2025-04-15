@@ -1,0 +1,14 @@
+Fracture N° 201
+Date commande : 0018-05-20T18:57:09
+----------------------------------------------------------------------------------------
+Nom Client : Kanjuro
+Adresse Client : Foret de Kanjuro, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Sac a Dos de Cipher Pol        : 1        * 38.25           = 38.25 
+Boussole de Loguetown          : 1        * 75.00           = 75.00 
+Chapeau de Gladiator           : 8        * 31.50           = 252.00 
+Drapeau du Voile               : 3        * 4.75            = 14.25 
+----------------------------------------------------------------------------------------
+Total hors taxe : 379.5
+Total avec taxe : 455.4

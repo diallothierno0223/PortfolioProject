@@ -1,0 +1,14 @@
+Fracture N° 53
+Date commande : 0012-05-20T07:21:50
+----------------------------------------------------------------------------------------
+Nom Client : Inuarashi
+Adresse Client : Mont Inuarashi, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Gants de Cipher Pol            : 7        * 36.45           = 255.15 
+Chapeaux de pirate en cuir     : 13       * 18.10           = 235.30 
+Tunique du Colisee Corrida     : 5        * 15.60           = 78.00 
+Modele de Navire de Guerre Buster Call : 2        * 37.80           = 75.60 
+----------------------------------------------------------------------------------------
+Total hors taxe : 644.0500000000001
+Total avec taxe : 772.86

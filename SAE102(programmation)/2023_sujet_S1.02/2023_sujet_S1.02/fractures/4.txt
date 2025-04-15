@@ -1,0 +1,15 @@
+Fracture N° 4
+Date commande : 0010-05-22T05:33:03
+----------------------------------------------------------------------------------------
+Nom Client : Pell
+Adresse Client : Palais d'Alubarna, Alubarna
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Pendentif Demon d'Or           : 1        * 21.80           = 21.80 
+Chapeaux de pirate en cuir     : 1        * 18.10           = 18.10 
+Collier de Wano                : 2        * 73.25           = 146.50 
+Chapeaux de pirate en cuir     : 1        * 18.10           = 18.10 
+Sceptre du Monde Celeste       : 1        * 29.00           = 29.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 233.5
+Total avec taxe : 280.2

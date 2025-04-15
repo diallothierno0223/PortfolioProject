@@ -1,0 +1,13 @@
+Fracture N° 130
+Date commande : 0015-12-25T03:28:21
+----------------------------------------------------------------------------------------
+Nom Client : Duval
+Adresse Client : Grove 42, Sabaody
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boussole Aqua Laguna           : 4        * 22.40           = 89.60 
+T-shirt de Impel Down          : 8        * 21.30           = 170.40 
+Manteau de l'Amiral            : 2        * 23.40           = 46.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 306.8
+Total avec taxe : 368.16

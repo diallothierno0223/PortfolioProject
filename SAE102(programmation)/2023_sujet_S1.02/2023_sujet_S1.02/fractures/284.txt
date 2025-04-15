@@ -1,0 +1,13 @@
+Fracture N° 284
+Date commande : 0021-08-05T07:03:59
+----------------------------------------------------------------------------------------
+Nom Client : Capone Bege
+Adresse Client : Chambre de Capone, Ryugu Palace
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Tunique du Colisee Corrida     : 8        * 15.60           = 124.80 
+Repliques de pieces de monnaie anciennes : 3        * 122.20          = 366.60 
+Coffret a Tresor du Sunny      : 1        * 45.20           = 45.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 536.6
+Total avec taxe : 643.92

@@ -1,0 +1,11 @@
+Fracture N° 11
+Date commande : 0010-07-13T22:10:46
+----------------------------------------------------------------------------------------
+Nom Client : Diamante
+Adresse Client : Stade Corrida, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Fruit du Demon Gomu Gomu       : 8        * 71.90           = 575.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 575.2
+Total avec taxe : 690.24

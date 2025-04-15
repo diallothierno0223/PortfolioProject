@@ -1,0 +1,15 @@
+Fracture N° 249
+Date commande : 0020-06-19T03:59:40
+----------------------------------------------------------------------------------------
+Nom Client : Charlotte Linlin (Big Mom)
+Adresse Client : Salle du Trone, Whole Cake Chateau
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Porte-monnaie en cuir travaille : 1        * 21.65           = 21.65 
+Pendentif du Joker             : 1        * 42.10           = 42.10 
+T-shirt de Luffy               : 1        * 108.15          = 108.15 
+Drapeau de l'Equipage du Chapeau de Paille : 1        * 74.90           = 74.90 
+Chapeau de Loguetown           : 5        * 66.90           = 334.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 581.3
+Total avec taxe : 697.56

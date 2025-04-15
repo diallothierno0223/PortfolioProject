@@ -1,0 +1,12 @@
+Fracture N° 418
+Date commande : 0027-04-08T17:00:07
+----------------------------------------------------------------------------------------
+Nom Client : Tsuru
+Adresse Client : Quartier General de la Marine, Marineford
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Epee Sandai Kitetsu            : 1        * 64.65           = 64.65 
+Boussole de Loguetown          : 1        * 75.00           = 75.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 139.65
+Total avec taxe : 167.58

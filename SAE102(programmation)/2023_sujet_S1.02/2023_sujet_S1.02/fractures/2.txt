@@ -1,0 +1,14 @@
+Fracture N° 2
+Date commande : 0010-05-01T19:08:27
+----------------------------------------------------------------------------------------
+Nom Client : Bepo
+Adresse Client : Foret des Hommes-Poissons, Fish-Man Island
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bonbons de Big Mom             : 1        * 30.80           = 30.80 
+Fruit du Demon Bara Bara       : 1        * 48.30           = 48.30 
+T-shirt de Loguetown           : 5        * 8.60            = 43.00 
+Gants de Dressrosa             : 4        * 48.25           = 193.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 315.1
+Total avec taxe : 378.12

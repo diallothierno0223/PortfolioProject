@@ -1,0 +1,12 @@
+Fracture N° 270
+Date commande : 0021-01-03T18:07:58
+----------------------------------------------------------------------------------------
+Nom Client : Boa Hancock
+Adresse Client : Palais Royal, Amazon Lily
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Gilets de capitaine            : 1        * 45.95           = 45.95 
+Fruit du Demon Bara Bara       : 1        * 48.30           = 48.30 
+----------------------------------------------------------------------------------------
+Total hors taxe : 94.25
+Total avec taxe : 113.1

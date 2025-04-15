@@ -1,0 +1,14 @@
+Fracture N° 310
+Date commande : 0022-09-23T22:56:55
+----------------------------------------------------------------------------------------
+Nom Client : Pell
+Adresse Client : Palais d'Alubarna, Alubarna
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Montres a gousset marines      : 1        * 69.60           = 69.60 
+Epee du Ciel                   : 7        * 12.05           = 84.35 
+Boussole de Loguetown          : 1        * 75.00           = 75.00 
+Figurines de legendaires pirates : 1        * 55.45           = 55.45 
+----------------------------------------------------------------------------------------
+Total hors taxe : 284.4
+Total avec taxe : 341.28

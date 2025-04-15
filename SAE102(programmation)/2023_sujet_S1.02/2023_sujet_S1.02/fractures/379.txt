@@ -1,0 +1,13 @@
+Fracture N° 379
+Date commande : 0025-09-21T12:41:02
+----------------------------------------------------------------------------------------
+Nom Client : Vista
+Adresse Client : Jardins de Merveille, Merveille
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Colliers avec des dents de requin : 1        * 41.40           = 41.40 
+Repliques de pieces de monnaie anciennes : 1        * 122.20          = 122.20 
+Colliers avec des dents de requin : 1        * 41.40           = 41.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 205.0
+Total avec taxe : 246.0

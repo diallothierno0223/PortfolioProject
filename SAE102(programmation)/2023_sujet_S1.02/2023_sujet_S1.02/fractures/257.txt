@@ -1,0 +1,13 @@
+Fracture N° 257
+Date commande : 0020-09-16T19:51:00
+----------------------------------------------------------------------------------------
+Nom Client : Kozuki Oden
+Adresse Client : Chateau Oden, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boucles d'Oreilles du Joker    : 7        * 40.75           = 285.25 
+Colliers avec des dents de requin : 8        * 41.40           = 331.20 
+Badges decoratifs pour sacs    : 1        * 113.55          = 113.55 
+----------------------------------------------------------------------------------------
+Total hors taxe : 730.0
+Total avec taxe : 876.0

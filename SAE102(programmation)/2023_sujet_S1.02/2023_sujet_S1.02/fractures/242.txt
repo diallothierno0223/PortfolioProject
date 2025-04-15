@@ -1,0 +1,15 @@
+Fracture N° 242
+Date commande : 0020-03-19T00:53:09
+----------------------------------------------------------------------------------------
+Nom Client : Koala
+Adresse Client : Foret des Hommes-Poissons, Fish-Man Island
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+T-shirt de Sogeking            : 1        * 68.75           = 68.75 
+Drapeau du Davy Back           : 1        * 38.20           = 38.20 
+Boucles d'Oreilles de Gouvernail : 1        * 54.50           = 54.50 
+Services de table nautiques    : 1        * 44.30           = 44.30 
+Gants du Colisee Corrida       : 10       * 63.95           = 639.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 845.25
+Total avec taxe : 1014.3

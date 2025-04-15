@@ -1,0 +1,11 @@
+Fracture N° 247
+Date commande : 0020-04-18T13:02:03
+----------------------------------------------------------------------------------------
+Nom Client : Kawamatsu
+Adresse Client : Riviere Kawamatsu, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Robe de Sabaody                : 1        * 53.30           = 53.30 
+----------------------------------------------------------------------------------------
+Total hors taxe : 53.3
+Total avec taxe : 63.959999999999994

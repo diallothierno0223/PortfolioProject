@@ -1,0 +1,97 @@
+0  ; Monkey D. Luffy                 ; Port de Fuschia                           
+1  ; Roronoa Zoro                    ; Dojo de Mihawk                            
+2  ; Nami                            ; Rue des Cartographes, Oranje              
+3  ; Usopp                           ; Atelier d'Usopp, Long Beach               
+4  ; Sanji                           ; Restaurant Baratie, All Blue Market       
+5  ; Tony Tony Chopper               ; Bureau du Docteur Kureha, Montagne Drum   
+6  ; Nico Robin                      ; Rue des Archeologues, Ohara               
+7  ; Franky                          ; Franky House, Water 7                     
+8  ; Brook                           ; Bateau Thousand Sunny, Florian Triangle   
+9  ; Jinbe                           ; Chateau Ryugu, Fish-Man Island            
+10 ; Gol D. Roger                    ; Place d'Execution, Loguetown              
+11 ; Portgas D. Ace                  ; Port de Fuschia                           
+12 ; Red-Haired Shanks               ; Bar de Makino, Fuschia                    
+13 ; Silvers Rayleigh                ; Parc Sabaody, Sabaody                     
+14 ; Boa Hancock                     ; Palais Royal, Amazon Lily                 
+15 ; Buggy le Clown                  ; Place du Marche, Fuschia                  
+16 ; Dracule Mihawk                  ; Chateau de Mihawk, Kuraigana              
+17 ; Trafalgar D. Water Law          ; Pays de Wano                              
+18 ; Eustass Kid                     ; Maison de Ventes aux Encheres, Sabaody    
+19 ; Scratchmen Apoo                 ; Grove 35, Sabaody                         
+20 ; Basil Hawkins                   ; Grove 22, Sabaody                         
+21 ; X Drake                         ; Quartier des Surveillants, Kuri           
+22 ; Jewelry Bonney                  ; Auberge de la Sirene, Oranje              
+23 ; Capone Bege                     ; Chambre de Capone, Ryugu Palace           
+24 ; Marshall D. Teach (Barbe Noire) ; Foret de Fuschia, Fuschia                 
+25 ; Kaido                           ; Sommet d'Onigashima, Onigashima           
+26 ; Charlotte Linlin (Big Mom)      ; Salle du Trone, Whole Cake Chateau        
+27 ; Kozuki Oden                     ; Chateau Oden, Kuri                        
+28 ; Kin'emon                        ; Foret de Kin'emon, Kuri                   
+29 ; Kozuki Momonosuke               ; Village d'Oden, Kuri                      
+30 ; Yamato                          ; Cavernes des Ruines, Kuri                 
+31 ; Vinsmoke Sanji                  ; Restaurant Baratie, All Blue Market       
+32 ; Katakuri                        ; Boutique de Patisserie, Whole Cake Island 
+33 ; Sabo                            ; Foret de Fuschia, Fuschia                 
+34 ; Enel                            ; Arche Maxim, Upper Yard                   
+35 ; Rob Lucci                       ; Quartiers Generaux du CP9, Enies Lobby    
+36 ; Donquixote Doflamingo           ; Palais Royal, Dressrosa                   
+37 ; Crocodile                       ; Casino Rain Dinners, Rainbase             
+38 ; Sir Crocodile                   ; Coeur du Desert, Alubarna                 
+39 ; Smoker                          ; Quartier General de la Marine, G-5        
+40 ; Tashigi                         ; Quartier General de la Marine, Loguetown  
+41 ; Vergo                           ; Laboratoire de Vergo, Punk Hazard         
+42 ; Garp                            ; Salle des Amiraux, Marine HQ, Sabaody     
+43 ; Sengoku                         ; Plaza Marineford, Marineford              
+44 ; Kizaru                          ; Grove 1, Sabaody                          
+45 ; Fujitora                        ; Plateau Royal, Dressrosa                  
+46 ; Ryokugyu                        ; Quartier des Equipages, Onigashima        
+47 ; Koby                            ; Village de Goa, Goa Kingdom               
+48 ; Helmeppo                        ; Marineford, Quartier General de la Marine 
+49 ; T-Bone                          ; Base Navale G-8, G-8                      
+50 ; Hina                            ; Base Navale G-8, G-8                      
+51 ; Coby                            ; Village de Goat, Ile de Goat              
+52 ; Rebecca                         ; Colisee de Dressrosa, Dressrosa           
+53 ; Vivi                            ; Palais d'Alubarna, Alubarna               
+54 ; Carue                           ; Stables Royaux, Alubarna                  
+55 ; Koala                           ; Foret des Hommes-Poissons, Fish-Man Island
+56 ; Hack                            ; Gymnase des Gladiateurs, Fish-Man Island  
+57 ; Tsuru                           ; Quartier General de la Marine, Marineford 
+58 ; Bellemere                       ; Cocoyashi Village, Cocoyashi              
+59 ; Dr. Hiriluk                     ; Chambre du Dr. Hiriluk, Drum Rockies      
+60 ; Bon Clay (Mr. 2)                ; Niveau 2 - Enfer Eternel, Impel Down      
+61 ; Pell                            ; Palais d'Alubarna, Alubarna               
+62 ; Chaka                           ; Palais d'Alubarna, Alubarna               
+63 ; Igaram                          ; Rue des Marchands, Alubarna               
+64 ; Dalton                          ; Drum Rockies, Montagne Drum               
+65 ; Wapol                           ; Chateau Royal, Black Drum                 
+66 ; Bepo                            ; Foret des Hommes-Poissons, Fish-Man Island
+67 ; Duval                           ; Grove 42, Sabaody                         
+68 ; Pappug                          ; Place des Marchands, Fish-Man Island      
+69 ; Inuarashi                       ; Mont Inuarashi, Kuri                      
+70 ; Nekomamushi                     ; Mont Nekomamushi, Kuri                    
+71 ; Kanjuro                         ; Foret de Kanjuro, Kuri                    
+72 ; Raizo                           ; Foret de Raizo, Kuri                      
+73 ; Ashura Doji                     ; Mont Ashura Doji, Kuri                    
+74 ; O-Kiku                          ; Rue des Geishas, Kuri                     
+75 ; Kawamatsu                       ; Riviere Kawamatsu, Kuri                   
+76 ; Denjiro                         ; Rue des Artisans, Kuri                    
+77 ; Caesar Clown                    ; Laboratoire de Caesar, Punk Hazard        
+78 ; Monet                           ; Jardin Gele, Punk Hazard                  
+79 ; Baby 5                          ; Base de Doflamingo, Punk Hazard           
+80 ; Buffalo                         ; Base de Doflamingo, Punk Hazard           
+81 ; Gladius                         ; Plateau de Dressrosa, Dressrosa           
+82 ; Dellinger                       ; Colisee de Dressrosa, Dressrosa           
+83 ; Trebol                          ; Porte du Manoir Donquixote, Dressrosa     
+84 ; Diamante                        ; Stade Corrida, Dressrosa                  
+85 ; Machvise                        ; Porte Principale, Dressrosa               
+86 ; Senor Pink                      ; Bar des Sourires, Dressrosa               
+87 ; Perona                          ; Manoir de Perona, Thriller Bark           
+88 ; Absalom                         ; Jardin des Zombies, Thriller Bark         
+89 ; Jozu                            ; Palais Royal, Merveille                   
+90 ; Marco                           ; Cathedrale de Merveille, Merveille        
+91 ; Vista                           ; Jardins de Merveille, Merveille           
+92 ; Blueno                          ; Cour Interieure, Enies Lobby              
+93 ; Kaku                            ; Salle des Archives, Enies Lobby           
+94 ; Kalifa                          ; Salle de la Justice, Enies Lobby          
+95 ; Jabra                           ; Salle des Batailles, Enies Lobby          
+96 ; Fukurou                         ; Quartiers des Gardiens, Enies Lobby       

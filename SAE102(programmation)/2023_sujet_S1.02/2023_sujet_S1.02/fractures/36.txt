@@ -1,0 +1,11 @@
+Fracture N° 36
+Date commande : 0011-06-03T12:57:08
+----------------------------------------------------------------------------------------
+Nom Client : Kizaru
+Adresse Client : Grove 1, Sabaody
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Porte-cles Gouvernail en Laiton : 6        * 62.45           = 374.70 
+----------------------------------------------------------------------------------------
+Total hors taxe : 374.70000000000005
+Total avec taxe : 449.64000000000004

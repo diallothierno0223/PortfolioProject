@@ -1,0 +1,14 @@
+Fracture N° 450
+Date commande : 0028-03-30T21:08:17
+----------------------------------------------------------------------------------------
+Nom Client : Monkey D. Luffy
+Adresse Client : Port de Fuschia
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Tapisserie des Anciens         : 1        * 32.50           = 32.50 
+Boucle de ceinturon tete de mort : 1        * 90.45           = 90.45 
+Masque de Sogeking             : 1        * 0.05            = 0.05 
+Gateau du Roi des Pirates      : 1        * 24.95           = 24.95 
+----------------------------------------------------------------------------------------
+Total hors taxe : 147.95
+Total avec taxe : 177.54

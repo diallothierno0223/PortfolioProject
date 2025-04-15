@@ -1,0 +1,13 @@
+Fracture N° 293
+Date commande : 0022-03-18T00:25:30
+----------------------------------------------------------------------------------------
+Nom Client : Machvise
+Adresse Client : Porte Principale, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Jus de Fruit du Demon          : 2        * 47.70           = 95.40 
+Maquettes de navires de legende : 1        * 5.85            = 5.85 
+Katana Shusui                  : 8        * 66.15           = 529.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 630.45
+Total avec taxe : 756.5400000000001

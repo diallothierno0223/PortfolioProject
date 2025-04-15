@@ -1,0 +1,15 @@
+Fracture N° 287
+Date commande : 0021-09-25T14:03:20
+----------------------------------------------------------------------------------------
+Nom Client : Marshall D. Teach (Barbe Noire)
+Adresse Client : Foret de Fuschia, Fuschia
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boucle de ceinturon tete de mort : 6        * 90.45           = 542.70 
+Boussole Antique               : 3        * 33.05           = 99.15 
+Epees forgees en acier marine  : 1        * 44.55           = 44.55 
+Biscuits Homies                : 1        * 9.55            = 9.55 
+Robe de Sabaody                : 1        * 53.30           = 53.30 
+----------------------------------------------------------------------------------------
+Total hors taxe : 749.2499999999999
+Total avec taxe : 899.0999999999998

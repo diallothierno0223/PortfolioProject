@@ -1,0 +1,15 @@
+Fracture N° 40
+Date commande : 0011-10-11T17:52:23
+----------------------------------------------------------------------------------------
+Nom Client : Roronoa Zoro
+Adresse Client : Dojo de Mihawk
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boussole Aqua Laguna           : 1        * 22.40           = 22.40 
+Boucles d'Oreilles de Zou      : 4        * 36.05           = 144.20 
+Sabres de bordee               : 1        * 81.65           = 81.65 
+Tapis de Fourrure de Mink      : 1        * 59.80           = 59.80 
+Bague de l'Arbre Sabondy       : 1        * 0.80            = 0.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 308.85
+Total avec taxe : 370.62

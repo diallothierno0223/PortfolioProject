@@ -1,0 +1,15 @@
+Fracture N° 442
+Date commande : 0028-01-22T02:32:14
+----------------------------------------------------------------------------------------
+Nom Client : Jinbe
+Adresse Client : Chateau Ryugu, Fish-Man Island
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Figurines articulees de pirates : 4        * 48.20           = 192.80 
+Gateau du Fruit du Demon       : 1        * 65.85           = 65.85 
+Armes du Fournisseur           : 5        * 50.40           = 252.00 
+Katana Enma                    : 1        * 71.65           = 71.65 
+Briques de Lego de navires pirates : 5        * 28.10           = 140.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 722.8
+Total avec taxe : 867.3599999999999

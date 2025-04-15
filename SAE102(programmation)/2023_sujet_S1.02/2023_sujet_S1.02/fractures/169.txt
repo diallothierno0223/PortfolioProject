@@ -1,0 +1,15 @@
+Fracture N° 169
+Date commande : 0017-07-22T01:37:49
+----------------------------------------------------------------------------------------
+Nom Client : Senor Pink
+Adresse Client : Bar des Sourires, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Gateau du Roi des Pirates      : 5        * 24.95           = 124.75 
+Wado Ichimonji                 : 4        * 35.50           = 142.00 
+Porte-monnaie en cuir travaille : 3        * 21.65           = 64.95 
+Boucles d'Oreilles de Zou      : 6        * 36.05           = 216.30 
+Sabres de bordee               : 1        * 81.65           = 81.65 
+----------------------------------------------------------------------------------------
+Total hors taxe : 629.65
+Total avec taxe : 755.5799999999999

@@ -1,0 +1,14 @@
+Fracture N° 392
+Date commande : 0026-02-07T18:19:18
+----------------------------------------------------------------------------------------
+Nom Client : Kaido
+Adresse Client : Sommet d'Onigashima, Onigashima
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Drapeau du Ciel                : 2        * 8.70            = 17.40 
+Boussole du Ciel               : 1        * 96.05           = 96.05 
+T-shirt du Fournisseur         : 8        * 61.20           = 489.60 
+Colliers avec des dents de requin : 11       * 41.40           = 455.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1058.4499999999998
+Total avec taxe : 1270.1399999999996

@@ -1,0 +1,11 @@
+Fracture N° 194
+Date commande : 0018-03-21T17:21:57
+----------------------------------------------------------------------------------------
+Nom Client : Boa Hancock
+Adresse Client : Palais Royal, Amazon Lily
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Gants du Colisee Corrida       : 3        * 63.95           = 191.85 
+----------------------------------------------------------------------------------------
+Total hors taxe : 191.85000000000002
+Total avec taxe : 230.22000000000003

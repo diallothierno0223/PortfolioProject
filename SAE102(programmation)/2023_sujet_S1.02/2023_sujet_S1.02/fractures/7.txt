@@ -1,0 +1,15 @@
+Fracture N° 7
+Date commande : 0010-06-10T19:53:45
+----------------------------------------------------------------------------------------
+Nom Client : Nico Robin
+Adresse Client : Rue des Archeologues, Ohara
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Maquettes de navires de legende : 4        * 52.30           = 209.20 
+Collier du Joker               : 6        * 26.05           = 156.30 
+Sac a Dos du Gouvernail        : 1        * 0.05            = 0.05 
+Lunettes de Vision X-Round     : 6        * 26.20           = 157.20 
+Gilets de capitaine            : 1        * 45.95           = 45.95 
+----------------------------------------------------------------------------------------
+Total hors taxe : 568.7
+Total avec taxe : 682.44

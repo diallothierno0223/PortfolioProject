@@ -1,0 +1,11 @@
+Fracture N° 348
+Date commande : 0024-06-27T15:44:20
+----------------------------------------------------------------------------------------
+Nom Client : Kizaru
+Adresse Client : Grove 1, Sabaody
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Masque de Demon de l'Enfer     : 1        * 98.60           = 98.60 
+----------------------------------------------------------------------------------------
+Total hors taxe : 98.6
+Total avec taxe : 118.32

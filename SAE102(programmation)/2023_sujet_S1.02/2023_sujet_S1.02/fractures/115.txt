@@ -1,0 +1,12 @@
+Fracture N° 115
+Date commande : 0015-07-18T03:13:03
+----------------------------------------------------------------------------------------
+Nom Client : Tashigi
+Adresse Client : Quartier General de la Marine, Loguetown
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Maquettes de navires de legende : 1        * 52.30           = 52.30 
+Casque du Colisee Corrida      : 2        * 98.65           = 197.30 
+----------------------------------------------------------------------------------------
+Total hors taxe : 249.60000000000002
+Total avec taxe : 299.52000000000004

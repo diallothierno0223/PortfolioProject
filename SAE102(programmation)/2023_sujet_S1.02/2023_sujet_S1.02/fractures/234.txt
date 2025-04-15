@@ -1,0 +1,14 @@
+Fracture N° 234
+Date commande : 0019-12-17T20:08:03
+----------------------------------------------------------------------------------------
+Nom Client : Donquixote Doflamingo
+Adresse Client : Palais Royal, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bouclier de Defi Davy Back     : 1        * 26.95           = 26.95 
+Montre de Pluton               : 1        * 83.75           = 83.75 
+Modele de Vogue Merry          : 1        * 38.30           = 38.30 
+Figurines de legendaires pirates : 6        * 60.15           = 360.90 
+----------------------------------------------------------------------------------------
+Total hors taxe : 509.9
+Total avec taxe : 611.88

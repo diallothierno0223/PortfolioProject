@@ -1,0 +1,15 @@
+Fracture N° 152
+Date commande : 0016-09-25T17:41:51
+----------------------------------------------------------------------------------------
+Nom Client : Marco
+Adresse Client : Cathedrale de Merveille, Merveille
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Tapis de Loguetown             : 3        * 28.80           = 86.40 
+Robe de Sabaody                : 3        * 53.30           = 159.90 
+Casque du Colisee Corrida      : 3        * 98.65           = 295.95 
+Affiches encadrees de batailles navales : 1        * 61.30           = 61.30 
+Katana Ame no Habakiri         : 5        * 31.95           = 159.75 
+----------------------------------------------------------------------------------------
+Total hors taxe : 763.3
+Total avec taxe : 915.9599999999999

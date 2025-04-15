@@ -1,0 +1,15 @@
+Fracture N° 117
+Date commande : 0015-08-16T08:24:33
+----------------------------------------------------------------------------------------
+Nom Client : Capone Bege
+Adresse Client : Chambre de Capone, Ryugu Palace
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Katana Ame no Habakiri         : 6        * 31.95           = 191.70 
+Figurines des Ombres           : 1        * 98.25           = 98.25 
+Jus de Fruit du Demon          : 1        * 47.70           = 47.70 
+Cadenas de coffres de pirates  : 3        * 0.05            = 0.15 
+Manteau de l'Amiral            : 3        * 23.40           = 70.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 407.99999999999994
+Total avec taxe : 489.5999999999999

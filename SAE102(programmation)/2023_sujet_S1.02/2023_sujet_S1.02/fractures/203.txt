@@ -1,0 +1,12 @@
+Fracture N° 203
+Date commande : 0018-06-08T02:42:17
+----------------------------------------------------------------------------------------
+Nom Client : Absalom
+Adresse Client : Jardin des Zombies, Thriller Bark
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Sceptre du Monde Celeste       : 4        * 29.00           = 116.00 
+Porte-monnaie en cuir travaille : 1        * 21.65           = 21.65 
+----------------------------------------------------------------------------------------
+Total hors taxe : 137.65
+Total avec taxe : 165.18

@@ -1,0 +1,13 @@
+Fracture N° 206
+Date commande : 0018-07-16T17:15:56
+----------------------------------------------------------------------------------------
+Nom Client : Kawamatsu
+Adresse Client : Riviere Kawamatsu, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boussole du Ciel               : 5        * 96.05           = 480.25 
+Eventail en Forme de Gateau    : 1        * 36.70           = 36.70 
+Tunique du Colisee Corrida     : 1        * 15.60           = 15.60 
+----------------------------------------------------------------------------------------
+Total hors taxe : 532.5500000000001
+Total avec taxe : 639.0600000000001

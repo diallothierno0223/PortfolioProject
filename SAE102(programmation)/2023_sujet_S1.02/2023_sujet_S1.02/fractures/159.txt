@@ -1,0 +1,13 @@
+Fracture N° 159
+Date commande : 0016-12-24T17:31:34
+----------------------------------------------------------------------------------------
+Nom Client : Machvise
+Adresse Client : Porte Principale, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Tablette d'Histoire Antique    : 7        * 12.35           = 86.45 
+Maquette du Thousand Sunny     : 1        * 50.55           = 50.55 
+Fruit du Demon Hie Hie         : 1        * 60.00           = 60.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 197.0
+Total avec taxe : 236.39999999999998

@@ -1,0 +1,15 @@
+Fracture N° 319
+Date commande : 0023-02-07T13:57:50
+----------------------------------------------------------------------------------------
+Nom Client : Yamato
+Adresse Client : Cavernes des Ruines, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Statuette en Or                : 4        * 57.90           = 231.60 
+Gants de Dressrosa             : 1        * 48.25           = 48.25 
+Services de table maritimes    : 1        * 54.10           = 54.10 
+Tablette d'Histoire Antique    : 1        * 12.35           = 12.35 
+Longues-vues marines           : 1        * 92.10           = 92.10 
+----------------------------------------------------------------------------------------
+Total hors taxe : 438.4000000000001
+Total avec taxe : 526.08

@@ -1,0 +1,14 @@
+Fracture N° 230
+Date commande : 0019-11-17T19:44:00
+----------------------------------------------------------------------------------------
+Nom Client : Senor Pink
+Adresse Client : Bar des Sourires, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Statuette en Or                : 8        * 57.90           = 463.20 
+Boucles d'Oreilles de Zou      : 1        * 36.05           = 36.05 
+Jeux de Societe Davy Back      : 5        * 78.20           = 391.00 
+Masque de Norland              : 1        * 64.55           = 64.55 
+----------------------------------------------------------------------------------------
+Total hors taxe : 954.8
+Total avec taxe : 1145.76

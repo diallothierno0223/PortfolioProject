@@ -1,0 +1,12 @@
+Fracture N° 386
+Date commande : 0025-11-26T20:48:41
+----------------------------------------------------------------------------------------
+Nom Client : Kanjuro
+Adresse Client : Foret de Kanjuro, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bouclier de Defi Davy Back     : 2        * 26.95           = 53.90 
+Cristal du Siecle Oublie       : 1        * 63.75           = 63.75 
+----------------------------------------------------------------------------------------
+Total hors taxe : 117.65
+Total avec taxe : 141.18

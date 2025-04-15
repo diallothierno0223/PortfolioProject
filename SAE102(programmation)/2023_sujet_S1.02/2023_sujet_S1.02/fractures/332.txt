@@ -1,0 +1,15 @@
+Fracture N° 332
+Date commande : 0023-08-29T07:03:11
+----------------------------------------------------------------------------------------
+Nom Client : Carue
+Adresse Client : Stables Royaux, Alubarna
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Porte-monnaie en cuir travaille : 2        * 21.65           = 43.30 
+Masque de Demon de l'Enfer     : 8        * 98.60           = 788.80 
+T-shirt du Fournisseur         : 1        * 61.20           = 61.20 
+T-shirt des Charpentiers de Water Seven : 9        * 20.60           = 185.40 
+Tunique du Colisee Corrida     : 1        * 15.60           = 15.60 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1094.3
+Total avec taxe : 1313.1599999999999

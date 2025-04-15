@@ -1,0 +1,14 @@
+Fracture N° 126
+Date commande : 0015-11-02T14:40:55
+----------------------------------------------------------------------------------------
+Nom Client : Koby
+Adresse Client : Village de Goa, Goa Kingdom
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boussole a Energie Solaire de Franky : 1        * 58.30           = 58.30 
+Figurines articulees de pirates : 1        * 48.20           = 48.20 
+Boucles d'oreilles de perles noires : 1        * 54.20           = 54.20 
+Drapeaux de Jolly Roger authentiques : 1        * 82.60           = 82.60 
+----------------------------------------------------------------------------------------
+Total hors taxe : 243.29999999999998
+Total avec taxe : 291.96

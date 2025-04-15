@@ -1,0 +1,14 @@
+Fracture N° 374
+Date commande : 0025-07-30T04:11:16
+----------------------------------------------------------------------------------------
+Nom Client : Sabo
+Adresse Client : Foret de Fuschia, Fuschia
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Tunique du Colisee Corrida     : 1        * 15.60           = 15.60 
+Figurines de legendaires pirates : 1        * 60.15           = 60.15 
+Tresor d'Or en Boite           : 9        * 71.40           = 642.60 
+Bouclier de Defi Davy Back     : 1        * 26.95           = 26.95 
+----------------------------------------------------------------------------------------
+Total hors taxe : 745.3000000000001
+Total avec taxe : 894.36

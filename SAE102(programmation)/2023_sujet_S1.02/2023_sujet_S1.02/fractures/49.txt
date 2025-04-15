@@ -1,0 +1,14 @@
+Fracture N° 49
+Date commande : 0012-03-19T22:45:21
+----------------------------------------------------------------------------------------
+Nom Client : Trafalgar D. Water Law
+Adresse Client : Pays de Wano
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Epees forgees en acier marine  : 8        * 44.55           = 356.40 
+Chapeau de Gardien d'Enfer     : 8        * 11.95           = 95.60 
+Chapeau de Loguetown           : 1        * 66.90           = 66.90 
+Collier du Joker               : 4        * 26.05           = 104.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 623.1
+Total avec taxe : 747.72

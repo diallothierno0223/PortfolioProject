@@ -1,0 +1,15 @@
+Fracture N° 424
+Date commande : 0027-06-24T07:38:53
+----------------------------------------------------------------------------------------
+Nom Client : Basil Hawkins
+Adresse Client : Grove 22, Sabaody
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Statuette de Kozuki Oden       : 1        * 25.00           = 25.00 
+Fruit du Demon Gura Gura       : 1        * 54.50           = 54.50 
+Drapeau du Davy Back           : 1        * 38.20           = 38.20 
+Maquettes de navires de legende : 1        * 52.30           = 52.30 
+Epee du Ciel                   : 2        * 12.05           = 24.10 
+----------------------------------------------------------------------------------------
+Total hors taxe : 194.1
+Total avec taxe : 232.92

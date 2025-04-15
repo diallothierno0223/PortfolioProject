@@ -1,0 +1,14 @@
+Fracture N° 48
+Date commande : 0012-03-14T03:36:29
+----------------------------------------------------------------------------------------
+Nom Client : Pell
+Adresse Client : Palais d'Alubarna, Alubarna
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Fruit du Demon Bara Bara       : 8        * 48.30           = 386.40 
+Sceptre du Monde Celeste       : 7        * 29.00           = 203.00 
+Statuette de Moria             : 3        * 28.50           = 85.50 
+Bracelet de l'Arbre Sabondy    : 9        * 102.80          = 925.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1600.1
+Total avec taxe : 1920.12

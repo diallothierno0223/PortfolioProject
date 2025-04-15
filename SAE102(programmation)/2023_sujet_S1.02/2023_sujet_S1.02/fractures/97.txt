@@ -1,0 +1,12 @@
+Fracture N° 97
+Date commande : 0014-10-20T04:50:36
+----------------------------------------------------------------------------------------
+Nom Client : Basil Hawkins
+Adresse Client : Grove 22, Sabaody
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Insignes de capitaine et de matelot : 7        * 61.25           = 428.75 
+Figurines articulees de pirates : 1        * 48.20           = 48.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 476.95
+Total avec taxe : 572.3399999999999

@@ -1,0 +1,15 @@
+Fracture N° 372
+Date commande : 0025-07-05T14:42:17
+----------------------------------------------------------------------------------------
+Nom Client : Senor Pink
+Adresse Client : Bar des Sourires, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boucles d'oreilles de perles noires : 1        * 54.20           = 54.20 
+Chapeau de Capitaine Noir      : 4        * 72.75           = 291.00 
+Bouclier de Defi Davy Back     : 1        * 26.95           = 26.95 
+Poupees de pirates en peluche  : 7        * 56.05           = 392.35 
+Tapis de Souris Gouvernail     : 1        * 59.30           = 59.30 
+----------------------------------------------------------------------------------------
+Total hors taxe : 823.8
+Total avec taxe : 988.56

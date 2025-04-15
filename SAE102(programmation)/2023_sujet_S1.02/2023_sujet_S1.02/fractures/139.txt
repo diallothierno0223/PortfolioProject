@@ -1,0 +1,11 @@
+Fracture N° 139
+Date commande : 0016-04-07T19:59:55
+----------------------------------------------------------------------------------------
+Nom Client : Brook
+Adresse Client : Bateau Thousand Sunny, Florian Triangle
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Cristal du Siecle Oublie       : 3        * 63.75           = 191.25 
+----------------------------------------------------------------------------------------
+Total hors taxe : 191.25
+Total avec taxe : 229.5

@@ -1,0 +1,14 @@
+Fracture N° 462
+Date commande : 0028-09-12T20:45:40
+----------------------------------------------------------------------------------------
+Nom Client : Donquixote Doflamingo
+Adresse Client : Palais Royal, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Veste de Capitaine du Voile    : 1        * 17.70           = 17.70 
+Gateau du Fruit du Demon       : 1        * 65.85           = 65.85 
+Canon Buster Call              : 8        * 78.65           = 629.20 
+Figurines de legendaires pirates : 11       * 55.45           = 609.95 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1322.7
+Total avec taxe : 1587.24

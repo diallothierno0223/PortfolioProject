@@ -1,0 +1,13 @@
+Fracture N° 308
+Date commande : 0022-09-07T19:52:52
+----------------------------------------------------------------------------------------
+Nom Client : Blueno
+Adresse Client : Cour Interieure, Enies Lobby
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Chapeau de Gardien d'Enfer     : 4        * 11.95           = 47.80 
+Jeux de societe de bataille navale : 10       * 0.05            = 0.50 
+Maquette du Siecle Oublie      : 2        * 56.00           = 112.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 160.3
+Total avec taxe : 192.36

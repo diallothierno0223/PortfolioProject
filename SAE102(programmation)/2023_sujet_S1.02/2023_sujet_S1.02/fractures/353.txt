@@ -1,0 +1,11 @@
+Fracture N° 353
+Date commande : 0024-08-07T04:52:16
+----------------------------------------------------------------------------------------
+Nom Client : Tsuru
+Adresse Client : Quartier General de la Marine, Marineford
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Fruit du Demon Mera Mera       : 2        * 65.40           = 130.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 130.8
+Total avec taxe : 156.96

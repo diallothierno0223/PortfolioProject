@@ -1,0 +1,14 @@
+Fracture N° 60
+Date commande : 0012-08-11T07:22:14
+----------------------------------------------------------------------------------------
+Nom Client : Jewelry Bonney
+Adresse Client : Auberge de la Sirene, Oranje
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Sabres forges en acier de qualite marine : 3        * 75.25           = 225.75 
+Porte-monnaie en cuir travaille : 1        * 21.65           = 21.65 
+Drapeau du Davy Back           : 1        * 38.20           = 38.20 
+Badges decoratifs pour sacs    : 10       * 113.55          = 1135.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1421.1
+Total avec taxe : 1705.32

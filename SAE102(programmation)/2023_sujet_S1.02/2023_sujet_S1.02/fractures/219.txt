@@ -1,0 +1,14 @@
+Fracture N° 219
+Date commande : 0019-03-31T11:03:32
+----------------------------------------------------------------------------------------
+Nom Client : Gladius
+Adresse Client : Plateau de Dressrosa, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Drapeau du Davy Back           : 2        * 38.20           = 76.40 
+Drapeau de l'Equipage du Chapeau de Paille : 5        * 74.90           = 374.50 
+Lance du Colisee Corrida       : 1        * 16.25           = 16.25 
+Drapeaux de Jolly Roger authentiques : 1        * 74.05           = 74.05 
+----------------------------------------------------------------------------------------
+Total hors taxe : 541.1999999999999
+Total avec taxe : 649.4399999999999

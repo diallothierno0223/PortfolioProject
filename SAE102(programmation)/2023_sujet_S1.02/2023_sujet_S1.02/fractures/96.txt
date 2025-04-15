@@ -1,0 +1,13 @@
+Fracture N° 96
+Date commande : 0014-09-29T10:02:59
+----------------------------------------------------------------------------------------
+Nom Client : Kozuki Momonosuke
+Adresse Client : Village d'Oden, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boussole du Fournisseur        : 2        * 76.50           = 153.00 
+Gants de Feu d'Enfer           : 1        * 65.45           = 65.45 
+Wado Ichimonji                 : 1        * 35.50           = 35.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 253.95
+Total avec taxe : 304.73999999999995

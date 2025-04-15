@@ -1,0 +1,12 @@
+Fracture N° 246
+Date commande : 0020-04-13T00:51:29
+----------------------------------------------------------------------------------------
+Nom Client : Hina
+Adresse Client : Base Navale G-8, G-8
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Livre de la Foret des Bulles   : 1        * 65.80           = 65.80 
+Services de table maritimes    : 13       * 0.05            = 0.65 
+----------------------------------------------------------------------------------------
+Total hors taxe : 66.45
+Total avec taxe : 79.74

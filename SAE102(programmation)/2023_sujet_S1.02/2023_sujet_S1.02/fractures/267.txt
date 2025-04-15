@@ -1,0 +1,12 @@
+Fracture N° 267
+Date commande : 0020-12-09T21:06:11
+----------------------------------------------------------------------------------------
+Nom Client : Sengoku
+Adresse Client : Plaza Marineford, Marineford
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Figurines articulees de pirates : 1        * 10.80           = 10.80 
+Fruit du Demon Mera Mera       : 1        * 65.40           = 65.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 76.2
+Total avec taxe : 91.44

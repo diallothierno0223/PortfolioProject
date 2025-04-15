@@ -1,0 +1,15 @@
+Fracture N° 390
+Date commande : 0026-01-25T20:32:35
+----------------------------------------------------------------------------------------
+Nom Client : Igaram
+Adresse Client : Rue des Marchands, Alubarna
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Cristal du Siecle Oublie       : 1        * 63.75           = 63.75 
+Drapeau de l'Equipage du Chapeau de Paille : 2        * 74.90           = 149.80 
+Collier de l'Arbre Sabondy     : 1        * 23.25           = 23.25 
+Masque de Demon de l'Enfer     : 4        * 98.60           = 394.40 
+Fruit du Demon Mera Mera       : 1        * 65.40           = 65.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 696.6
+Total avec taxe : 835.92

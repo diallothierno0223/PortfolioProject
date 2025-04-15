@@ -1,0 +1,5 @@
+https://www.wolframcloud.com/obj/thiernomamadousalidiallo1/Published/DialloThierno.nb
+
+
+Dans le cadre de la SAE intitulé Régréssion sur données réelles il nous a été demandé à partir ensemble
+de données cliniques relatives à des tumeurs de déterminer, parmi les variables statistiques, les plus discriminantes (c.-à-d. celles dont qui permettent au mieux de prédire l’état malin ou bénin d’une tumeur). Rechercher l’existence de corrélations entre les variables statistiques.

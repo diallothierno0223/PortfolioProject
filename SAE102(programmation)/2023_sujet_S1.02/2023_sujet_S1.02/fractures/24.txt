@@ -1,0 +1,13 @@
+Fracture N° 24
+Date commande : 0011-01-02T22:21:21
+----------------------------------------------------------------------------------------
+Nom Client : Donquixote Doflamingo
+Adresse Client : Palais Royal, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Chapeau de Fourrure de Mink    : 1        * 83.50           = 83.50 
+Montre de Pluton               : 19       * 83.75           = 1591.25 
+Chapeau de Soleil de Sabaody   : 1        * 46.10           = 46.10 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1720.85
+Total avec taxe : 2065.02

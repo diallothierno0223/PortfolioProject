@@ -1,0 +1,12 @@
+Fracture N° 153
+Date commande : 0016-10-09T01:14:58
+----------------------------------------------------------------------------------------
+Nom Client : Franky
+Adresse Client : Franky House, Water 7
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Lunettes de Vision X-Round     : 7        * 26.20           = 183.40 
+Maquette du Thousand Sunny     : 1        * 50.55           = 50.55 
+----------------------------------------------------------------------------------------
+Total hors taxe : 233.95
+Total avec taxe : 280.73999999999995

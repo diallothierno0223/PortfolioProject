@@ -1,0 +1,12 @@
+Fracture N° 420
+Date commande : 0027-05-20T01:10:20
+----------------------------------------------------------------------------------------
+Nom Client : Hack
+Adresse Client : Gymnase des Gladiateurs, Fish-Man Island
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Chocolat du Fruit du Demon     : 1        * 69.75           = 69.75 
+Boussole de Shandora           : 4        * 98.95           = 395.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 465.55
+Total avec taxe : 558.66

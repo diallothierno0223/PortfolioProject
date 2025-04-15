@@ -1,0 +1,15 @@
+Fracture N° 252
+Date commande : 0020-07-07T22:19:53
+----------------------------------------------------------------------------------------
+Nom Client : Scratchmen Apoo
+Adresse Client : Grove 35, Sabaody
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Drapeau de l'Equipage du Chapeau de Paille : 8        * 74.90           = 599.20 
+Fruit du Demon Gomu Gomu       : 1        * 71.90           = 71.90 
+Boucles d'Oreilles de Gouvernail : 1        * 54.50           = 54.50 
+Montres a gousset marines      : 2        * 69.60           = 139.20 
+Epee Buster Call               : 8        * 0.05            = 0.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 865.1999999999999
+Total avec taxe : 1038.2399999999998

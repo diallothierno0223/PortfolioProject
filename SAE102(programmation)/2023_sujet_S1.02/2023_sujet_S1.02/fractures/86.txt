@@ -1,0 +1,12 @@
+Fracture N° 86
+Date commande : 0014-03-11T11:13:34
+----------------------------------------------------------------------------------------
+Nom Client : Enel
+Adresse Client : Arche Maxim, Upper Yard
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Eventail en Forme de Gateau    : 7        * 36.70           = 256.90 
+Gateau du Fruit du Demon       : 9        * 65.85           = 592.65 
+----------------------------------------------------------------------------------------
+Total hors taxe : 849.55
+Total avec taxe : 1019.4599999999999

@@ -1,0 +1,15 @@
+Fracture N° 431
+Date commande : 0027-09-25T09:26:22
+----------------------------------------------------------------------------------------
+Nom Client : Sabo
+Adresse Client : Foret de Fuschia, Fuschia
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Poupees de pirates en peluche  : 2        * 48.45           = 96.90 
+T-shirt de Wano                : 1        * 70.30           = 70.30 
+Dagues de capitaine            : 1        * 21.95           = 21.95 
+Boucles d'Oreilles de Zou      : 1        * 36.05           = 36.05 
+Bague de l'Arbre Sabondy       : 6        * 0.80            = 4.80 
+----------------------------------------------------------------------------------------
+Total hors taxe : 230.0
+Total avec taxe : 276.0

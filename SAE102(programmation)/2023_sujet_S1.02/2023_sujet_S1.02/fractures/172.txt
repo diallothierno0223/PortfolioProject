@@ -1,0 +1,13 @@
+Fracture N° 172
+Date commande : 0017-08-04T22:43:15
+----------------------------------------------------------------------------------------
+Nom Client : Gol D. Roger
+Adresse Client : Place d'Execution, Loguetown
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+T-shirt de Luffy               : 1        * 108.15          = 108.15 
+Boussole de Cipher Pol         : 1        * 32.45           = 32.45 
+Bracelet du Joker              : 3        * 57.40           = 172.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 312.8
+Total avec taxe : 375.36

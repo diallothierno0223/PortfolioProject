@@ -1,0 +1,237 @@
+---
+title: 'SAE: Sondages simples'
+author: "Vos noms"
+date: " RESSOURCES: Statistiques inférentielles et Probabilités"
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '2'
+  word_document:
+    toc: yes
+    toc_depth: '2'
+  html_document:
+    toc: yes
+    toc_depth: 2
+subtitle: ''
+header-includes: \usepackage[french]{babel}
+---
+
+**Présentation et consignes:** Ce projet contient 2 parties. La première est une présentation succinte de l'objet data frame. La partie qui suit constitue le corps du projet: réaliser et étudier des sondages. Le projet s'effectue en autonomie avec la collaboration de votre partenaire/binôme. Le résultat final attendu est un document à vos deux noms, `pdf` ou `html`, contenant à la fois du code, des figures et des commentaires scientifiques sur les résultats observés.
+
+L'évaluation du travail accompli se basera sur le document produit (8pts), mais aussi sur un examen de type QCM (12pts). Celui portera sur les notions mathématiques de base utiles en théorie des sondages, le code `R` classique utilisés dans la SAE et les observations qualititatives que vous aurez pu faire durant ce travail. Le temps prévu pour réaliser le projet est constitué de 10h de travail personnel auquel s'ajoute 2 séances de 3 heures en classes. L'interrogation écrite aura lieu lors de la dernière séance.
+
+-   **Séance 1,** du 28/05, 3h: présentation du projet, découverte de la base de données, fonction d'échantillonnage et fonctions pour réaliser des intervalles de confiance (section 2.1).
+
+-   Du 28/05 au 04/06, **5h de travail personnel** pour finir la section 2.1 et commencer les sections 2.2, 2.3 et 2.4. Il est important d'aborder ces sections, pour pouvoir poser des questions lors de la séance 2.
+
+-   **Séance 2,** 04/06 , 3h: approffondissement sur les section 2.2, 2.3, 2.4, 2.5 et rémédiation éventuelle sur la section 2.1.
+
+-   Du 04/06 au 13/06, **5h de travail personnel** pour finir le projet, commenter le code et commenter les résultats. Ce temps inclus la révision nécessaire à l'interrogation portant sur les intervalles de confiance et les thématiques abordées dans le projet (cours de statistiques inférentielles et probabilités). **Le 12 au soir, rendu du rapport sur Moodle (cours de probabilités).**
+
+-   **Séance 3,** 13/06, 1h: Interrogation finale sous forme d'un QCM complexe avec pénalité en cas d'erreur (pas de réponses au hasard possibles). Celui-ci portera sur les mathématiques, le code et les enseignements que vous aurez tiré de votre travail.
+
+Bon courage.
+
+**Rappels:**
+
+-   On ouvre une cellule de code avec le raccourci `Ctrl+Alt+i`.
+
+-   Le bouton `knit` permet de générer un fichier `html`, `pdf` ou `word`. Le rendu `html` est le plus joli de prime abord, mais on peut modifier un fichier `word` et générer le `pdf` à partir de ce fichier.
+
+-   L'instruction `eval=FALSE` dans l'accolade de la cellule permet que celle-ci ne soit pas compilée avec `knit`.
+
+-   Si vous chercher de l'aide, il faut privilégier l'ordre suivant: (1) l'aide de `R` (`?nom_de_la_fonction`), (2) une recherche sur internet, (3) votre partenaire pour ce TP et (4) un de vos enseignants.
+
+-   En `R`, on commence presque toujours par situer la session dans le dossier commun. On se place sur le fichier `.Rmd`: `Session`, `set Working Directory` puis `To Source File Location` (utile pour appeler un fichier situé dans le même dossier).
+
+-   Un dernier réflexe consiste à ouvrir votre code par la cellule suivante. Ainsi vous êtes sûr que l'éxecution du code ne dépend pas de variables qui ne sont pas définies dans le fichier (pas très utile avec `.Rmd` lorsque l'exécution est faîte avec `knit`, mais très utile dans certaines cellules ou dans les fichiers `.R`).
+
+```{r}
+# Efface tous les objets de l'environnement
+rm(list=ls())
+```
+
+**Attention:** Il faudra éviter que le document final contienne le data frame imprimé car: (1) personne n'aime lire plusieurs milliers de lignes de chiffres, (2) cela pourrait donner l'impression que vous ne portez pas d'intérêt à votre travail ou que vous ne donnez pas de sens à ce que vous faîtes. L'important est de comprendre vos codes et résultats. Cela est mis en évidence par la qualité de votre discours scientifique: "Ce que l'on conçoit bien s'énonce clairement ..."(N. Boileau). Il convient aussi d'éviter quelques éceuils fréquents, dont par exemple:
+
+-   conserver dans le document final des éléments non pertinents à la lecture (consignes générales, rappels sur les data frames, ...),
+
+-   exposer des suites de résultats numériques non-commentés, ou des lignes de codes sans titre ni commentaires,
+
+-   et le pire, l'impression brut d'un échantillon comme ci-dessous.
+
+```{r}
+plot(runif(100),type="l",main="Production non-scientifique ayant l'air savante")
+```
+
+\newpage
+
+# 1. Les data frames et les fonctions
+
+Les data frame sont largement utilisés pour contenir des données. Ce sont des listes de classe `data.frame` dont tous les éléments ont la même longueur. Normalement, dans un data frame les colonnes sont les **variables** et les lignes les **observations**. Les éléments d'un data frame peuvent avoir des modes différents.
+
+**Création d'un data frame:**
+
+```{r}
+id <- c('id.442', 'id.443', 'id.444', 'id.445', 'id.446', 'id.447', 'id.448', 'id.449')
+age <- c(19, 45, 67, 53, 17, 30, 27, 35)
+fumeur <- c(TRUE, FALSE, TRUE, TRUE, FALSE, TRUE, TRUE, TRUE)
+data1 <- data.frame(Id=id, Age=age, Fumeur=fumeur)
+dim(data1); nrow(data1); ncol(data1)
+names(data1)
+```
+
+**Extraction des éléments d'un data frame**
+
+```{r}
+data1$Id # une colonne de caractères est transformèe en facteur
+data1[,2]
+data1$Age[data1$Fumeur==FALSE]
+```
+
+Les colonnes sont directement accessibles dans l'espace de travail (sans devoir taper le nom du data frame et le `$`) après avoir attaché le data frame:
+
+```{r}
+attach(data1)
+Age
+```
+
+**Un aperçu du data frame**
+
+Pour afficher seulement les six premières lignes:
+
+```{r}
+head(data1)
+```
+
+et les six dernières: `tail()`.
+
+Pour un résumé:
+
+```{r}
+summary(data1)
+```
+
+**Lecture (et écriture) d'un fichier `csv` contenant un objet data frame de `R`**
+
+Pour enregister un data frame sous la forme d'un fichier `csv`:
+
+```{r}
+write.csv(data1,"test.csv")
+```
+
+On peut maintenant effacer le data frame `data1` de la mémoire de `R` et le récupérer à l'aide des lignes suivantes:
+
+```{r}
+rm(data1)
+data1=read.csv("test.csv")
+#remarquer qu'une colonne doublon d'indice est apparu au premier rang.
+# on la retire comme suit :
+data1=data1[(-1)]
+```
+
+**Les fonctions**
+
+Un premier exemple:
+
+```{r}
+ma.fonction <- function(x,y=10){ 
+  # la valeur par défaut de y est 10
+  z=x-2*y
+  return(z)
+}
+ma.fonction(2)
+ma.fonction(2,4)
+ma.fonction(y=1, x=4)
+```
+
+Toute variable définie dans une fonction est *locale* et n'apparaît pas dans l'espace de travail: essayer d'exécuter
+
+```{r,eval=FALSE}
+z
+```
+
+Un second exemple dans lequel on retourne deux valeurs sous forme de liste:
+
+```{r}
+ma.fonction.complexe <- function(r,theta){ 
+  a=r*cos(theta)
+  b=r*sin(theta)
+  return(list(partie_reelle=a, partie_imaginaire=b))
+}
+ma.fonction.complexe(sqrt(2),pi/4) 
+```
+
+\newpage
+
+# 2. Sondages
+
+Le sondage est une méthode de la statistique inférentielle. Il a pour objectif d'évaluer les paramètres ou les proportions de certaines caractéristiques d'une population cible.
+
+**Un exemple:** combien de fois les français agés de 18 à 30 ans ont-ils votés en moyenne, à quels types d'élection et pour quels partis ? La population cible est "les français agées de 18 à 30 ans". Les paramètres et proportions sont le nombre moyen de votes auxquels les indidividus ont pris part, la proportion de votes à telles ou telles élections ou pour tels ou tels partis.
+
+Cependant, les données ont un coût et la plupart du temps, il n'est pas possible d'effectuer un complet recensement des caractéristiques de la population. On parle de sondage lorsque l'évaluation se base sur une partie limitée de la population cible. Cette sous-partie est appelé l'échantillon. L'étude de l'échantillon permet d'inférer les caractéristiques de la population cible. Dans le cas d'une moyenne ou d'une proportion, l'échantillon nous permet de calculer une estimation et les marges d'erreurs probables de cette estimation. C'est ce qu'on appelle un intervalle de confiance.
+
+![*Echantillonnage*](echantillon-population.png){width="70%"}
+
+**Quel âge ont les mères ou les pères à la naissance de leur enfant (en 2019) ?** C'est la principale question à laquelle il vous sera demander d'apporter une réponse statistique. Plutôt que de vous envoyer interroger au hasard des centaines d'individus dans la rue ou par téléphone, nous avons choisi de vous faire travailler à partir d'une base de données de l'Insee fournissant la liste anonymisée des [naissances en 2019](https://www.insee.fr/fr/statistiques/4768335?sommaire=4768339#consulter)). Bien sûr cette base contient la totalité de la population et il serait plus efficace, du point de vue de la qualité des résultats, d'effectuer une analyse descriptive de toute la base. **Mais ce n'est pas le but. Ce projet se fixe pour objectif la mise en oeuvre de sondage et l'étude de la qualité des sondages effectués. Cela nécessite de considérer que l'on a un accès partiel à la base de donnée: l'échantillon tiré .**
+
+Notez qu'il est très pratique de posséder l'intégralité des données de la population cible. Les estimations faîtes sur la base de l'échantillon tiré peuvent être comparer avec les vrais paramètres de la population.
+
+Si vous avez téléchargé la base de données, vous pouvez la charger sous forme de data frame avec la ligne suivante:
+
+```{r,eval=FALSE}
+data=read.csv("FD_NAIS_2019.csv",sep=";")
+# description des caractéristiques de la base de données
+#description=read.csv("varmod_NAIS_2019.csv",sep=";")
+```
+
+## 2.1 Génération d'échantillons
+
+Créer une fonction `echantillonnage` permettant d'extraire de la base de données des échantillons de la taille que l'on souhaite. Les tirages aléatoires pour constituer ces échantillons doivent être **uniformes et indépendants**.
+
+La fonction `echantillonnage` prendra en paramètres d'entrée un vecteur contenant les valeurs d'une caractéristique pour une large population et la taille de l'échantillon que l'on souhaite extraire de cette population. Elle renverra un vecteur contenant les valeurs de la caractéristique associées à cette échantillon.
+
+## 2.2 Estimations ponctuelles
+
+
+1.  Pour chacune des caractéristiques:
+
+a)  l'âge de la mère,
+
+b)  l'âge du père,
+
+construire un échantillon avec votre fonction `echantillonnage` et proposer une estimation ponctuelle de la caractéristique à évaluer.
+
+2.  Donner une estimation ponctuelle non biaisée de la variance de l'âge de de la mère.
+
+## 2.3 Estimations par intervalles de confiance
+
+1.  Créer une fonction fournissant un intervalle de confiance pour chacune des  caractéristiques du paragraphe précédent (2.2). Le niveau de confiance `conf_level` pourra être choisi par l'utilisateur  (paramètre de la fonction). L'intervalle sera centré sur l'estimation ponctuelle. **Pour cette question, vous vous poserez notamment les questions suivantes: la variance de la caractéristique étudiée est-elle connue ? est-elle seulement estimée ? Quels quantiles interviennent dans la définition de l'intervalle de confiance ? Il existe en fait une fonction R prédéfinie qui calcule directement de tels intervalles de confiance. Vous pourrez l'utiliser pour vérifier vos résultats mais vous devrez dans tous les cas écrire par vous même un code R faisant ce travail.**
+
+2. Comment la longueur de l'intervalle de confiance varie-t-elle quand on change le niveau de confiance ? Même question quand la taille de l'échantillon augmente.
+
+2.  Un intervalle de confiance pour une moyenne n'est pas nécessairement centré sur la moyenne d'échantillon $\overline{X}_n$; par exemple s'il est important de ne pas sous-estimer la moyenne, on peut préférer un intervalle de confiance borné seulement à gauche, c'est à dire de la forme $[a;+\infty[$. Créer une nouvelle fonction qui renvoit un intervalle de confiance de la forme $[a;+\infty[$ et un autre de la forme $]-\infty;b]$ pour l'âge de la mère. **Vous veillerez à choisir convenablement les quantiles pour construire de tels intervalles de confiance.**
+
+## 2.4 Etude de la qualité des sondages
+
+Dans cette partie, on cherche à étudier la qualité des marges d'erreurs des intervalles de confiance.
+
+Protocole: (1) générer un grand nombre d'échantillons de même taille, (2) déterminer les intervalles de confiance associés aux échantillons tirés ($\alpha$ est fixe), (3) calculer la proportion des intervalles de confiance obtenus qui contiennent la vraie valeur (celle de la population).
+
+-   De quelle valeur théorique devrait s'approcher la proportion des intervalles de confiance contenant la vraie moyenne ?
+
+-   Créer le code permettant de réaliser le protocole ci-dessus.
+
+-   Faire varier la caractéristique à étudier, la taille de l'échantillon, le niveau de confiance ... et commentez les résultats.
+
+## 2.5 Naît-il plus de filles ou de garçons ?
+
+Pour cette partie, il s'agit de faire un pas de côté. **Désormais, la population cible n'est plus celle de la base de données,** mais une population plus grande et théorique dont aurait été extraite la base de données. Par exemple, les naissances dans le monde en 2019, ou les naissances en France depuis 1 siècle, ou encore toutes les naissances possible d'êtres humains. **De plus, on ne dispose plus que d'un seul échantillon de très grande taille: notre base de données.**
+
+Le problème part de l'observation suivante: parmi les enfants naît en 2019, il y a légèrement plus d'enfants de sexe masculin que d'enfants de sexe féminin (variable `SEXE`). Serait-il raisonnable de penser que cette observation n'est pas dû au hasard, mais qu'elle traduit une forme de vérité potentiellement valable en d'autre temps et d'autres lieux: "les bébés humains sont plus souvent de sexe masculin"?
+
+Pour étudier ce problème, il faut utiliser le théorème suivant.
+
+**Théorème:** Soit $\overline{X}_n$ la moyenne empirique d'un $n$-échantillon de loi de Bernoulli $\mathcal{B}(p).$ On a: $$\dfrac{\sqrt{n}  (\overline{X}_n-p)}{\sqrt{p(1-p)}}\underset{n\rightarrow +\infty}{\overset{\mathcal{L}}\rightarrow} N(0,1)$$ Cela signifie que pour $n$ suffisamment grand ($n>100$), il est raisonnable d'approcher la distribution de la v.a. $\sqrt{\frac{n}{p(1-p)}}(\overline{X}_n-p)$ par une loi normale centrée réduite.
+
+Servez-vous de ce théorème pour déterminer un intervalle de confiance de la probabilité qu'un nouveau né soit de sexe masculin. Faîtes varier le niveau de confiance: $\alpha=0.95, 0.99, 0.999 ...$ Quelles sont vos conclusions ?

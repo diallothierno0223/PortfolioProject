@@ -1,0 +1,13 @@
+Fracture N° 280
+Date commande : 0021-06-14T03:28:41
+----------------------------------------------------------------------------------------
+Nom Client : Trafalgar D. Water Law
+Adresse Client : Pays de Wano
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Cristal du Siecle Oublie       : 1        * 63.75           = 63.75 
+Armes du Fournisseur           : 10       * 50.40           = 504.00 
+Colliers avec des dents de requin : 1        * 41.40           = 41.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 609.15
+Total avec taxe : 730.9799999999999

@@ -1,0 +1,12 @@
+Fracture N° 154
+Date commande : 0016-10-21T20:07:56
+----------------------------------------------------------------------------------------
+Nom Client : Usopp
+Adresse Client : Atelier d'Usopp, Long Beach
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Figurines de legendaires pirates : 2        * 60.15           = 120.30 
+Sceptre du Monde Celeste       : 11       * 29.00           = 319.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 439.3
+Total avec taxe : 527.16

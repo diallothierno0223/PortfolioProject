@@ -1,0 +1,11 @@
+Fracture N° 423
+Date commande : 0027-06-21T04:19:19
+----------------------------------------------------------------------------------------
+Nom Client : Garp
+Adresse Client : Salle des Amiraux, Marine HQ, Sabaody
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Porte-cles Gouvernail en Laiton : 1        * 62.45           = 62.45 
+----------------------------------------------------------------------------------------
+Total hors taxe : 62.45
+Total avec taxe : 74.94

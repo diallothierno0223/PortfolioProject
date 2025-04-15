@@ -1,0 +1,15 @@
+Fracture N° 408
+Date commande : 0026-09-22T11:20:20
+----------------------------------------------------------------------------------------
+Nom Client : Trafalgar D. Water Law
+Adresse Client : Pays de Wano
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Figurines articulees de pirates : 1        * 48.20           = 48.20 
+Masque de Norland              : 1        * 64.55           = 64.55 
+Pendules de bord vintage       : 1        * 0.05            = 0.05 
+Bras Cyborg de Franky          : 2        * 10.30           = 20.60 
+Briquets a l'effigie de pirates : 7        * 72.75           = 509.25 
+----------------------------------------------------------------------------------------
+Total hors taxe : 642.65
+Total avec taxe : 771.18

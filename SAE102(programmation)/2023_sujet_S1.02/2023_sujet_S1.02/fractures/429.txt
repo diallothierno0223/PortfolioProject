@@ -1,0 +1,14 @@
+Fracture N° 429
+Date commande : 0027-08-24T09:19:05
+----------------------------------------------------------------------------------------
+Nom Client : Tony Tony Chopper
+Adresse Client : Bureau du Docteur Kureha, Montagne Drum
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Tapis de Souris Gouvernail     : 5        * 59.30           = 296.50 
+Sac a Dos du Fournisseur       : 6        * 36.15           = 216.90 
+Masque de Demon de l'Enfer     : 4        * 98.60           = 394.40 
+Chapeau de Fourrure de Mink    : 1        * 83.50           = 83.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 991.3
+Total avec taxe : 1189.56

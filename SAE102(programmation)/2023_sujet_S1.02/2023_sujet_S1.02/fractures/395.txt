@@ -1,0 +1,15 @@
+Fracture N° 395
+Date commande : 0026-03-24T01:28:08
+----------------------------------------------------------------------------------------
+Nom Client : Hina
+Adresse Client : Base Navale G-8, G-8
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Anciens sextants de navigation : 1        * 81.45           = 81.45 
+Gants de Gouvernail en Cuir    : 5        * 90.30           = 451.50 
+Poupees de pirates en peluche  : 1        * 48.45           = 48.45 
+T-shirt de Impel Down          : 1        * 21.30           = 21.30 
+Epee Buster Call               : 2        * 0.05            = 0.10 
+----------------------------------------------------------------------------------------
+Total hors taxe : 602.8000000000001
+Total avec taxe : 723.36

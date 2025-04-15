@@ -1,0 +1,14 @@
+Fracture N° 341
+Date commande : 0024-01-20T14:23:09
+----------------------------------------------------------------------------------------
+Nom Client : Sengoku
+Adresse Client : Plaza Marineford, Marineford
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Affiches encadrees de batailles navales : 1        * 61.30           = 61.30 
+Bracelet de l'Arbre Sabondy    : 8        * 102.80          = 822.40 
+Maquettes de navires de legende : 6        * 5.85            = 35.10 
+Drapeau de l'Equipage du Chapeau de Paille : 1        * 74.90           = 74.90 
+----------------------------------------------------------------------------------------
+Total hors taxe : 993.6999999999999
+Total avec taxe : 1192.4399999999998

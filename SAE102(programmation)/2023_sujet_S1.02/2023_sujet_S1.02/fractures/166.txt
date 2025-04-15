@@ -1,0 +1,14 @@
+Fracture N° 166
+Date commande : 0017-04-13T17:05:31
+----------------------------------------------------------------------------------------
+Nom Client : Baby 5
+Adresse Client : Base de Doflamingo, Punk Hazard
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Livres de recits de pirates    : 7        * 24.40           = 170.80 
+Services de table maritimes    : 1        * 54.10           = 54.10 
+Robe de Sabaody                : 1        * 53.30           = 53.30 
+Cape du Ciel                   : 1        * 112.00          = 112.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 390.2
+Total avec taxe : 468.23999999999995

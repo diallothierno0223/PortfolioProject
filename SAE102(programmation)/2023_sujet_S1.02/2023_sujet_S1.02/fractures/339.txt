@@ -1,0 +1,13 @@
+Fracture N° 339
+Date commande : 0023-10-29T13:04:58
+----------------------------------------------------------------------------------------
+Nom Client : Buggy le Clown
+Adresse Client : Place du Marche, Fuschia
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Briques de Lego de navires pirates : 1        * 28.10           = 28.10 
+Bouclier du Colisee Corrida    : 1        * 14.95           = 14.95 
+Drapeau de l'Equipage du Chapeau de Paille : 3        * 47.15           = 141.45 
+----------------------------------------------------------------------------------------
+Total hors taxe : 184.5
+Total avec taxe : 221.4

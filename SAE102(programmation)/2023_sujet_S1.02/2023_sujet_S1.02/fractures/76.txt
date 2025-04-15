@@ -1,0 +1,13 @@
+Fracture N° 76
+Date commande : 0013-07-24T22:28:42
+----------------------------------------------------------------------------------------
+Nom Client : Portgas D. Ace
+Adresse Client : Port de Fuschia
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Instruments de navigation anciens : 5        * 38.65           = 193.25 
+Medaillon du Siecle Oublie     : 3        * 43.60           = 130.80 
+T-shirt de Wano                : 1        * 70.30           = 70.30 
+----------------------------------------------------------------------------------------
+Total hors taxe : 394.35
+Total avec taxe : 473.22

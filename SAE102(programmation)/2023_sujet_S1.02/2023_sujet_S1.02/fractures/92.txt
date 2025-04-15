@@ -1,0 +1,14 @@
+Fracture N° 92
+Date commande : 0014-07-14T04:06:15
+----------------------------------------------------------------------------------------
+Nom Client : Senor Pink
+Adresse Client : Bar des Sourires, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Fruit du Demon Mera Mera       : 7        * 65.40           = 457.80 
+T-shirt de Dressrosa           : 5        * 33.40           = 167.00 
+Veste de Capitaine du Voile    : 9        * 17.70           = 159.30 
+Tresor d'Or en Boite           : 1        * 71.40           = 71.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 855.5
+Total avec taxe : 1026.6

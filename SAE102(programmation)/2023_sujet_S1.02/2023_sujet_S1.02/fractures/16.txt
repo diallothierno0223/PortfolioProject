@@ -1,0 +1,12 @@
+Fracture N° 16
+Date commande : 0010-08-17T14:44:51
+----------------------------------------------------------------------------------------
+Nom Client : Inuarashi
+Adresse Client : Mont Inuarashi, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Boussole du Fournisseur        : 6        * 76.50           = 459.00 
+Statuette de Luffy             : 1        * 7.70            = 7.70 
+----------------------------------------------------------------------------------------
+Total hors taxe : 466.7
+Total avec taxe : 560.04

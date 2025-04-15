@@ -1,0 +1,11 @@
+Fracture N° 331
+Date commande : 0023-08-24T21:27:28
+----------------------------------------------------------------------------------------
+Nom Client : Crocodile
+Adresse Client : Casino Rain Dinners, Rainbase
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Colliers avec des dents de requin : 1        * 41.40           = 41.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 41.4
+Total avec taxe : 49.68

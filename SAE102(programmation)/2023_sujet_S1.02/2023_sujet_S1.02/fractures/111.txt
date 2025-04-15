@@ -1,0 +1,11 @@
+Fracture N° 111
+Date commande : 0015-04-17T09:14:28
+----------------------------------------------------------------------------------------
+Nom Client : Inuarashi
+Adresse Client : Mont Inuarashi, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Maquettes de navires de legende : 3        * 5.85            = 17.55 
+----------------------------------------------------------------------------------------
+Total hors taxe : 17.549999999999997
+Total avec taxe : 21.059999999999995

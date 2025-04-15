@@ -1,0 +1,15 @@
+Fracture N° 101
+Date commande : 0014-12-19T07:07:25
+----------------------------------------------------------------------------------------
+Nom Client : Igaram
+Adresse Client : Rue des Marchands, Alubarna
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bracelet du Joker              : 8        * 57.40           = 459.20 
+Boussole a Energie Solaire de Franky : 2        * 58.30           = 116.60 
+T-shirt de Sogeking            : 7        * 68.75           = 481.25 
+Figurines articulees de pirates : 5        * 10.80           = 54.00 
+Bouclier du Colisee Corrida    : 3        * 14.95           = 44.85 
+----------------------------------------------------------------------------------------
+Total hors taxe : 1155.8999999999999
+Total avec taxe : 1387.0799999999997

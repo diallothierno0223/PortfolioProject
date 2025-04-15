@@ -1,0 +1,11 @@
+Fracture N° 413
+Date commande : 0026-11-21T20:22:53
+----------------------------------------------------------------------------------------
+Nom Client : Vinsmoke Sanji
+Adresse Client : Restaurant Baratie, All Blue Market
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Livre de la Foret des Bulles   : 5        * 65.80           = 329.00 
+----------------------------------------------------------------------------------------
+Total hors taxe : 329.0
+Total avec taxe : 394.8

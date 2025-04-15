@@ -1,0 +1,11 @@
+Fracture N° 452
+Date commande : 0028-05-05T07:17:20
+----------------------------------------------------------------------------------------
+Nom Client : Nami
+Adresse Client : Rue des Cartographes, Oranje
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Robe de Sabaody                : 1        * 53.30           = 53.30 
+----------------------------------------------------------------------------------------
+Total hors taxe : 53.3
+Total avec taxe : 63.959999999999994

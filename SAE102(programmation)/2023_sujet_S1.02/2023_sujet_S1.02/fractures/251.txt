@@ -1,0 +1,14 @@
+Fracture N° 251
+Date commande : 0020-07-01T22:58:39
+----------------------------------------------------------------------------------------
+Nom Client : Absalom
+Adresse Client : Jardin des Zombies, Thriller Bark
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Masque de Norland              : 5        * 64.55           = 322.75 
+Bouclier du Colisee Corrida    : 1        * 14.95           = 14.95 
+Cape du Ciel                   : 1        * 112.00          = 112.00 
+Drapeaux de Jolly Roger authentiques : 1        * 74.05           = 74.05 
+----------------------------------------------------------------------------------------
+Total hors taxe : 523.75
+Total avec taxe : 628.5

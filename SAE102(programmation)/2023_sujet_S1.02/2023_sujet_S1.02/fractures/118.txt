@@ -1,0 +1,13 @@
+Fracture N° 118
+Date commande : 0015-08-22T22:23:40
+----------------------------------------------------------------------------------------
+Nom Client : Baby 5
+Adresse Client : Base de Doflamingo, Punk Hazard
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bague de l'Arbre Sabondy       : 1        * 0.80            = 0.80 
+Statuette de Riku Doldo III    : 5        * 65.55           = 327.75 
+Bouclier du Colisee Corrida    : 5        * 14.95           = 74.75 
+----------------------------------------------------------------------------------------
+Total hors taxe : 403.3
+Total avec taxe : 483.96

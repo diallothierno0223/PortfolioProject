@@ -1,0 +1,14 @@
+Fracture N° 30
+Date commande : 0011-04-21T13:40:03
+----------------------------------------------------------------------------------------
+Nom Client : Fukurou
+Adresse Client : Quartiers des Gardiens, Enies Lobby
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Gants de Cipher Pol            : 1        * 36.45           = 36.45 
+T-shirt de Dressrosa           : 3        * 33.40           = 100.20 
+Colliers avec des dents de requin : 1        * 41.40           = 41.40 
+Drapeau de l'Equipage du Chapeau de Paille : 1        * 47.15           = 47.15 
+----------------------------------------------------------------------------------------
+Total hors taxe : 225.2
+Total avec taxe : 270.23999999999995

@@ -1,0 +1,11 @@
+Fracture N° 360
+Date commande : 0024-10-15T18:19:20
+----------------------------------------------------------------------------------------
+Nom Client : Vista
+Adresse Client : Jardins de Merveille, Merveille
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Broches d'inspiration pirate   : 1        * 70.95           = 70.95 
+----------------------------------------------------------------------------------------
+Total hors taxe : 70.95
+Total avec taxe : 85.14

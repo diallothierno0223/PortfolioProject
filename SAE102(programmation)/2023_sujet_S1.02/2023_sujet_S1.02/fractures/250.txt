@@ -1,0 +1,14 @@
+Fracture N° 250
+Date commande : 0020-06-27T22:15:29
+----------------------------------------------------------------------------------------
+Nom Client : Brook
+Adresse Client : Bateau Thousand Sunny, Florian Triangle
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Tirelires en forme de tonneaux : 1        * 0.05            = 0.05 
+Boucles d'Oreilles de Gouvernail : 1        * 54.50           = 54.50 
+Telescopes a vision nocturne   : 1        * 19.40           = 19.40 
+Collier de Wano                : 1        * 73.25           = 73.25 
+----------------------------------------------------------------------------------------
+Total hors taxe : 147.2
+Total avec taxe : 176.64

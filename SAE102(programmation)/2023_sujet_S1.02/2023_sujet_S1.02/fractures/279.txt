@@ -1,0 +1,11 @@
+Fracture N° 279
+Date commande : 0021-05-05T01:19:08
+----------------------------------------------------------------------------------------
+Nom Client : Vivi
+Adresse Client : Palais d'Alubarna, Alubarna
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Katana Shusui                  : 5        * 66.15           = 330.75 
+----------------------------------------------------------------------------------------
+Total hors taxe : 330.75
+Total avec taxe : 396.9

@@ -1,0 +1,13 @@
+Fracture N° 273
+Date commande : 0021-03-03T20:36:30
+----------------------------------------------------------------------------------------
+Nom Client : Kawamatsu
+Adresse Client : Riviere Kawamatsu, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Tapis de Loguetown             : 11       * 28.80           = 316.80 
+Figurine de Pluton             : 1        * 21.30           = 21.30 
+Sabre de l'Equipage d'Or       : 2        * 28.20           = 56.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 394.5
+Total avec taxe : 473.4

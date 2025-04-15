@@ -1,0 +1,13 @@
+Fracture N° 47
+Date commande : 0012-01-17T14:56:55
+----------------------------------------------------------------------------------------
+Nom Client : Monet
+Adresse Client : Jardin Gele, Punk Hazard
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Gants du Colisee Corrida       : 9        * 63.95           = 575.55 
+Tapis de Loguetown             : 3        * 28.80           = 86.40 
+T-shirt du Fruit du Demon      : 1        * 52.15           = 52.15 
+----------------------------------------------------------------------------------------
+Total hors taxe : 714.1
+Total avec taxe : 856.92

@@ -1,0 +1,12 @@
+Fracture N° 174
+Date commande : 0017-09-01T18:49:28
+----------------------------------------------------------------------------------------
+Nom Client : Charlotte Linlin (Big Mom)
+Adresse Client : Salle du Trone, Whole Cake Chateau
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Wado Ichimonji                 : 1        * 35.50           = 35.50 
+Boussole a Energie Solaire de Franky : 4        * 58.30           = 233.20 
+----------------------------------------------------------------------------------------
+Total hors taxe : 268.7
+Total avec taxe : 322.44

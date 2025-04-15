@@ -1,0 +1,12 @@
+Fracture N° 218
+Date commande : 0019-01-26T17:40:05
+----------------------------------------------------------------------------------------
+Nom Client : Yamato
+Adresse Client : Cavernes des Ruines, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bouclier de Defi Davy Back     : 9        * 26.95           = 242.55 
+Gateau du Fruit du Demon       : 7        * 65.85           = 460.95 
+----------------------------------------------------------------------------------------
+Total hors taxe : 703.4999999999999
+Total avec taxe : 844.1999999999998

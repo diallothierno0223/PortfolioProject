@@ -1,0 +1,15 @@
+Fracture N° 100
+Date commande : 0014-12-10T23:27:09
+----------------------------------------------------------------------------------------
+Nom Client : Kalifa
+Adresse Client : Salle de la Justice, Enies Lobby
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Eventail en Forme de Gateau    : 1        * 36.70           = 36.70 
+Fruit du Demon Gura Gura       : 4        * 54.50           = 218.00 
+Sac de Sabaody                 : 1        * 46.85           = 46.85 
+T-shirt du Fournisseur         : 1        * 61.20           = 61.20 
+Boussole du Ciel               : 1        * 96.05           = 96.05 
+----------------------------------------------------------------------------------------
+Total hors taxe : 458.8
+Total avec taxe : 550.56

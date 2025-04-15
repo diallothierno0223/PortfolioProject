@@ -1,0 +1,13 @@
+Fracture N° 158
+Date commande : 0016-11-29T17:52:34
+----------------------------------------------------------------------------------------
+Nom Client : Nekomamushi
+Adresse Client : Mont Nekomamushi, Kuri
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Patisserie des Iles Caramel    : 6        * 43.35           = 260.10 
+Pendentif des Dragons Celestes : 1        * 60.70           = 60.70 
+Casquette de Luffy             : 4        * 74.60           = 298.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 619.2
+Total avec taxe : 743.0400000000001

@@ -1,0 +1,14 @@
+Fracture N° 21
+Date commande : 0010-11-07T01:31:47
+----------------------------------------------------------------------------------------
+Nom Client : Vista
+Adresse Client : Jardins de Merveille, Merveille
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Maquette du Siecle Oublie      : 1        * 56.00           = 56.00 
+Drapeau de Sogeking            : 5        * 29.20           = 146.00 
+T-shirts arborant des emblemes pirates : 1        * 59.35           = 59.35 
+Manteau de l'Amiral            : 1        * 23.40           = 23.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 284.75
+Total avec taxe : 341.7

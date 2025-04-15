@@ -1,0 +1,12 @@
+Fracture N° 326
+Date commande : 0023-04-09T00:13:41
+----------------------------------------------------------------------------------------
+Nom Client : Rebecca
+Adresse Client : Colisee de Dressrosa, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Collier du Voile               : 1        * 70.90           = 70.90 
+Fruit du Demon Bara Bara       : 1        * 48.30           = 48.30 
+----------------------------------------------------------------------------------------
+Total hors taxe : 119.2
+Total avec taxe : 143.04

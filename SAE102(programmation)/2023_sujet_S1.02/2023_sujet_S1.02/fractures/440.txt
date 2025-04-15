@@ -1,0 +1,12 @@
+Fracture N° 440
+Date commande : 0028-01-16T08:27:58
+----------------------------------------------------------------------------------------
+Nom Client : Igaram
+Adresse Client : Rue des Marchands, Alubarna
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Sabres forges en acier de qualite marine : 5        * 75.25           = 376.25 
+Montre de Compteur Davy Back   : 1        * 58.60           = 58.60 
+----------------------------------------------------------------------------------------
+Total hors taxe : 434.85
+Total avec taxe : 521.82

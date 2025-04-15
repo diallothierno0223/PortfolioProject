@@ -1,0 +1,15 @@
+Fracture N° 62
+Date commande : 0012-08-23T23:12:36
+----------------------------------------------------------------------------------------
+Nom Client : Dr. Hiriluk
+Adresse Client : Chambre du Dr. Hiriluk, Drum Rockies
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Bouclier de Barreaux           : 1        * 66.85           = 66.85 
+Boussole Doree                 : 1        * 38.05           = 38.05 
+Eventail en Forme de Gateau    : 1        * 36.70           = 36.70 
+T-shirt de Impel Down          : 8        * 21.30           = 170.40 
+Masque de Norland              : 1        * 64.55           = 64.55 
+----------------------------------------------------------------------------------------
+Total hors taxe : 376.55
+Total avec taxe : 451.86

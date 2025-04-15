@@ -1,0 +1,15 @@
+Fracture N° 8
+Date commande : 0010-06-19T12:51:24
+----------------------------------------------------------------------------------------
+Nom Client : Fujitora
+Adresse Client : Plateau Royal, Dressrosa
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Briques de Lego de navires pirates : 11       * 28.10           = 309.10 
+Boucles d'oreilles de perles noires : 1        * 0.05            = 0.05 
+Sabres de bordee               : 1        * 81.65           = 81.65 
+Poupees de pirates en peluche  : 7        * 48.45           = 339.15 
+Bouclier de Defi Davy Back     : 1        * 26.95           = 26.95 
+----------------------------------------------------------------------------------------
+Total hors taxe : 756.9000000000001
+Total avec taxe : 908.2800000000001

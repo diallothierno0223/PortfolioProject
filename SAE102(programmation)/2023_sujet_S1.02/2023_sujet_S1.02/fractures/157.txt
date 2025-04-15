@@ -1,0 +1,15 @@
+Fracture N° 157
+Date commande : 0016-11-17T03:25:23
+----------------------------------------------------------------------------------------
+Nom Client : Boa Hancock
+Adresse Client : Palais Royal, Amazon Lily
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Coffret a Tresor du Sunny      : 9        * 45.20           = 406.80 
+Drapeaux de Jolly Roger authentiques : 1        * 74.05           = 74.05 
+Drapeau du Ciel                : 1        * 8.70            = 8.70 
+Statuette de Luffy             : 1        * 7.70            = 7.70 
+Pendentif du Joker             : 1        * 42.10           = 42.10 
+----------------------------------------------------------------------------------------
+Total hors taxe : 539.35
+Total avec taxe : 647.22

@@ -1,0 +1,15 @@
+Fracture N° 455
+Date commande : 0028-05-19T15:03:17
+----------------------------------------------------------------------------------------
+Nom Client : Sengoku
+Adresse Client : Plaza Marineford, Marineford
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Pendentif des Dragons Celestes : 2        * 60.70           = 121.40 
+Bras Cyborg de Franky          : 1        * 10.30           = 10.30 
+Wado Ichimonji                 : 1        * 35.50           = 35.50 
+Pendentif de Thriller Bark     : 2        * 85.15           = 170.30 
+Modele de Vogue Merry          : 1        * 38.30           = 38.30 
+----------------------------------------------------------------------------------------
+Total hors taxe : 375.8
+Total avec taxe : 450.96

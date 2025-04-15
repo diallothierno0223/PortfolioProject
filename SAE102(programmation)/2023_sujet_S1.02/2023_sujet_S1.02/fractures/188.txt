@@ -1,0 +1,14 @@
+Fracture N° 188
+Date commande : 0018-01-12T14:41:55
+----------------------------------------------------------------------------------------
+Nom Client : Vergo
+Adresse Client : Laboratoire de Vergo, Punk Hazard
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Fruit du Demon Bara Bara       : 1        * 48.30           = 48.30 
+Drapeau du Voile               : 1        * 4.75            = 4.75 
+Statuette de Riku Doldo III    : 4        * 65.55           = 262.20 
+Boucles d'Oreilles de Gouvernail : 3        * 54.50           = 163.50 
+----------------------------------------------------------------------------------------
+Total hors taxe : 478.75
+Total avec taxe : 574.5

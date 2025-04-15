@@ -1,0 +1,13 @@
+Fracture N° 102
+Date commande : 0014-12-31T06:39:06
+----------------------------------------------------------------------------------------
+Nom Client : Vivi
+Adresse Client : Palais d'Alubarna, Alubarna
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Tunique du Colisee Corrida     : 9        * 15.60           = 140.40 
+Boussole de Shandora           : 8        * 98.95           = 791.60 
+Masque de Norland              : 1        * 64.55           = 64.55 
+----------------------------------------------------------------------------------------
+Total hors taxe : 996.55
+Total avec taxe : 1195.86

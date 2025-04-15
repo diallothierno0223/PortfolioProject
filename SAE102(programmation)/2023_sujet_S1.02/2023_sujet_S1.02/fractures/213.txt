@@ -1,0 +1,13 @@
+Fracture N° 213
+Date commande : 0018-11-28T18:15:56
+----------------------------------------------------------------------------------------
+Nom Client : Red-Haired Shanks
+Adresse Client : Bar de Makino, Fuschia
+---------------------------------------- product ----------------------------------------
+product name                   : quantity * prix unit       = prix total 
+Cadenas de coffres de pirates  : 2        * 40.80           = 81.60 
+Cape de Cipher Pol             : 1        * 48.85           = 48.85 
+Bracelet du Joker              : 1        * 57.40           = 57.40 
+----------------------------------------------------------------------------------------
+Total hors taxe : 187.85
+Total avec taxe : 225.42
