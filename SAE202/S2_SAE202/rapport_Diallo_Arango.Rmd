@@ -3,15 +3,15 @@ title: 'SAE: Sondages simples'
 author: "Diallo Thierno | Imany Arango Catty"
 date: " RESSOURCES: Statistiques inférentielles et Probabilités"
 output:
-  html_document:
-    toc: yes
-    toc_depth: 2
-  word_document:
-    toc: yes
-    toc_depth: '2'
   pdf_document:
     toc: yes
     toc_depth: '2'
+  word_document:
+    toc: yes
+    toc_depth: '2'
+  html_document:
+    toc: yes
+    toc_depth: 2
 subtitle: ''
 header-includes: \usepackage[french]{babel}
 ---
